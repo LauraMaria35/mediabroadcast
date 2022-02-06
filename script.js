@@ -1792,3 +1792,57 @@ function SchimbarileClimatice() {
         <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
 }
+
+function pinguinii(){
+    `
+    <div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>Pinguinii - o pereche homosexuală îngrijește un ou</h1>
+                    <br><br>
+                    <p><br>
+                        Printre toate știrile tulburătoare, un mic memento că Dumnezeu este bun, iar natura este
+                        minunată.
+                        <br><br>
+                        Directorul grădinii zoologice, Ted Fox, a declarat că nu toate perechile de pinguini se pricep
+                        la incubarea ouălor, dar "Elmer și Lima au fost exemplari în fiecare aspect al îngrijirii
+                        ouălor".
+                        <br><br>
+                        ----------------------------
+                        <br><br>
+                        O pereche de pinguini Humboldt masculi de la o grădină zoologică din New York au devenit părinți
+                        adoptivi pentru un nou pui eclozat.
+                        <br><br>
+                        Grădina zoologică Rosamond Gifford din Syracuse spune că, cuplul adoptiv de același sex, Elmer
+                        și Lima, reprezintă o premieră pentru grădina zoologică, deși alte câteva instituții au
+                        înregistrat succese cu pinguini de același sex care îngrijesc împreună ouăle și nou-născuții.
+                        <br><br>
+                        Oficialii grădinii zoologice au declarat că Elmer și Lima au avut grijă de un ou care provenea
+                        de la o pereche de pinguini de reproducere care au un istoric de spargere involuntară a ouălor
+                        fertilizate. Au avut succes, iar puiul a eclozat în ziua de Anul Nou.
+                        <br><br>
+                        Experții au testat mai întâi duo-ul punând un ou fictiv într-un cuib pe care perechea l-a
+                        construit împreună toamna trecută, în timpul sezonului de reproducere curent.
+                        <br><br>
+                        Directorul grădinii zoologice, Ted Fox, a declarat că nu toate perechile de pinguini se pricep
+                        la incubarea ouălor, dar "Elmer și Lima au fost exemplari în fiecare aspect al îngrijirii
+                        ouălor".
+                        <br><br>
+                        După ce perechea a trecut testul, oficialii au îndepărtat oul fictiv și l-au înlocuit cu unul
+                        real. Duo-ul a incubat pe rând oul până când puiul a eclozat, a declarat Fox.
+                        <br><br>
+                        "Acesta continuă să fie crescut și îngrijit atât de Elmer, cât și de Lima, care fac o treabă
+                        excelentă", a spus Fox. "Și odată ce vor avea experiență în acest sens și vor continua să o facă
+                        bine, vor fi luați în considerare pentru a îngriji viitoarele ouă".
+                        <br><br>
+                        Originari de pe coasta Pacificului din America de Sud, pinguinii Humboldt sunt catalogați ca
+                        fiind vulnerabili, potrivit Uniunii Internaționale pentru Conservarea Naturii.
+                        <br><br>
+                    </p>
+                    <br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
+}
