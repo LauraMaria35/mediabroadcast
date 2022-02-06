@@ -1794,7 +1794,7 @@ function SchimbarileClimatice() {
 }
 
 function pinguinii(){
-    `<div id="mainHome1">
+    mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
@@ -1846,7 +1846,7 @@ function pinguinii(){
 }
 
 function RusiaInformationWar(){
-    `<div id="mainHome1">
+    mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
