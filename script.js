@@ -1841,7 +1841,14 @@ function pinguinii(){
                         fiind vulnerabili, potrivit Uniunii Internaționale pentru Conservarea Naturii.
                         <br><br>
                     </p>
+
+                    <br><br><br><a
+                        href="https://www.theguardian.com/world/2022/jan/29/same-sex-penguins-succeed-as-foster-parents-in-first-for-new-york-zoo?CMP=Share_AndroidApp_Other"
+                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+
                     <br><br>
+                    
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>`
 }
 
