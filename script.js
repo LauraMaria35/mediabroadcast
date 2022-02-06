@@ -1844,3 +1844,169 @@ function pinguinii(){
                     <br><br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>`
 }
+
+function RusiaInformationWar(){
+    `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>Rusia - Războiul informațional în contextul Ucrainei</h1>
+                    <br><br>
+                    <p><br>
+                        Acest articol oferă o perspectivă asupra modului în care Rusia manipulează informațiile în
+                        contextul acestei ultime crize. El arată subtilitatea unora dintre mesaje și modul în care
+                        acestea pot influența sentimentele mult în afara granițelor sale - în special în America de Sud
+                        și Africa.
+                        <br><br>
+                        <em>"Ne concentrăm pe mass-media socială, dar este o abordare pe mai multe platforme", a spus
+                            ea. "Este vorba de social media, dar și de aceste așa-numite site-uri de știri, aceste
+                            site-uri de propagandă, care pretind a face apel la oamenii obișnuiți."
+                            <br><br>
+                            Oficiali din serviciile de informații au declarat că, deși este puțin probabil ca Rusia să
+                            schimbe multe minți în Europa, mesajele sale au avut mai multă tracțiune în America de Sud
+                            și Africa, încurcând apele cu privire la care țară este responsabilă pentru criza din
+                            Ucraina.</em>
+                        <br><br>
+                        ----------------------
+                        <br><br>
+                        WASHINGTON - În timp ce Statele Unite au lansat luna trecută avertismente cu privire la trupele
+                        rusești de la granițele Ucrainei, iar președintele Biden l-a amenințat pe președintele Vladimir
+                        V. Putin cu sancțiuni în cazul în care va lansa o invazie, cercetătorii au observat o creștere a
+                        numărului de postări pe rețelele de socializare care acuzau Ucraina că pune la cale un genocid
+                        împotriva etnicilor ruși.
+                        <br><br>
+                        Un exemplu este faptul că o filială a postului de radio și televiziune RT, controlat de Moscova,
+                        a distribuit un clip în care dl Putin spunea că evenimentele din estul Ucrainei "seamănă cu un
+                        genocid". News Front, pe care Departamentul de Stat l-a calificat drept o sursă de dezinformare
+                        cu legături cu serviciile de securitate rusești, a continuat cu un articol din 13 decembrie în
+                        care se spunea că Statele Unite nu consideră masacrele ca fiind un genocid.
+                        <br><br>
+                        În lunile care au trecut de la începerea acumulării de trupe rusești, Moscova și armata sa
+                        online de aliați au înaintat vechi argumente privind faptul că ucrainenii din vestul Ucrainei
+                        sunt aliniați cu nazismul, au acuzat în mod fals Statele Unite că au folosit forțe proxy pentru
+                        a pune la cale un atac chimic și au susținut că operațiunile militare planificate de Rusia au
+                        fost menite să protejeze etnicii ruși sau să preîntâmpine acțiunea NATO, potrivit
+                        cercetătorilor.
+                        <br><br>
+                        Oficialii americani din domeniul serviciilor de informații au declarat că Rusia a produs un flux
+                        constant de dezinformare despre Ucraina începând din 2014. Dar au observat o intensificare în
+                        decembrie și ianuarie, pe măsură ce Moscova a crescut presiunea asupra guvernului de la Kiev.
+                        <br><br>
+                        Firma de tehnologie Logically, o companie cu sediul în Marea Britanie care ajută guvernele și
+                        companiile să contracareze dezinformarea, a urmărit conturile de social media aliate cu Rusia,
+                        precum cele ale RT și Sputnik, împreună cu conturile de Twitter ale oficialilor ruși. Postările
+                        și articolele care îi acuză pe unii ucraineni că sunt neonaziști au crescut dramatic de la
+                        începutul lunii noiembrie, potrivit Logically. Campania de informare susținută de Moscova, care
+                        acuză Statele Unite că ar fi planificat un atac chimic, a înregistrat o cotă ridicată pe 21
+                        decembrie, a precizat firma.
+                        <br><br>
+                        O mare parte din propagandă este destinată unui public intern din Rusia și ucrainenilor
+                        pro-Moscova, a declarat Brian Murphy, vicepreședinte pentru operațiuni strategice la Logically.
+                        Dacă Rusia invadează Ucraina, a spus el, vrea să se asigure că are sprijinul vorbitorilor de
+                        limbă rusă din țară în timp ce tancurile și artileria sa se deplasează pe câmpuri sau dărâmă
+                        case.
+                        <br><br>
+                        "În Ucraina au mai rămas foarte puțini oameni neutri (care nu au ales de care parte să stea,
+                        nehotărâți), a spus dl Murphy. "Ei încearcă să își consolideze sprijinul în regiunile din
+                        Ucraina ocupate de separatiști și în interiorul Rusiei".
+                        <br><br>
+                        Dar propaganda se poate muta cu ușurință dincolo de publicul vorbitor de limbă rusă.
+                        <br><br>
+                        Oficiali din serviciile de informații au declarat că, deși este puțin probabil ca Rusia să
+                        schimbe multe minți în Europa, mesajele sale au avut mai multă tracțiune în America de Sud și
+                        Africa, încurcând apele cu privire la care țară este responsabilă pentru criza din Ucraina.
+                        <br><br>
+                        La fel ca și eforturile sale de a diviza electoratul american în 2016, alimentând dezbaterile
+                        despre rasism, arme și alte probleme care provoacă diviziuni, Rusia încearcă să crească
+                        polarizarea în Ucraina pentru a-i oferi un avantaj tactic, a spus dl Murphy.
+                        <br><br>
+                        Cercetătorii au urmărit teme similare provenind din conturile rusești, inclusiv o creștere a
+                        postărilor care susțin că forțele NATO și ucrainene se pregătesc să atace vorbitorii de limbă
+                        rusă din Ucraina. Afirmațiile privind o intervenție NATO în Ucraina au atins mai întâi un vârf
+                        la sfârșitul lunii decembrie, înainte de a crește vertiginos la mijlocul lunii ianuarie,
+                        potrivit Logically.
+                        <br><br>
+                        Dl Murphy, fostul șef al ramurii de informații a Departamentului de Securitate Internă, a
+                        declarat că afirmația privind intervenția NATO în Ucraina a fost mult timp o linie de atac
+                        standard a Moscovei.
+                        <br><br>
+                        Deși este adesea dificil de urmărit de unde provine o anumită piesă de dezinformare,
+                        cercetătorii pot vedea când mai multe conturi rusești încep să împingă aceeași narațiune.
+                        <br><br>
+                        "Pare a fi o campanie coordonată", a spus dl Murphy. "Ei distribuie, cam în același timp, mesaje
+                        similare".
+                        <br><br>
+                        Afirmația potrivit căreia Statele Unite pregăteau un atac chimic a fost făcută inițial de
+                        ministrul rus al apărării. Dar experții în dezinformare au urmărit modul în care diverse conturi
+                        au amplificat-o.
+                        <br><br>
+                        Versiuni ale declarației au fost recirculate atât de mass-media de stat, cât și de site-uri
+                        despre care guvernul american a spus că sunt folosite de serviciile de informații rusești, cum
+                        ar fi News Front și Strategic Culture Foundation, a declarat Bret Schafer, șeful echipei de
+                        manipulare a informațiilor de la Alliance for Securing Democracy, care urmărește dezinformarea
+                        și alte eforturi menite să submineze guvernele democratice. Momentul în care au fost publicate
+                        postările a fost curios, a spus el.
+                        <br><br>
+                        La câteva săptămâni după ce postările au apărut în decembrie, oficialii americani au declarat că
+                        o operațiune cu steag fals condusă de Rusia ar putea fi folosită ca scuză pentru a muta trupe în
+                        Ucraina în numele protejării populației vorbitoare de limbă rusă.
+                        <br><br>
+                        Un conflict care se pregătește. Antagonismul dintre Ucraina și Rusia mocnește din 2014, când
+                        armata rusă a intrat pe teritoriul ucrainean, anexând Crimeea și stârnind o rebeliune în estul
+                        țării. În 2015 s-a ajuns la o încetare a focului fragilă, dar pacea a fost evazivă.
+                        <br><br>
+                        O creștere a ostilităților. Recent, Rusia și-a consolidat forțele în apropierea graniței cu
+                        Ucraina, iar mesajele Kremlinului față de vecinul său s-au înăsprit. Îngrijorarea a crescut la
+                        sfârșitul lunii octombrie, când Ucraina a folosit o dronă înarmată pentru a ataca un obuzier
+                        operat de separatiștii susținuți de Rusia.
+                        <br><br>
+                        Avertismente amenințătoare. Rusia a calificat atacul drept un act destabilizator care a încălcat
+                        acordul de încetare a focului, ceea ce a ridicat temeri privind o nouă intervenție în Ucraina
+                        care ar putea atrage Statele Unite și Europa într-o nouă fază a conflictului.
+                        <br><br>
+                        Poziția Kremlinului. Președintele Rusiei, Vladimir V. Putin, care a prezentat din ce în ce mai
+                        mult expansiunea spre est a NATO ca pe o amenințare existențială pentru țara sa, a declarat că
+                        întărirea militară a Moscovei a fost un răspuns la aprofundarea parteneriatului Ucrainei cu
+                        alianța.
+                        <br><br>
+                        "S-ar putea interpreta că mesajele rusești de luna trecută au fost o încercare de a tulbura
+                        apele înainte de propria lor operațiune iminentă", a spus dl Schafer. "Sau, în termeni clasici
+                        de propagandă, de a-i acuza pe alții de ceea ce tu ești vinovat".
+                        <br><br>
+                        Larissa Doroșenko, cercetător la Northeastern University, a declarat că tacticile de
+                        dezinformare rusești în Ucraina au folosit atât povești falsificate, cât și povești adevărate,
+                        dar tangențiale cu evenimentele curente, pentru a distorsiona narativele sau a ascunde
+                        adevăratele intenții.
+                        <br><br>
+                        Dr. Doroșenko a studiat dezinformarea rusă în jurul protestelor pro-democrație din 2014 din
+                        Ucraina și a constatat că, chiar și atunci, Moscova a folosit diverse mijloace pentru a răspândi
+                        diverse narative.
+                        <br><br>
+                        "Ne concentrăm pe mass-media socială, dar este o abordare pe mai multe platforme", a spus
+                            ea. "Este vorba de social media, dar și de aceste așa-numite site-uri de știri, aceste
+                            site-uri de propagandă, care pretind a face apel la oamenii obișnuiți."
+                        <br><br>
+                        Domnul Putin a luat Crimeea pe furiș, a spus Dr. Doroșenko. Dar acumularea de trupe în
+                        apropierea Ucrainei a fost orice, dar nu ascunsă.
+                        <br><br>
+                        Ea a spus că desfășurarea trupelor rusești și amenințările la adresa Ucrainei ar putea avea ca
+                        scop atât alimentarea sentimentelor naționaliste, cât și înăbușirea criticilor interne față de
+                        măsurile luate de dl Putin pentru a închide grupuri non-profit precum Memorial International, o
+                        organizație pentru drepturile omului, sau grupuri afiliate cu Aleksei A. Navalny, liderul
+                        opoziției ruse.
+                        <br><br>
+                        "Dacă poți crea un inamic extern", a spus ea, "toate aceste probleme legate de ceea ce se
+                        întâmplă cu societatea civică din Rusia nu mai sunt la fel de importante".
+                        <br><br>
+                    </p>
+
+                    <br><br><br><a
+                        href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html"
+                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                    <br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
+}
