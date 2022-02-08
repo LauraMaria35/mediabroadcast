@@ -2018,7 +2018,7 @@ function RusiaInformationWar(){
     `
 }
 
-function ChinaAutoritarista(){
+function RusiaSiOccidentul(){
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
