@@ -2168,3 +2168,113 @@ function RusiaSiOccidentul(){
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
 }
+
+function SchimbareaClimei() {
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>Schimbări climatice - 2014 - 2021</h1>
+    <br><br>
+    <p><br>
+        Un articol din revista Time Magazine a declarat în ianuarie 2015 că: "<em>2014 a fost cel mai
+            cald an de când a început să se țină evidența temperaturilor în 1880.</em>" Astfel a început
+        o serie de recorduri climatice între 2014 și 2021.
+        <br><br>
+        Ar avea sens, de asemenea, ca un articol din <em>National Geographic să afirme, în ianuarie
+            2020, că Un raport publicat de NOAA (Administrația Națională Oceanică și Atmosferică) și
+            NASA a confirmat că perioada 2010 - 2019 a fost cel mai fierbinte deceniu de la începutul
+            înregistrărilor, acum 140 de ani. Analiza a mai arătat că 2019 a fost al doilea cel mai
+            fierbinte an înregistrat vreodată și că temperaturile oceanelor au fost cele mai ridicate
+            din toate timpurile.</em>
+        <br><br>
+        Aceasta este o parte din ceea ce a fost menționat în ultima prezentare a lui elder Tess despre
+        2014 ca fiind un punct de cotitură în istorie, în ceea ce privește fiecare problemă majoră
+        despre care știm că are o semnificație profetică la sfârșitul lumii. O mare parte din ceea ce
+        s-a înțeles în 2014 nu au fost semnele externe ale schimbărilor climatice discutate aici, ci
+        publicarea unor studii majore care au oferit comunității științifice mult mai multe informații
+        despre impactul schimbărilor climatice și, de asemenea, marcarea efortului de a împărtăși acest
+        pericol prin intermediul unei serii semnificative lansate în 2014, numită <em>Years of Living
+            Dangerously</em>.
+        <br><br>
+        Articolul de mai jos discută despre temperatura oceanelor - unul dintre cei mai clari și mai
+        serioși indicatori ai unei clime cu probleme:
+        <br><br>
+        ----------------------------
+        <br><br>
+        Oceanele lumii au fost puse la fiert, iar căldura este dată la maxim. Anul trecut au fost
+        înregistrate cele mai ridicate temperaturi ale oceanelor din istorie, fiind al șaselea an
+        consecutiv în care acest record a fost depășit, potrivit unor noi cercetări.
+        <br><br>
+        Încălzirea oceanelor noastre este determinată în principal de criza climatică provocată de om,
+        spun oamenii de știință, și reprezintă un indicator extrem de simplu al încălzirii globale. În
+        timp ce temperatura atmosferei are, de asemenea, o tendință de creștere accentuată, este mai
+        puțin probabil ca anii în mod individual să bată recorduri în comparație cu încălzirea
+        oceanelor.
+        <br><br>
+        Anul trecut a fost înregistrat un record de căldură pentru cei 2.000 de metri de la nivelul
+        superior al tuturor oceanelor din întreaga lume, în ciuda unui eveniment<span><a
+                href="https://ro.wikipedia.org/wiki/La_Ni%C3%B1a" target="_blank">La Niña</a></span> în
+        curs de desfășurare, o caracteristică climatică periodică care răcește apele din Pacific.
+        Recordul din 2021 depășește o serie de consemnări de recorduri din istoria modernă care datează
+        din 1955. Al doilea cel mai cald an pentru oceane a fost 2020, în timp ce al treilea cel mai
+        cald a fost 2019.
+        <br><br>
+        "Conținutul de căldură al oceanelor crește neîncetat, la nivel global, iar acesta este un
+        indicator principal al schimbărilor climatice provocate de om", a declarat Kevin Trenberth,
+        climatolog la National Center for Atmospheric Research din Colorado și coautor al cercetării,
+        publicată în Advances in Atmospheric Sciences.
+        <br><br>
+        Apele oceanice mai calde contribuie la supraîncărcarea furtunilor, uraganelor și a
+        precipitațiilor extreme, se afirmă în document, ceea ce sporește riscurile de inundații grave.
+        Apa încălzită a oceanelor se extinde și roade imensele calote glaciare din Groenlanda și
+        Antarctica, care pierd colectiv aproximativ 1 milion de tone de gheață pe an, ambele procese
+        alimentând creșterea nivelului mării.
+        <br><br>
+        Oceanele absorb aproximativ o treime din dioxidul de carbon emis de activitatea umană, ceea ce
+        duce la acidificarea lor. Acest lucru degradează recifurile de corali, care adăpostesc un sfert
+        din viața marină a lumii și asigură hrana pentru peste 500 de milioane de oameni, și se poate
+        dovedi dăunător pentru anumite specii de pești.
+        <br><br>
+        Pe măsură ce lumea se încălzește din cauza arderii combustibililor fosili, a defrișărilor și a
+        altor activități, oceanele au fost cele mai afectate de căldura suplimentară. Mai mult de 90%
+        din căldura generată în ultimii 50 de ani a fost absorbită de oceane, ajutând temporar omenirea
+        și alte specii terestre să se salveze de temperaturi care ar fi fost deja catastrofale.
+        <br><br>
+        Cantitatea de căldură absorbită de oceane este enormă. Anul trecut, cei 2.000 de metri superiori
+        ai oceanului, unde are loc cea mai mare parte a încălzirii, au absorbit cu 14 zettajouli (o
+        unitate de energie electrică egală cu un sextilion de jouli) mai mult decât în 2020. Această
+        cantitate de energie suplimentară este de 145 de ori mai mare decât întreaga producție de
+        energie electrică a lumii care, prin comparație, reprezintă aproximativ jumătate de zettajoule.
+        <br><br>
+        Încălzirea pe termen lung a oceanelor este cea mai pronunțată în Oceanul Atlantic și în Oceanul
+        Sudic, se afirmă în noua cercetare, deși în Pacificul de Nord s-a înregistrat o creștere
+        "dramatică" a căldurii începând cu 1990, iar Marea Mediterană a înregistrat anul trecut un
+        record clar de temperatură ridicată.
+        <br><br>
+        Tendința de încălzire este atât de pronunțată încât este clar să se stabilească amprenta
+        influenței umane în doar patru ani de înregistrări, potrivit lui John Abraham, un alt coautor al
+        studiului. "Conținutul termic al oceanelor este unul dintre cei mai buni indicatori ai
+        schimbărilor climatice", a adăugat Abraham, expert în științe termice la Universitatea St
+        Thomas.
+        <br><br>
+        "Până când nu vom ajunge la emisii nete zero, această încălzire va continua și vom continua să
+        depășim recordurile privind conținutul termic al oceanelor, așa cum am făcut-o anul acesta", a
+        declarat Michael Mann, climatolog la Penn State University și un alt cercetător dintre cei 23
+        care au lucrat la acest studiu. "O mai bună conștientizare și înțelegere a oceanelor reprezintă
+        o bază pentru acțiunile de combatere a schimbărilor climatice".
+        <br><br>
+    </p>
+
+<br><br><br><a
+    href="https://www.theguardian.com/environment/2022/jan/11/oceans-hottest-temperatures-research-climate-crisis?CMP=Share_AndroidApp_Other"
+    target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+        height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+
+<br>
+<br>
+<a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
+}
