@@ -1793,7 +1793,7 @@ function SchimbarileClimatice() {
     `
 }
 
-function pinguinii(){
+function pinguinii() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -1852,7 +1852,7 @@ function pinguinii(){
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>`
 }
 
-function RusiaInformationWar(){
+function RusiaInformationWar() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -2018,7 +2018,7 @@ function RusiaInformationWar(){
     `
 }
 
-function RusiaSiOccidentul(){
+function RusiaSiOccidentul() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -2279,7 +2279,7 @@ function SchimbareaClimei() {
     `
 }
 
-function RussiaSiPanium(){
+function RussiaSiPanium() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -2506,5 +2506,139 @@ function RussiaSiPanium(){
                     <br>
                     <br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
+}
+
+function RusiaKazahstan() {
+    mainArticole.innerHTML = `<div id="mainHome1">
+        <div id="articol">
+        <br>
+        <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+        <br>
+        <br>
+    <h1>Rusia - tulburări civile, Kazahstan și o alianță post-sovietică </h1>
+    <br><br>
+    <p><br>
+        Articolul de mai jos din <em>Foreign Policy</em> discută despre alianța SCTO a Rusiei și despre
+        prima
+        desfășurare comună a forțelor acesteia în cei 30 de ani de la crearea sa, făcând referire la
+        tulburările din Kazahstan.
+        <br><br>
+        Am atașat mai jos câteva informații de pe Wikipedia despre alianța în sine, urmate de articolul
+        despre evenimentele de săptămâna trecută.
+        <br><br>
+        WIKIPEDIA
+        <br>
+        <em>
+            Organizația Tratatului de Securitate Colectivă este o alianță militară interguvernamentală
+            din
+            Eurasia, formată din anumite state post-sovietice.
+            La 15 mai 1992, șase state post-sovietice aparținând Comunității Statelor Independente -
+            Rusia,
+            Armenia, Kazahstan, Kârgâzstan, Tadjikistan și Uzbekistan - au semnat Tratatul de Securitate
+            Colectivă (denumit, de asemenea, Pactul de la Tașkent sau Tratatul de la Tașkent).
+            Alte trei state post-sovietice - Azerbaidjan, Belarus și Georgia - au semnat în 1993, iar
+            tratatul a intrat în vigoare în 1994. În 1999, șase dintre cele nouă state - toate, cu
+            excepția
+            Azerbaidjanului, Georgiei și Uzbekistanului - au fost de acord să reînnoiască tratatul
+            pentru
+            încă cinci ani. În 2002, cei șase au convenit să creeze Organizația Tratatului de Securitate
+            Colectivă ca alianță militară.
+            <br><br>
+            ...natura multinațională a acestei intervenții este semnificativă, fiind prima desfășurare
+            comună a forțelor CSTO în istoria de 30 de ani a blocului de securitate.</em>
+        <br><br>
+        ----------------------------
+        <br><br>
+        7 IANUARIE 2022, ORA 13:00
+        Într-un articol pentru Foreign Policy de săptămâna trecută, am prezentat un cadru pentru
+        procesul decizional al intervențiilor militare ale Rusiei în spațiul post-sovietic. În acest
+        cadru, am identificat cinci variabile primare care trebuie să fie prezente pentru ca Moscova să
+        decidă să trimită forțe militare: 1) un declanșator specific, 2) sprijinul din partea
+        elementelor locale, 3) opoziția/reacțiile militare anticipate, 4) fezabilitatea tehnică a
+        intervenției și 5) costurile politice și economice anticipate ale intervenției, cum ar fi
+        sancțiunile. Folosind acest cadru, am prezis că o invazie militară pe scară largă a Rusiei în
+        Ucraina este puțin probabil să se întâmple pe termen imediat, în ciuda acumulării de trupe și a
+        retoricii agresive a conducerii ruse.
+        <br><br>
+        Cu toate acestea, am remarcat, de asemenea, că există posibilitatea unor acumulări militare
+        rusești și a unor potențiale desfășurări în alte părți, în special "în țări care sunt mai
+        prietenoase cu Moscova". Iar săptămâna aceasta, tocmai o astfel de intervenție a avut loc în
+        Kazahstan, Organizația Tratatului de Securitate Colectivă (OTSC) condusă de Rusia desfășurând
+        trupe pentru a înăbuși tulburările care au început din cauza creșterii prețului la carburanți la
+        2 ianuarie și care s-au răspândit rapid și s-au intensificat în violențe în întreaga țară. În
+        timp ce tulburările sunt în curs de desfășurare, iar traiectoria politică și de securitate a
+        Kazahstanului rămâne neclară în momentul redactării acestui articol, momentul și modul în care
+        Rusia a intervenit în această țară oferă o perspectivă asupra calculului strategic al Moscovei
+        și indicii cu privire la ceea ce trebuie să ne așteptăm să se întâmple mai departe în regiunea
+        mai extinsă.
+        <br><br>
+        Intervenția Rusiei în Kazahstan este unică în comparație cu operațiunile militare anterioare ale
+        Moscovei în fostul spațiu sovietic, cum ar fi cele din Georgia în 2008 și Ucraina în 2014. Un
+        aspect unic este implicarea CSTO, care este o alianță militară formată din Rusia și cei mai
+        puternici aliați de securitate ai săi din spațiul post-sovietic, inclusiv Armenia, Belarus,
+        Kazahstan, Kârgâzstan și Tadjikistan. Spre deosebire de operațiunile Rusiei în Georgia și
+        Ucraina, desfășurarea de trupe CSTO (majoritatea provenind din Rusia, dar și cu contingente mai
+        mici din Armenia, Belarus și Tadjikistan, membre CSTO) a fost solicitată în mod explicit de
+        președintele kazah Kassym-Jomart Tokayev și nu a fost împotriva guvernului. Având în vedere că
+        situația scăpa rapid de sub control, Tokayev a simțit nevoia de a obține asistență din partea
+        CSTO pentru a securiza siturile și instalațiile strategice, inclusiv clădirile guvernamentale și
+        aeroporturile din orașe-cheie precum Almaty, în timp ce forțele de securitate kazahe se puteau
+        concentra pe gestionarea directă a demonstranților. Și, într-adevăr, natura multinațională a
+        intervenției este semnificativă, servind drept prima desfășurare comună a forțelor CSTO în
+        istoria de 30 de ani a blocului de securitate.
+        <br><br>
+        Dar raționamentul din spatele desfășurării conduse de Moscova în Kazahstan are paralele
+        importante cu acțiunile militare ale Rusiei în Ucraina și Georgia. În ultimă instanță, orice
+        intervenție rusă în spațiul post-sovietic își are rădăcinile în imperativele geopolitice primare
+        ale Rusiei: să păstreze consolidarea politică internă, să se protejeze de vecini sau puteri
+        externe adverse și să își consolideze influența în regiune, limitând-o în același timp pe cea a
+        actorilor rivali. În timp ce în Georgia și Ucraina, Rusia a invadat pentru a submina guvernele
+        pro-occidentale ostile intereselor sale, intervenția CSTO a Moscovei în Kazahstan este exact pe
+        dos: sprijinirea unui guvern pro-rus care este aliniat strategic cu Kremlinul. Nu mai puțin
+        important, Rusia dorește să trimită un mesaj că este dispusă să acționeze pentru a stăvili
+        riscul ca astfel de tulburări violente și dezordini politice să izbucnească în alte state
+        prietenoase Moscovei, precum și, potențial, pe teritoriul rusesc însuși.
+        <br><br>
+        Astfel, a existat un raționament strategic mai amplu pentru o intervenție rusă în Kazahstan. O
+        astfel de desfășurare se potrivește cu multe dintre elementele care au fost identificate
+        anterior în cadru: Declanșatorul a venit sub forma unor protestatari care au luat cu asalt
+        clădiri publice, iar sprijinul din partea elementelor locale a venit din cererea de intervenție
+        CSTO a lui Tokayev, care, la rândul său, a indicat o fezabilitate tehnică și faptul că nu va
+        exista un răspuns ostil din partea armatei kazahe. Semnalele din partea Statelor Unite și a
+        Uniunii Europene au indicat că nu va exista o reacție economică sau politică semnificativă din
+        partea Occidentului ca răspuns la intervenția Rusiei. Ca urmare, Rusia a acționat rapid și
+        decisiv pentru a trimite forțe CSTO imediat după ce Tokayev le-a solicitat. În lipsa acestor
+        factori, Moscova ar fi putut întârzia mobilizarea, ar fi făcut-o mult mai redusă sau chiar ar fi
+        ignorat cu tact cererea.
+        <br><br>
+        Acest lucru nu înseamnă că intervenția CSTO a Rusiei în Kazahstan nu va veni cu propriile sale
+        probleme. Și nici nu garantează succesul în îndeplinirea obiectivului său, care este de a
+        restabili ordinea publică și de a sprijini regimul kazah. În timp ce sprijinul local pentru
+        intervenția Rusiei există la nivel guvernamental, există unele elemente din Kazahstan - inclusiv
+        mulți dintre demonstranți, precum și personalități din opoziție - care s-au pronunțat împotriva
+        acesteia și care ar putea decide să opună rezistență acum sau în viitor. Mai mult, participarea
+        militară a statelor CSTO, precum Belarus, Kârgâzstan și Armenia - toate acestea având propriile
+        probleme cu tulburările sociale și politice - ar putea, de fapt, să facă aceste țări mai
+        vulnerabile la tulburări politice în viitor. Iar dacă forțele CSTO conduse de Rusia nu reușesc
+        să calmeze situația și să restabilească ordinea în Kazahstan - și, eventual, în viitoarele
+        puncte fierbinți din cadrul CSTO - acest lucru ar putea dăuna grav reputației Kremlinului, atât
+        acasă, cât și în spațiul post-sovietic.
+        <br><br>
+        Sunt multe în joc în Kazahstan în acest moment, atât pentru guvernul kazah, cât și pentru Rusia
+        și aliații săi din CSTO - ca să nu mai vorbim de publicul kazah și de protestatarii înșiși. În
+        timp ce Moscova s-a dovedit consecventă în ceea ce privește dorința sa de a folosi forța
+        militară pentru a-și apăra poziția în fostul spațiu sovietic, astfel de intervenții sunt
+        predispuse să producă consecințe imprevizibile și de amploare.
+        <br><br>
+    </p>
+
+    <br><br><br><a href="https://foreignpolicy.com/2022/01/07/kazakhstan-russia-troops-csto/"
+        target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+            height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+
+    <br>
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
 }
