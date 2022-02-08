@@ -2017,3 +2017,154 @@ function RusiaInformationWar(){
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
 }
+
+function ChinaAutoritarista(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>Rusia și Occidentul - Ucraina ca "sferă de influență"</h1>
+                    <br><br>
+                    <p><br>
+                        Rusia și Occidentul - Ucraina ca "sferă de influență"
+                        <br><br>
+                        Acest articol oferă un fundal și un context pentru a explica de ce Rusia pare să fie, brusc și
+                        neașteptat, dispusă să riște atât de mult pentru Ucraina.
+                        <br><br>
+                        -----------------------
+                        <br><br>
+                        Pentru a treia lună consecutiv, Rusia a continuat să își consolideze trupele la granița cu
+                        Ucraina. Peste 100.000 de soldați ruși înconjoară în prezent Ucraina pe trei laturi.
+                        <br><br>
+                        Dar nu este clar de ce se întâmplă acest lucru acum. Decizia președintelui rus Vladimir Putin de
+                        a intensifica escaladarea nu pare să fie declanșată de vreun eveniment anume. Acest lucru este
+                        în contrast cu, de exemplu, consolidarea militară a Rusiei din 2008 și războiul său ulterior cu
+                        Georgia, care a urmat summitului NATO de la București, unde Ucrainei și Georgiei li s-a promis
+                        că într-o zi ar putea deveni membre ale NATO. În momentul de față, în loc de un eveniment anume,
+                        se pare că există mai multe evoluții recente care conduc gambitul (strategia) lui Putin.
+                        <br><br>
+                        În discursurile sale publice, interviurile și articolele sale, Putin și-a exprimat constant
+                        îngrijorarea cu privire la pierderea Ucrainei. După cum a susținut la reuniunea Consiliului de
+                        Securitate al ONU din mai 2021, Ucraina a fost "transformată încet, dar sigur, într-un fel de
+                        antipod al Rusiei, un fel de anti-Rusia". Într-adevăr, influența Rusiei asupra Ucrainei a fost
+                        în declin rapid în ultimii ani. În primul rând, cooperarea militară a SUA și a NATO cu Ucraina a
+                        crescut dramatic. Acest lucru este demonstrat prin creșterea pachetelor de ajutor militar, prin
+                        furnizarea mai serioasă de arme și prin instruirea armatei ucrainene, precum și prin sprijinul
+                        pentru combaterea amenințărilor cibernetice rusești. În cadrul Pachetului global de asistență
+                        pentru Ucraina, adoptat în 2016, NATO a sprijinit această țară prin 16 programe diferite menite
+                        să stimuleze apărarea și securitatea Ucrainei. În cadrul Inițiativei de asistență pentru
+                        securitatea Ucrainei, Statele Unite și-au intensificat eforturile pentru a îmbunătăți forțele
+                        terestre și forțele pentru operațiuni speciale ale Ucrainei în multe arii începând din 2016.
+                        <br><br>
+                        În 2018, Statele Unite au început să trimită Ucrainei arme letale, precum rachete antitanc
+                        Javelin și lansatoare. În toamna anului 2021, Turcia a vândut drone de luptă Bayraktar TB2
+                        Ucrainei. În propriile declarații, oficialii de la Kremlin au interpretat aceste evoluții ca
+                        fiind faptul că NATO livrează din ce în ce mai multe arme Ucrainei, o atitudine considerată
+                        periculoasă pentru securitatea Rusiei și amenințătoare pentru echilibrul de securitate din
+                        regiune.
+                        <br><br>
+                        Dar nu este vorba doar de colaborare militară. Având în vedere că publicul ucrainean a devenit
+                        treptat mai pro-occidental și că sondajele arată tendințe ascendente constante pentru aderarea
+                        Ucrainei la Uniunea Europeană și la NATO, colaborarea dintre Ucraina și Occident s-a aprofundat
+                        și în alte domenii, cum ar fi lupta împotriva corupției și inițiativele de consolidare a
+                        instituțiilor.
+                        <br><br>
+                        În al doilea rând, pentru a adăuga insulta la prejudiciu, în 2021, Ucraina a lansat o campanie
+                        împotriva presupușilor agenți ai Rusiei în țară. În special, Consiliul pentru Securitate
+                        Națională și Apărare al Ucrainei a anunțat sancțiuni împotriva asociatului apropiat al lui Putin
+                        și principalul aliat al Rusiei în Ucraina, oligarhul Viktor Medvedciuk, precum și împotriva
+                        soției sale și a altor câteva persoane și entități. Medvedciuk a subliniat adesea relația sa
+                        personală cu Putin (care este, de asemenea, nașul fiicei lui Medvedciuk); l-a descris ca fiind
+                        un prieten personal; a exprimat poziții pro-ruse cu privire la protestele Euromaidan, Crimeea și
+                        viitorul Ucrainei; și a fost sancționat anterior de Statele Unite pentru că a alimentat
+                        separatismul în Ucraina. Sancțiunile mai recente ale Ucrainei au înghețat bunurile lui
+                        Medvedciuk timp de trei ani și l-au împiedicat să facă afaceri în Ucraina. În același timp,
+                        președintele ucrainean, Volodymyr Zelensky, a ordonat închiderea celor trei canale de
+                        televiziune, deținute de Medvedciuk, acuzate de răspândirea propagandei pro-ruse.
+                        <br><br>
+                        Această măsură a fost luată după o convorbire telefonică între secretarul de stat american
+                        Antony Blinken și ministrul ucrainean de externe Dmytro Kuleba, ceea ce a făcut Kremlinul să
+                        suspecteze influența americană în ceea ce privește închiderea presei. Din mai 2021, Medvedciuk
+                        se află în arest la domiciliu în Ucraina pentru acuzații de trădare. Ca o ilustrare a furiei lui
+                        Putin, reprimarea lui Medvedciuk de către Ucraina a fost urmată de prima consolidare militară a
+                        Rusiei la granița cu Ucraina în aprilie 2021.
+                        <br><br>
+                        Speranțele lui Putin de după 2014 de a-și păstra influența asupra Ucrainei prin forțarea
+                        republicilor separatiste din Donbass să revină în Ucraina par, de asemenea, să fi eșuat. Kievul
+                        s-a dovedit a nu fi dispus să încorporeze aceste regiuni înapoi în Ucraina în condițiile Rusiei.
+                        Într-un articol din iulie 2021, Putin își recunoaște în mod deschis înfrângerea. El scrie:
+                        "Aparent, și sunt din ce în ce mai convins de acest lucru: Kievul pur și simplu nu are nevoie de
+                        Donbas". El atribuie acest lucru prezenței în Ucraina a unor forțe maligne, legate de Occident,
+                        antirusești, care exploatează imaginea de "victimă a agresiunii externe" și "colportează
+                        rusofobia" în Ucraina.
+                        <br><br>
+                        Combinația acestor trei factori l-a determinat pe Putin să concluzioneze că Ucraina a scăpat
+                        rapid din mâna sa. În calitate de lider al unei puteri revizioniste în declin, a cărei influență
+                        economică și globală se preconizează că va scădea în următoarele două decenii, el are stimulente
+                        pentru a acționa cât mai curând. Peisajul geopolitic actual îi oferă lui Putin, care se mișcă
+                        rapid atunci când vede oportunități, momentul ideal pentru a încerca să își consolideze
+                        influența asupra Ucrainei.
+                        <br><br>
+                        În primul rând, Uniunea Europeană este divizată în ceea ce privește Rusia. În timp ce noii
+                        membri ai UE din Europa de Est tind să sprijine o acțiune mai puternică împotriva Rusiei, cele
+                        două mari puteri ale UE, Germania și Franța, sunt în conflict în ceea ce privește problema
+                        Rusiei. Franța este distrasă de viitoarele sale alegeri prezidențiale din aprilie 2022.
+                        Insistența continuă a președintelui francez Emmanuel Macron cu privire la necesitatea ca Uniunea
+                        Europeană să poarte propriile discuții cu Kremlinul separat de Statele Unite (posibil ca parte a
+                        campaniei sale electorale) a generat temeri legate de o divizare tot mai profundă a răspunsului
+                        Occidentului față de Kremlin. Germania, care este nerăbdătoare să devină nucleul european pentru
+                        gazul rusesc în urma finalizării Nord Stream 2, este pregătită să facă mai multe concesii
+                        Kremlinului, după cum a arătat prin refuzul său recent de a acorda permise de armament Estoniei
+                        pentru ca livrările să poată ajunge în Ucraina.
+                        <br><br>
+                        În plus, începând cu aprilie 2021, Kremlinul a întreprins mai multe măsuri (probabil
+                        intenționate) care au redus livrările de gaz rusesc către Europa și au dus la actuala creștere
+                        fără precedent a prețurilor și la penuria de gaz din UE. Dependența continuă a Europei de gazul
+                        rusesc, cu aproximativ 40% din importurile de gaz provenind din Rusia, îi limitează și mai mult
+                        capacitatea de a contracara acțiunile Rusiei în Ucraina.
+                        <br><br>
+                        În al doilea rând, în ultimul an, declinul relativ al poziției internaționale a Statelor Unite a
+                        devenit mai evident, așa cum reiese din retragerea haotică din Afganistan. Conform declarațiilor
+                        publice ale Kremlinului, acesta a considerat acest lucru ca fiind o demonstrație a scăderii
+                        influenței internaționale a SUA. Bilanțul politicii administrației Biden în ceea ce privește
+                        Rusia a părut până acum destul de slab: a ridicat sancțiunile privind Nord Stream 2, a emis
+                        sancțiuni în mare parte simbolice ca răspuns la otrăvirea disidentului Alexey Navalny de către
+                        Rusia și a pus continuu accentul pe China și a încercat să "parcheze Rusia". Chiar mai
+                        important, Kremlinul are o fereastră de acțiune până la alegerile de la mijlocul mandatului din
+                        SUA. Situația s-ar putea schimba după aceea, dacă republicanii vor prelua controlul comisiilor
+                        cheie pentru afaceri externe din Congres și vor crește presiunea asupra administrației în
+                        privința Rusiei.
+                        <br><br>
+                        În mod similar cu UE, administrația Biden ar putea fi în prezent limitată în capacitatea sa de a
+                        impune sancțiuni puternice Rusiei ca răspuns la o nouă escaladare în Ucraina. Sancțiunile
+                        sectoriale serioase ar putea risca o nouă creștere bruscă a prețurilor la petrol și la metale
+                        (cupru, nichel, oțel, paladiu), creând un risc de inflație galopantă în Statele Unite sau chiar
+                        de<span><a href="https://www.dex.ro/stagfla%C8%9Bie" target="_blank">stagflație</a></span>.  Acest lucru scurtează și mai mult fereastra de acțiune a lui Putin.
+                        <br><br>
+                        În al treilea rând, în timp ce prețurile galopante ale petrolului și gazelor naturale constrâng
+                        UE și Statele Unite, acestea îi oferă lui Putin mai multă libertate de acțiune. Pe scena
+                        internațională, Rusia tinde să acționeze ca un petrostat tipic care devine agresiv și ambițios
+                        odată ce acumulează venituri substanțiale din petrol și gaze. Afluxul de venituri mari îi
+                        permite să prioritizeze cheltuielile militare în loc să abordeze problemele sociale și de
+                        infrastructură.
+                        <br><br>
+                        Aceste considerente explică momentul ultimatumului propus de Putin către Occident. Această
+                        fereastră de oportunitate este probabil să se închidă odată cu apropierea alegerilor
+                        intermediare din SUA. Cu toate acestea, în prezent, această combinație de circumstanțe oferă un
+                        moment ideal pentru ca Putin să se folosească de slăbiciunile UE și ale Statelor Unite pentru a
+                        face presiuni pentru mai multe concesii în ceea ce privește Ucraina. Înțelegerea faptului că
+                        Kremlinul se confruntă cu constrângeri serioase de timp va permite factorilor de decizie
+                        occidentali să dezvolte răspunsuri politice mai eficiente.
+                        <br><br>
+                    </p>
+
+                    <br><br><br><a href="https://foreignpolicy.com/2022/01/26/russia-ukraine-invasion-timeline/"
+                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+
+                    <br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
+}
