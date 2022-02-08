@@ -2278,3 +2278,233 @@ function SchimbareaClimei() {
 <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
 }
+
+function RussiaSiPanium(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>Rusia și Panium - o istorie progresivă a jocurilor de putere, a sferelor de influență, a
+    războiului informațional și a slăbirii democrației </h1>
+<br><br>
+<p><br>
+    Există multe articole de știri și texte de opinie care discută despre conflictul în curs de
+    desfășurare între Rusia și Occident, care a început în jurul lunii noiembrie 2021. Dificultatea
+    de a le împărtăși, este că situația nu este atât de simplă, în mare parte datorită modului în
+    care Putin folosește informațiile și mesajele. Există atât de multe declarații în mod deliberat
+    contradictorii, încât un articol care se concentrează doar pe o singură perspectivă omite multe
+    alte elemente contradictorii.
+    <br>
+    Articolul de mai jos, publicat ieri, 11 ianuarie, de New York Times, discută despre îndrăzneala
+    crescândă a lui Putin, despre mesajele sale strategice și despre modul în care Covid-19 și-a
+    schimbat metodele de operare.
+    <br>
+    Înainte de a începe articolul, am separat și atașat mai jos lista lor de 5 puncte care merită să
+    fie remarcate ca fiind cele care contribuie la asertivitatea bruscă a lui Putin.
+    <br><br>
+    <em>Antagonismul dintre Ucraina și Rusia mocnește din 2014...</em>
+    <br><br>
+    <strong>Înțelegând relația Rusiei cu Occidentul</strong>
+    <br>
+    Tensiunea dintre cele două regiuni este în creștere, iar președintele rus Vladimir Putin este
+    din ce în ce mai dispus să își asume riscuri geopolitice și să își afirme pretențiile.
+    <br><br>
+    <strong>Concurența pentru influență</strong>: Amenințarea de conflict crește pe o porțiune din
+    Europa, de la Marea Baltică la Marea Neagră.
+    <br>
+    <strong>Amenințarea de invazie</strong>: Pe măsură ce armata rusă își consolidează prezența în
+    apropierea Ucrainei, Statele Unite acționează cu prudență pentru a sprijini Kievul.
+    <br>
+    <strong>Politica energetică</strong>: O explozie a prețurilor la gaze în Europa a dus la
+    acuzații potrivit cărora Kremlinul restricționează livrările de gaze în scopuri politice.
+    <br>
+    <strong>Criza migranților</strong> : În timp ce oamenii s-au adunat la granița estică a Uniunii
+    Europene, alianța incomodă a Rusiei cu Belarus a declanșat fricțiuni suplimentare.
+    <br>
+    <strong>Militarizarea societății</strong>: Cu o "armată de tineri" și inițiative de promovare a
+    patriotismului, guvernul rus promovează ideea că ar putea urma o luptă.
+    <br><br>
+    ----------------------------------
+    <br><br>
+    11 ianuarie 2022, 17:06 ET
+    GENEVA - Președintele Rusiei, Vladimir V. Putin, a petrecut luni de zile adunând aproape 100.000
+    de soldați în apropierea graniței cu Ucraina. Dar Moscova spune că nu are nicio intenție de a
+    invada.
+    <br><br>
+    Care este următoarea mișcare a Rusiei? Nimeni nu știe, cu excepția, poate, a domnului Putin. Iar
+    acest lucru este gândit în mod intenționat.
+    <br><br>
+    Misterul care înconjoară intențiile liderului rus a fost din nou dens ca ceața săptămâna
+    aceasta, după ce un diplomat rus de rang înalt a transmis o serie de mesaje aparent
+    contradictorii după discuțiile cu miză mare de două zile cu Statele Unite privind securitatea.
+    <br><br>
+    La câteva momente după ce a declarat că discuțiile au fost "profunde'' și "concrete'', ministrul
+    adjunct de externe Serghei A. Ryabkov a avertizat că nerespectarea cererilor Rusiei ar putea
+    pune în pericol "securitatea întregului continent european".
+    <br><br>
+    Pozițiile giratorii, adesea amenințătoare, au ajutat să îi lase perplecși chiar și pe unii
+    dintre cei care își câștigă existența din decodarea intențiilor dlui Putin.
+    <br><br>
+    "Opinia experților pe care o pot declara cu autoritate este: Cine naiba știe?" Fyodor Lukyanov,
+    un important analist rus de politică externă care conduce un consiliu care consiliază Kremlinul,
+    a spus într-un interviu telefonic.
+    <br><br>
+    Analiștii au declarat că nici măcar membrii cercului intim al dlui Putin - cu atât mai puțin dl
+    Ryabkov, care a condus delegația Rusiei la negocierile de la Geneva din această săptămână - nu
+    ar putea ști cât de serios se gândește dl Putin la un război pe scară largă cu Ucraina. Și nici
+    nu ar ști ce concesii americane este dispus să accepte pentru a detensiona criza.
+    <br><br>
+    În schimb, este probabil ca domnul Putin să nu fi luat nici măcar o decizie, potrivit
+    analiștilor ruși, precum și oficialilor americani. Iar el se bucură să țină Occidentul pe muchie
+    de cuțit.
+    <br><br>
+    "Ceea ce contează sunt rezultatele", a declarat marți reporterilor purtătorul de cuvânt al dlui
+    Putin, Dmitri S. Peskov, menținând suspansul. "Deocamdată, nu există nimic de spus despre niciun
+    rezultat".
+    <br><br>
+    Discuțiile vor continua miercuri, când oficialii ruși se vor întâlni la Bruxelles cu
+    reprezentanți ai Statelor Unite și ai aliaților săi din NATO, iar joi, la o reuniune a
+    Organizației pentru Securitate și Cooperare în Europa, un grup de 57 de națiuni care include
+    Ucraina, precum și Rusia și Statele Unite.
+    <br><br>
+    După aceea, a declarat dl Peskov, Rusia va decide "dacă are sens" să meargă mai departe cu
+    diplomația.
+    <br><br>
+    Politica de manipulare a domnului Putin din ultimele luni este un studiu de caz în ceea ce
+    privește capacitatea sa de a folosi tensiunea și imprevizibilitatea pentru a obține profituri
+    mari cu ceea ce poate părea o mână geopolitică slabă. Luptându-se cu o economie stagnantă și cu
+    alianțe șubrezite, Rusia se confruntă, de asemenea, cu situații volatile la cel puțin patru
+    frontiere - cu Belarus, Kazahstan, Ucraina și Caucazul de Sud.
+    <br><br>
+    De ani de zile, domnul Putin a fumegat din cauza expansiunii NATO spre est și a sprijinului
+    american pentru sentimentul pro-occidental din Ucraina; acum, prin crearea unei noi crize de
+    securitate care amenință să complice agenda președintelui Biden, a reușit să aducă problema în
+    prim-plan la Washington.
+    <br><br>
+    "Pentru prima dată în ultimii 30 de ani, Statele Unite au acceptat să discute chestiuni pe care
+    era imposibil să le discute chiar și cu un an în urmă", a declarat Tatiana Stanovaya,
+    fondatoarea unei firme de analiză politică, R.Politik.
+    <br><br>
+    Acum că președintele rus îi are pe americani la masa negocierilor, el urmărește o altă strategie
+    clasică a lui Putin: pune pe terenul de joc atât de multe mișcări potențiale - care indică atât
+    de multe direcții diferite - încât îi lasă pe oameni să ghicească, permițându-le să aleagă
+    tacticile care îi convin cel mai bine pe măsură ce evenimentele evoluează.
+    <br><br>
+    Dl Ryabkov, de exemplu, a declarat reporterilor că nu a făcut niciun ultimatum și nu a prevăzut
+    niciun "deal breaker''. Dar a adăugat că era "absolut obligatoriu" ca Statele Unite să garanteze
+    că Ucraina nu va adera niciodată la NATO.
+    <br><br>
+    El a declarat că Rusia nu a impus niciun termen specific, dar că are nevoie de un "răspuns
+    rapid" la cererile sale. Și, deși a spus că nu există "niciun motiv să ne temem de un scenariu
+    de escaladare" în Ucraina, a avertizat că Occidentul încă nu a înțeles cât de periculos ar fi să
+    respingă cererile Rusiei.
+    <br><br>
+    Mesajele contradictorii au continuat marți, când purtătorul de cuvânt al Kremlinului, dl Peskov,
+    a contracarat orice evaluări pozitive pe care dl Ryabkov le-ar fi putut oferi cu o zi înainte.
+    "Deocamdată, nu vedem niciun motiv substanțial de optimism", a spus el în conferința sa zilnică
+    cu reporterii.
+    <br><br>
+    Problema cu abordarea dlui Putin este că nu le oferă diplomaților săi aproape nicio
+    flexibilitate pentru a negocia în numele Rusiei și, uneori, îi lasă să se lupte pentru a menține
+    un mesaj coerent. Dna Stanovaya a avertizat că, chiar dacă diplomații ar ajunge la un fel de
+    acord, șoimii de la Moscova, care au mai multă atenție din partea dlui Putin, ar putea contribui
+    în curând la deraierea acestuia.
+    <br><br>
+    Analiștii au remarcat că dl Ryabkov, din partea diplomatică, cel mai probabil nici măcar nu știa
+    ce opțiuni militare ia în considerare Kremlinul. Coconul fără virusuri pe care dl Putin a
+    încercat să îl stabilească în jurul său a însemnat că până și confidenții sunt forțați să
+    petreacă zile întregi în carantină înainte de a fi lăsați să intre în aceeași cameră cu el,
+    reducând și mai mult legăturile sale cu lumea exterioară.
+    <br><br>
+    "Nimeni nu știe cu certitudine de 100% dacă Putin este pregătit pentru război sau dacă este o
+    cacealma sau nu", a declarat doamna Stanovaya.
+    <br><br>
+    În timp ce dl Ryabkov și alți oficiali ruși au negat că Rusia intenționează să invadeze Ucraina,
+    dl Putin însuși, la două conferințe de presă din decembrie, nu a oferit o astfel de negare. În
+    schimb, el a avertizat cu privire la un "răspuns tehnico-militar" nespecificat, dacă Rusia nu
+    obține ceea ce dorește.
+    <br><br>
+    De la dizolvarea Uniunii Sovietice, mai mult de o duzină de țări din Europa Centrală și de Est,
+    anterior conduse de comuniști, au aderat la NATO. În 2008, NATO a declarat că fostele republici
+    sovietice Georgia și Ucraina vor deveni membre, deși există puține șanse ca acestea să se
+    califice în anii următori.
+    <br><br>
+    Un conflict care se pregătește. Antagonismul dintre Ucraina și Rusia mocnește din 2014, când
+    armata rusă a intrat pe teritoriul ucrainean, anexând Crimeea și stârnind o rebeliune în est. În
+    2015 s-a ajuns la o încetare a focului fragilă, dar pacea a fost evazivă.
+    <br><br>
+    O creștere a ostilităților. Recent, Rusia și-a consolidat forțele în apropierea graniței cu
+    Ucraina, iar retorica Kremlinului față de vecinul său s-a înăsprit. Îngrijorarea a crescut la
+    sfârșitul lunii octombrie, când Ucraina a folosit o dronă înarmată pentru a ataca un obuzier
+    operat de separatiștii susținuți de Rusia.
+    <br><br>
+    Avertismente amenințătoare. Rusia a calificat atacul drept un act destabilizator care a încălcat
+    acordul de încetare a focului, ceea ce a ridicat temeri privind o nouă intervenție în Ucraina
+    care ar putea atrage Statele Unite și Europa într-o nouă fază a conflictului.
+    <br><br>
+    Poziția Kremlinului. Președintele Rusiei, Vladimir V. Putin, care a prezentat din ce în ce mai
+    mult expansiunea spre est a NATO ca pe o amenințare existențială pentru țara sa, a declarat că
+    întărirea militară a Moscovei a fost un răspuns la aprofundarea parteneriatului Ucrainei cu
+    alianța.
+    <br><br>
+    O abordare cumpătată. Președintele Biden a declarat că urmărește o relație stabilă cu Rusia,
+    deși tensiunea a crescut. Până în prezent, administrația sa se concentrează pe menținerea unui
+    dialog cu Moscova, încercând în același timp să dezvolte măsuri de descurajare în colaborare cu
+    țările europene.
+    <br><br>
+    "Avem nevoie de garanții pe termen lung, obligatorii din punct de vedere juridic", care ar
+    reduce prezența NATO în Europa de Est, a declarat dl Putin în decembrie. El a adăugat că, în
+    timp ce Statele Unite au ieșit din tratate în trecut, "avem nevoie de cel puțin ceva, de cel
+    puțin un acord obligatoriu din punct de vedere juridic, mai degrabă decât doar de asigurări
+    verbale".
+    <br><br>
+    În timp ce dl Putin poate că a reușit să convingă SUA să accepte să discute - chiar dacă
+    cererile Moscovei păreau să nu fie demarate - dna Stanovaya și alții au avertizat că, în acest
+    moment, doar discuțiile nu sunt suficiente pentru el.
+    <br><br>
+    Încurajat, el îl vede pe dl Biden ca pe un om care ar putea fi dispus să facă o înțelegere - și
+    că dl Biden, ca veteran al Războiului Rece, ar putea avea un respect pentru diplomația puterii
+    cu Moscova pe care politicienii americani mai tineri nu îl au.
+    <br><br>
+    "El presupune că americanii vor acorda atenție doar la ceea ce îi amenință în mod concret,
+    imediat", a declarat Dmitri Trenin, directorul firmei de consultanță Carnegie Moscow Center,
+    despre președintele rus. "El se folosește de imprevizibilitate, se folosește de tensiune, se
+    folosește de amenințări".
+    <br><br>
+    După cum pot spune cei mai buni analiști, cererea ca NATO să ofere un fel de asigurări formale
+    de a nu se extinde spre est și de a înceta cooperarea militară cu Ucraina este acum cea mai
+    importantă pentru dl Putin. Oferta americană din cadrul discuțiilor de luni de a negocia
+    amplasarea rachetelor și exercițiile militare în Europa este, de asemenea, de interes pentru
+    Rusia, dar dl Ryabkov a indicat că aceste probleme au o prioritate mai mică.
+    <br><br>
+    NATO a exclus în mod repetat ideea că ar permite oricărei alte țări să se opună prin veto cine
+    poate și cine nu poate face parte din alianță, creând ceea ce pare a fi un impas. Cu toate
+    acestea, dl Lukyanov, analistul rus proeminent, a declarat că faptul că discuțiile nu au eșuat
+    imediat înseamnă că ambele părți pot vedea o cale - în prezent invizibilă pentru lumea
+    exterioară - pentru a obține un rezultat funcțional.
+    <br><br>
+    În ceea ce privește ceea ce va face Rusia în continuare, dl Lukyanov a declarat că acest lucru
+    va depinde exclusiv de dl Putin, care exercită un monopol asupra procesului de luare a
+    deciziilor de politică externă fără precedent recent în Rusia. Spre deosebire de liderii din
+    epoca sovietică, dl Putin nu are un "Politburo" de înalți funcționari care să ia decizii
+    colective.
+    <br><br>
+    Dl Lukyanov a declarat că nu au fost văzute persoane care să îl poată influența direct pe dl
+    Putin.
+    <br><br>
+    "El primește diferite informații", a spus dl Lukyanov. "Cei care i le furnizează nu își exercită
+    propria influență și nu știu cum va decurge totul".
+    <br><br>
+</p>
+<br><br>
+<br><a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html"
+                        target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+
+                    <br>
+                    <br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
+}
