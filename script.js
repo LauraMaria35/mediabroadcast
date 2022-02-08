@@ -2679,12 +2679,17 @@ function Argentina(){
                         acolo cu fiul ei nou-născut. Cu un nou partener și cu nevoile de bază ale familiei acoperite, a
                         simțit că poate renunța la slujba de dealer.
                         <br><br>
-                        Sus, Paola, 35 de ani, gătește prăjituri pentru rudele care vin în vizită. Deasupra, Sonia, 38
+                        <img src="img/5392.jpeg" alt="Paula" class="poze">
+                        <br>
+                        <img src="img/3871.jpeg" alt="img" class="floatRight">
+                        <img src="img/4016.jpeg" alt="Sharon" class="floatRight">
+                        Sus, Paola, 35 de ani, gătește prăjituri pentru rudele care vin în vizită. În partea de jos, Sonia, 38
                         de ani, se machiază în celula ei. Ea este deținută, acuzată de trafic de droguri, fără o
-                        sentință definitivă. În dreapta, o numărătoare a deținutelor din salonul doi din unitatea 47. În
-                        extrema dreaptă, Sharon, 38 de ani, așteaptă în celulă ca ofițerii să intre pentru a număra
-                        deținutele
+                        sentință definitivă. În dreapta, o numărătoare a deținutelor din salonul doi din unitatea 47. În extrema dreaptă, Sharon, 38 de ani, așteaptă în celulă ca ofițerii să intre pentru a număra
+                        deținutele.
                         <br><br>
+                        <img src="img/5202.jpeg" alt="Sonia" class="poze">
+                        <br>
                         A mai avut doi copii și viața părea să se îndrepte. Dar partenerul ei a plecat și Paola a
                         început din nou să vândă droguri pentru a-și hrăni cei trei copii. Din nou, munca părea ușoară
                         și banii au început să curgă: "Ceea ce câștigam într-o lună cu drogurile, câștigam în șase luni
