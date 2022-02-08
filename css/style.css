@@ -878,3 +878,7 @@ form {
     font-size: 16px;
     font-family:serif;
 }
+
+strong{
+    font-family: Arial, Helvetica, sans-serif;
+}
