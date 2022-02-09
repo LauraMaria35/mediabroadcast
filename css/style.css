@@ -918,7 +918,7 @@ strong{
     justify-content: left;
 }
 
-#categories {
+.categories {
     
     display: flex;
     justify-content: space-between;
@@ -928,7 +928,7 @@ strong{
     padding: 0px;
   }
   
-  #categories h4{
+  .categories h4{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: beige;
     
@@ -938,7 +938,7 @@ strong{
     width: 0;
   }
   
-  #categories h4:hover{
+  .categories h4:hover{
     background-color: beige;
     color: darkslategray;
   }
