@@ -2922,6 +2922,11 @@ function misoginie(){
     `
 }
 
-function create(){
-    window.location = 'politica.html';
+function politica(){
+    window.open('politica.html');
+    document.getElementById(container).style.display="block";
+}
+function clima(){
+    window.open('SchimbariClimatice.html');
+    document.getElementById(container).style.display="block";
 }

@@ -325,7 +325,7 @@ span {
 #mainArticole {
 
     margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
@@ -543,6 +543,7 @@ label {
     width: 430px;
     margin: 0 auto;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 @media(max-width: 520px) {
@@ -557,7 +558,6 @@ label {
         position: fixed;
         top: 92%;
     }
-
 }
 
 #myInput {

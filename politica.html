@@ -16,7 +16,7 @@
     <title>Articole politică</title>
 </head>
 
-<body onload='create()'>
+<body>
     <div id="container">
         <header>
             <div id="titleNav">
@@ -42,6 +42,13 @@
 
         </header>
         <main id="mainArticole">
+            <div class="categories">
+                <h4 onclick="politica()">Politică</h4>
+                <h4 onclick='clima()'>Schimbări climatice</h4>
+                <h4 onclick="violentaDomestica()">Violență domestică</h4>
+                <h4 onclick="gen()">Identitate de gen</h4>
+                <h4 onclick="contrafacerea()">Contrafacerea</h4>
+            </div>
             <div id=searchBar>
                 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for..">
             </div>
@@ -49,7 +56,7 @@
 
                 <div id=listaArticole>
 
-                    <div id="internal">
+                    <div id="internalPolitics">
                     </div>
                     <div id=list>
 
@@ -204,7 +211,32 @@
         nu = new Date();
         copyRight.innerHTML = '&copy; ' + " " + "Copyright" + " " + nu.getFullYear();
     </script>
-    <script type="text/javascript" src="script.js"></script>
+<script type="text/javascript" src="script.js"></script>
+   <script>
+
+var div = document.getElementById("internalPolitics");
+var table = document.createElement("table");
+
+div.appendChild(table);
+var rowLength = 29;
+var colLength = 1;
+var text = document.createTextNode(i + (j - 1) * 5);
+for (var i = 0; i < rowLength; i++) {
+
+    var rows = document.createElement("tr");
+    table.appendChild(rows);
+
+    for (var j = 0; j < colLength; j++) {
+
+        var columns = document.createElement("td");
+        var text = document.createTextNode(i + j * rowLength);
+        columns.appendChild(text);
+        rows.appendChild(columns);
+    }
+
+}
+   </script>
+   
 </body>
 
 </html>
