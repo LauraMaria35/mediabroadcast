@@ -912,3 +912,8 @@ strong{
     margin: 0;
 }
 
+.sursa{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: left;
+}
