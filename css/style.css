@@ -889,15 +889,20 @@ strong{
     margin: 0 auto;
 }
 
-@media (max-width:520px){
-    .poze{
-        width: 300px;
-    }
-}
-
 .floatRight {
     float: right;
     width: 220px;
    margin: 20px;
    margin-right: 0px;
+}
+
+@media (max-width:620px){
+    .poze{
+        width: 310px;
+    }
+    .floatRight{
+        display: block;
+        width: 100px;
+        margin: 5px;
+    }
 }
