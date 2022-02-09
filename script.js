@@ -2930,3 +2930,8 @@ function clima(){
     window.open('SchimbariClimatice.html');
     document.getElementById(container).style.display="block";
 }
+function sexism(){
+    window.open('sexism.html');
+    document.getElementById(container).style.display="block";
+
+}
