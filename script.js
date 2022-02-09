@@ -2921,3 +2921,7 @@ function misoginie(){
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
 }
+
+function create(){
+    window.location = 'politica.html';
+}

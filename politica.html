@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="//db.onlinewebfonts.com/c/f6376fe0d7fbbcbc4b803c622b67f332?family=Dystopian+Bold" rel="stylesheet"
+        type="text/css" />
+    <link href="//db.onlinewebfonts.com/c/cc4e55b58216e47bb86dc3ccdb3ba335?family=Utopian+Two+BW" rel="stylesheet"
+        type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora&family=Monoton&display=swap" rel="stylesheet">
+    <title>Articole politică</title>
+</head>
+
+<body onload='create()'>
+    <div id="container">
+        <header>
+            <div id="titleNav">
+
+                <div id="naam">
+                    <h1>Media <br> Broadcast</h1>
+                </div>
+                <img src="img/logo.jpeg" alt="logo news">
+
+                <nav>
+                    <div id="navHeader"></div>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="articole.html">Articole</a></li>
+                        <li><a href="materiale.html">Materiale</a></li>
+                        <li><a href="prezentari.html">Prezentări</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+
+                </nav>
+
+            </div>
+
+        </header>
+        <main id="mainArticole">
+            <div id=searchBar>
+                <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for..">
+            </div>
+            <div id="mainHome">
+
+                <div id=listaArticole>
+
+                    <div id="internal">
+                    </div>
+                    <div id=list>
+
+                        <table id="myTable" width="800">
+
+                        <tr>
+                                <th style="width:15%">Data</th>
+                                <th style="width:85%">Titlu</th>
+                            </tr>
+                            <tr>
+                                <td>9/02/2022</td>
+                                <td class="titluri">2021 - KS și o criză tot mai mare cu Occidentul</td>
+                            </tr>
+
+                            <tr>
+                                <td>2/02/2022</td>
+                                <td onclick="ChinaAutoritarista()" class="pointer" class="titluri">China - mai mult decât autoritaristă</td>
+                            </tr>
+                            <tr>
+                                <td>30/01/2022</td>
+                                <td onclick="RusiaInformationWar()"class="pointer" class="titluri">Rusia - Războiul informațional în contextul Ucrainei</td>
+                            </tr>
+                            <tr>
+                                <td>30/01/2022</td>
+                                <td onclick="RusiaSiOccidentul()" class="pointer" class="titluri">Rusia și Occidentul - Ucraina ca "sferă de influență"</td>
+                            </tr>
+                            <tr>
+                                <td>21/01/2022</td>
+                                <td onclick="RusiaUltimeleDesfasurari()" class="pointer" class="titluri">Rusia – ultimele evoluții și mișcări de trupe</td>
+                            </tr>
+                            <tr>
+                                <td>20/01/2022</td>
+                                <td onclick="RusiaSiIran()" class="pointer" class="titluri">Rusia și Iran</td>
+                            </tr>
+                            <tr>
+                                <td>20/01/2022</td>
+                                <td onclick="antisemitism()" class="pointer" class="titluri">Antisemitismul – alfa Babilonului modern și două fluxuri de informații</td>
+                            </tr>
+                           <tr>
+                                <td>18/01/2022</td>
+                                <td onclick="RusiaBelarusUcraina()" class="pointer" class="titluri">Rusia – Belarus și Ucraina</td>
+                            </tr>
+                           <tr>
+                                <td>18/01/2022</td>
+                                <td><a href="Iran.html" class="listaArticoleA" class="pointer"
+                                class="titluri">Iran: – din 1979 până în 2022 </a></td>
+                            </tr>
+                            <tr>
+                                <td>17/01/2022</td>
+                                <td onclick="RussiaInformation()" class="pointer" class="titluri">Rusia – Utilizarea informațiilor în „sfere de influență”, China și CSTO</td>
+                            </tr>
+                            <tr>
+                                <td>17/01/2022</td>
+                                <td  onclick="taliban()" class="pointer" class="titluri">Talibanii - și drepturile universale ale femeilor</td>
+                            </tr>
+                            <tr>
+                                <td>17/01/2022</td>
+                                <td onclick="compromis()" class="pointer" class="titluri">SUA - Compromis la Casa Albă</td>
+                            </tr>
+
+                            <tr>
+                                <td>14/01/2022</td>
+                                <td onclick="RusiaSiUcraina()" class="pointer" class="titluri">Rusia - Ucraina, atac cibernetic și o "fundătură"</td>
+                            </tr>
+                            <tr>
+                                <td>12/01/2022</td>
+                                <td onclick="RussiaSiPanium()" class="pointer" class="titluri">Rusia și Panium - o istorie progresivă a jocurilor de putere, a sferelor de influență...</td>
+                            </tr>
+                            <tr>
+                                <td>09/01/2022</td>
+                                <td onclick="RusiaKazahstan()" class="pointer" class="titluri">Rusia – tulburări civile, Kazahstan și o
+                                    alianță post-sovietică</td>
+                            </tr>
+                            <tr>
+                                <td>04/01/2022</td>
+                                <td onclick="taraGlorioasa()" class="pointer" class="titluri">Țara Glorioasă –
+                                    Democrația și Legea Duminicală</td>
+                            </tr>
+                            <tr>
+                                <td>04/01/2022</td>
+                                <td onclick="SouthKorea()" class="pointer" class="titluri">Coreea de Sud - Noua generație și o reacție agresivă față de egalitatea de gen</td>
+                            </tr>
+                            <tr>
+                                <td>02/01/2022</td>
+                                <td onclick="USAoverview()" class="pointer" class="titluri">SUA – o scurtă prezentare generală a 5 evoluții cheie din 2021</td>
+                            </tr>
+                            <tr>
+                                <td>30/12/2021</td>
+                                <td onclick="Unassessment()" class="titluri">U.N. – RAPID ASSESSMENT THE EFFECTS...</td>
+                            </tr>
+                            <tr>
+                                <td>29/12/2021</td>
+                                <td onclick="transformation()" class="titluri">Russia – the KS and an internal
+                                    transformation</td>
+                            </tr>
+                            <tr>
+                                <td>28/12/2021</td>
+                                <td onclick="Desmond()" class="titluri">Desmond Tutu</td>
+                            </tr>
+                            <tr>
+                                <td>24/12/2021</td>
+                                <td onclick="theKing()" class="titluri">The King of the South</td>
+                            </tr>
+                            <tr>
+                                <td>23/12/2021</td>
+                                <td onclick="hinduIndia()" class="titluri">India – Hindu nationalism...</td>
+                            </tr>
+                            <tr>
+                                <td>22/12/2021</td>
+                                <td onclick="judicialBranch()" class="titluri">Judicial Branch – lower courts...</td>
+                            </tr>
+                            <tr>
+                                <td>21/12/2021</td>
+                                <td><a href="washingtonPost1.html" class="listaArticoleA" class="pointer"
+                                        class="titluri">Statele Unite – căderea democrației și tulburările civile</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>05/12/2021</td>
+                                <td onclick="jurnalismul()" class="pointer" class="titluri">Jurnalismul și căderea la nivel mondial a democrației
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>03/12/2021</td>
+                                <td onclick="siria()" class="pointer" class="titluri">Siria – puterea lui Bashar al-Assad</td>
+                            </tr>
+
+                            <tr>
+                                <td>25/07/2021</td>
+                                <td><a href="pegasusSpyware.html" class="listaArticoleA" class="pointer"
+                                        class="titluri">Era informației – Pegasus Spyware</td>
+                            </tr>
+                        </ol>
+                        </table>
+
+
+                    </div>
+                </div>
+            </div>
+    </div>
+    </main>
+    <footer>
+        <div id="footerDiv">Font made from <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>is licensed by CC
+            BY 3.0</div>
+        <p id="copyRight"> </p>
+
+    </footer>
+    </div>
+
+    <script>
+        let copyRight = document.getElementById("copyRight");
+        nu = new Date();
+        copyRight.innerHTML = '&copy; ' + " " + "Copyright" + " " + nu.getFullYear();
+    </script>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
