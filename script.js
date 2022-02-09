@@ -2732,13 +2732,184 @@ Paola execută în prezent o pedeapsă de patru ani în închisoarea Unitatea 47
 <br><br>
                     </p>
 
-                    <br><br><br><a
+                    <br><br><br>
+                    <div><a
                         href="https://www.theguardian.com/world/2022/jan/07/argentina-drug-offences-women-jails-photo-essay?CMP=Share_AndroidApp_Other"
                         target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div>
 
                     <br>
                     <br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
+}
+
+function misoginie(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>Misoginie - Feminismul radical și "Toate Viețile Contează"</h1>
+    <br><br>
+    <p><br>
+        Avertisment: Următorul articol abordează violența sexuală și este dureros și șocant. 
+        <br><br>
+        Argumentele prezentate trebuie tratate cu atenție.  Dacă nu sunteți sigur cum să înțelegeți aceste aspecte, vă rugăm să contactați conducerea Mișcării, mai degrabă decât să înțelegeți greșit un punct atât de important. 
+        <br><br>
+        ...poate cel mai șocant aspect al atacului de luna trecută dintr-un cartier din Delhi este... faptul că majoritatea celor din mulțime erau femei.
+        <br><br>
+        Ea spune că, în societățile patriarhale, femeile sunt învățate că ele sunt în cele din urmă vinovate pentru orice faptă rea.
+        <br><br>
+        Înțelegând că adevăratul (feminism), Feminismul Radical, a fost formalizarea mesajului Legii duminicale, noi învățăm că sexismul este, în mod profetic, prejudecata originară și cea mai adânc sedimentată.  Misoginismul a devenit atât de înrădăcinat în normele culturale și în valorile familiale, încât chiar milioane de femei îl susțin și îl apără agresiv, fiind în același timp victime ale aceluiași rău.
+        <br><br>
+        Cazul de mai jos este doar un exemplu extrem al acestei probleme larg răspândite, întâlnită în fiecare țară și localitate, cu manifestări, scuze și justificări diferite.  Acesta este motivul pentru care munca noastră este atât de dificilă.  Luptăm pentru mințile și inimile bărbaților și femeilor, aducând singurul lucru care poate salva cu adevărat această lume - un mesaj care eliberează mintea și câștigă inima.
+        <br><br>
+        Statisticile și studiile (de obicei occidentale) privind sănătatea mintală și sinuciderea bărbaților sunt răstălmăcite și denaturate pentru a susține argumentele care îi prezintă pe bărbați fie ca victime ale feminismului, fie ca victime ale sexismului.  Știm că toate viețile contează, indiferent dacă este vorba de bărbați sau femei, dar intenția din spatele acestei afirmații ilustrează un eșec subiacent de a înțelege cu adevărat misoginismul și feminismul. 
+        <br><br>
+        "Adevărul amar este că mulți... nu consideră femeile ca fiind umane", a scris Gandhi pe Twitter. "Acest fapt rușinos trebuie să fie recunoscut și denunțat".
+        <br><br>
+        "Aceasta este în mare măsură o atrocitate de gen, în care un întreg cartier crede că este în regulă să linșeze o femeie pentru că nu a răspuns la dragostea unui bărbat..."
+        <br><br>
+        --------------------
+        <br><br>
+        Părul i-a fost tăiat și fața i-a fost vopsită în negru înainte de a fi scoasă în stradă, unde unii oameni din mulțimea care o aclama au cerut să fie violată.
+    <br><br>
+    Dar poate că cel mai șocant aspect al atacului de luna trecută dintr-un cartier din Delhi este faptul că o înregistrare video difuzată pe rețelele de socializare arată că majoritatea celor care urlau în mulțime erau femei.
+    <br><br>
+    Cel puțin 12 persoane au fost arestate de poliția din Delhi, dintre care opt sunt femei. Două dintre ele sunt minore. Poliția nu a formulat acuzații în legătură cu incidentul, dar spune că victima de 20 de ani a atacului din 26 ianuarie a fost răpită și agresată fizic și sexual.
+    <br><br>
+    Presupusa implicare a femeilor a atins un punct sensibil într-o țară care se luptă de mult timp să abordeze problema violenței de gen. Activiștii spun că acest caz demonstrează amploarea misoginiei internalizate în India, unde femeile sunt învățate să susțină structurile patriarhale. Aceștia se tem că violența împotriva femeilor se va înrăutăți pe măsură ce crește sprijinul pentru grupurile politice de extremă dreapta care promovează valorile tradiționale, patriarhale.
+    <br><br>
+    Swati Maliwal, președinta Comisiei pentru femei din Delhi, a declarat că femeia i-a spus că a fost violată de trei bărbați.
+    "Erau femei prezente (în cameră)... care îi instigau pe bărbați să fie mai brutali cu ea", a declarat Maliwal pentru CNN, relatând ce i-a spus victima.
+    <br><br>
+    "Când am văzut acel video și am văzut aceste femei atacând-o pe această fată... te face să te simți atât de furios și de trist că există astfel de femei care pot face așa ceva".
+    <br><br>
+    Nu este clar dacă vreuna dintre persoanele surprinse pe video în mulțime este implicată în presupusa agresiune sau a fost înregistrată de poliție.
+    <br><br>
+    Sora victimei a urmărit o parte din desfășurarea atacului, dar nu a putut să îl oprească.
+    <br><br>
+    "Mă gândeam să strig, să spun cuiva, dar femeile (acuzate) m-au apucat, spunând că mă vor bate", a declarat tânăra de 18 ani, pe care CNN o numește Aarti pentru a proteja identitatea surorii sale, deoarece legea indiană interzice dezvăluirea identității victimelor violului.
+    <br><br>
+    Aarti a declarat pentru CNN că sora ei - care este căsătorită - a fost atacată de rudele unui adolescent, despre care se spune că s-a sinucis după ce sora ei i-a respins avansurile. CNN a încercat să contacteze reprezentanții presupușilor agresori, deși nu este clar dacă aceștia au avocați.
+    <br><br>
+    "Ei (presupușii agresori) au dat vina pe ea, dar ea nu a făcut nimic", a declarat Aarti. "Nu am crezut niciodată că vor merge atât de departe".
+    <br><br>
+    <strong>Atacul</strong><br><br>
+    În dimineața zilei de 26 ianuarie, Aarti a declarat pentru CNN că a livrat un sac de grâu la casa surorii sale din districtul Shahdara din estul Delhi.
+    <br><br>
+    Dar când sora ei a coborât să îl ridice, o mulțime furioasă s-a năpustit asupra ei.
+    <br><br>
+    "Au început să o lovească și să o bată pe sora mea. Acest lucru se întâmpla în fața mea, dar eu stăteam acolo, nu știam ce să fac... Eram înghețată de frică", a spus Aarti.
+    <br><br>
+    Adolescenta nu-și amintește câte persoane erau, doar că erau "foarte multe" și că printre ele se aflau bărbați și femei dintr-o altă familie din localitate.
+    <br><br>
+    Aarti a spus că grupul a încercat să îl smulgă pe fiul de doi ani și jumătate al surorii sale, dar Aarti "s-a luptat cumva cu ei" și s-a ținut de el în timp ce grupul o urca pe sora ei într-o autoșenilată.
+    <br><br>
+    Ținându-și în brațe nepotul, ea i-a urmat cu o altă ricșă, însoțită de doi dintre presupușii făptași până în zona rezidențială Kasturba Nagar din Delhi, la mai puțin de trei kilometri distanță - unde presupușii făptași locuiesc în apropierea casei pe care Aarti o împarte cu tatăl ei.
+    <br><br>
+    Kasturba Nagar este un cartier cu venituri mici și medii din Delhi, unde femeile stau și discută în fața caselor vopsite în culori vii, iar bărbații se strâng în jurul ceainăriilor locale. În ziua atacului, oamenii erau liberi de la serviciu pentru a marca Ziua Republicii, aniversarea zilei în care a fost adoptată Constituția Indiei - dar această zi a căpătat o nouă semnificație pentru Aarti și familia ei.
+    <br><br>
+    Ricșa s-a oprit în fața casei presupușilor agresori, dar cum Aarti nu și-a putut vedea sora, a intrat în propria casă și a închis ușa.
+    <br><br>
+    La scurt timp după aceea, a auzit agitație afară și, de după un zid, a văzut cum sora ei a fost condusă pe stradă în timp ce femeile o loveau cu bastoane.
+    <br><br>
+    Părul îi fusese tăiat, fața îi fusese înnegrită și avea o ghirlandă de papuci în jurul gâtului - toate acțiunile menite să o marcheze ca fiind poate demnă de rușinea publică.
+    <br><br>
+    Aarti a spus că femeile au dus-o pe sora ei prin cartier, împingând-o, pălmuind-o și bătând-o timp de cel puțin o jumătate de oră.
+    <br><br>
+    "Nu-mi venea să cred că nimeni din cartier nu a vorbit sau a încercat să ajute, ci doar au aplaudat", a spus Aarti.
+    <br><br>
+    Aarti a spus că a sunat la poliție de pe un telefon mobil împrumutat, iar aceștia au sosit 15 minute mai târziu.
+    <br><br>
+    La secția de poliție, sora lui Aarti i-a spus că aceasta a fost închisă într-o cameră unde i s-a făcut un "rău" - o expresie colocvială în India care se referă la o agresiune sexuală - înainte de a fi plimbată pe stradă.
+    <br><br>
+    R Sathiyasundaram, comisarul adjunct al poliției din districtul Shahdara, a declarat că ancheta este încă în curs de desfășurare și nu a vrut să spună în baza cărei legi au fost arestați presupușii autori.
+    <br><br>
+    El a refuzat să confirme natura agresiunii sexuale sau detalii despre incident.
+    <br><br>
+    "Nu putem dezvălui toate acestea, este o chestiune de anchetă", a spus el.
+    <br><br>
+    <strong>Misoginie internalizată</strong>
+    <br><br>
+    Deși mulți indieni au fost șocați de faptul că femeile ar fi incitat la viol, alții spun că nu este surprinzător într-o țară cu valori patriarhale puternice.
+    <br><br>
+    În urmă cu zece ani, avocata Seema Kushwaha a reprezentat-o pe "Nirbhaya", o studentă de 23 de ani care a murit după ce a fost violată în grup într-un autobuz din Delhi în 2012. Indignarea a dus la legi mai stricte privind violul, dar activiștii spun că acestea au avut un impact redus în ceea ce privește reducerea nivelului de violență sexuală în India, care a fost clasată drept cel mai periculos loc din lume pentru a fi femeie într-un sondaj realizat în 2018 de Fundația Thompson Reuters în rândul experților în problemele femeilor.
+    <br><br>
+    Kushwaha spune că problema persistă din cauza aspectelor societale - iar acestea sunt mai greu de schimbat.
+    <br><br>
+    Ea spune că, în societățile patriarhale, femeile sunt învățate că ele sunt în cele din urmă vinovate pentru orice abatere - iar luna trecută, aceste convingeri profunde s-au manifestat pe străzile din Delhi, când femeile ar fi atacat în grup una dintre ele.
+    <br><br>
+    "Dacă lupta împotriva crimelor împotriva femeilor este o luptă a genului feminin, femeile ar fi trebuit să o sprijine pe fată... dar nu au făcut acest lucru. În schimb, au bătut-o pentru că le-a fost înrădăcinat faptul că, indiferent ce fac bărbații, femeile sunt responsabile", a declarat ea.
+    <br><br>
+    În familii, soacrele îngrădesc adesea libertățile noii mirese. În public, femeile sunt adesea cele care supraveghează acțiunile sau modul de a se îmbrăca al altor femei.
+    Atacul din Shahdara este o iterație extremă a acestei situații, a spus Kushwaha, unde femeile ar fi recurs la cruzime împotriva unei alte femei pentru a răzbuna presupusa sinucidere a unui adolescent.
+    <br><br>
+    Potrivit datelor Biroului național de evidență a criminalității din India, infracțiunile împotriva femeilor au fost cu 20% mai mari în 2020 comparativ cu 2013 - ultimul an înainte de venirea la putere a Partidului Bhartiya Janta (BJP), aflat la putere. Cu toate acestea, aceste statistici probabil că nu surprind întreaga imagine - ca și în alte țări, violul este adesea subraportat, iar o creștere a violurilor raportate ar putea reflecta o conștientizare tot mai mare cu privire la raportarea violenței sexuale.
+    <br><br>
+    Kushwaha - care a fost numit recent purtător de cuvânt al Partidului Bahujan Samaj (BSP), care a fost format pentru a reprezenta minoritățile de castă - spune că, deși niciun guvern nu poate fi învinuit în mod singular pentru violența împotriva femeilor din India, ascensiunea ideologiilor de dreapta din țară amenință siguranța și securitatea femeilor.
+    <br><br>
+    CNN a contactat Ministerul Dezvoltării Femeilor și Copiilor din cadrul guvernului indian pentru a obține un comentariu cu privire la numărul tot mai mare de atacuri asupra femeilor, dar nu a primit niciun răspuns.
+    <br><br>
+    Într-o declarație făcută în fața camerei superioare a parlamentului în februarie anul trecut, Ministerul pentru Femei și Dezvoltarea Copilului a declarat că guvernul central a luat o serie de inițiative pentru a aborda problema siguranței femeilor, cum ar fi consolidarea legislației. Dar a adăugat că guvernele de stat sunt responsabile pentru ordinea publică și siguranța cetățenilor. Cu toate acestea, poliția din Delhi, teritoriul capitalei naționale, este subordonată guvernului central.
+    <br><br>
+    Aarti a spus că nu era prima dată când presupușii agresori o vizau pe sora ei. Aceștia le hărțuiau de săptămâni întregi, apărând la casele lor și proferând injurii din când în când de la sinuciderea băiatului în noiembrie, a spus ea.
+    <br><br>
+    Cu o săptămână înainte de atac, Aarti a declarat că a depus o plângere la poliție împotriva presupușilor agresori după ce aceștia ar fi dat foc la autoricșa tatălui ei, pe care acesta o închiria pentru a obține un venit, deoarece este paralizat.
+    <br><br>
+    Solicitat să comenteze plângerea, comisarul adjunct de poliție Sathiyasundaram nu a răspuns.
+    <br><br>
+    Sathiyasundaram a refuzat, de asemenea, să împărtășească orice informație privind motivul presupușilor autori pentru comiterea crimei, spunând că aceasta este "în curs de investigare".
+    <br><br>
+    Pragya Lodha, psiholog clinician la MINDS Foundation, o organizație non-profit pentru sănătate mintală, a declarat că, dacă este adevărat că femeia a fost atacată din cauza sinuciderii adolescentului, acest lucru reflectă lipsa de conștientizare cu privire la sănătatea mintală.
+    "Nu există o cauză și un efect direct când vine vorba de sinucidere... este rar ca simpla respingere să fi dus la sinucidere", a spus ea.
+    <br><br>
+    În timp ce Lodha a declarat că atitudinile în ceea ce privește sănătatea mintală se schimbă în India, în special în ultimii doi ani de pandemie, există încă un decalaj imens între clasele privilegiate ale societății care au acces la sănătate mintală și masele vaste din mediul rural și semi-urban care nu au.
+    <br><br>
+    Lodha a declarat că, chiar și în marile orașe precum Delhi, accesul la serviciile de sănătate mintală poate părea inaccesibil, iar problemele de sănătate mintală sunt încă stigmatizate.
+    <br><br>
+    <strong>Calea de urmat</strong>
+    <br><br>
+    Autoritățile din Delhi au indicat că doresc ca acest caz să fie rezolvat rapid.
+    <br><br>
+    Poliția din Delhi a înființat o echipă specială de investigație formată din 10 membri, iar ministrul șef din Delhi, Arvind Kejriwal, a declarat că guvernul va angaja pentru victimă un "avocat bun" și va accelera soluționarea cazului.
+    <br><br>
+    "Este un început, dar mai sunt multe de făcut... Voi urmări acest caz pentru că vreau ca ancheta să fie finalizată într-un timp foarte scurt", a declarat Maliwal, de la Comisia pentru femei din Delhi. Ea a spus că o anchetă rapidă ar scuti victima de mai multă durere.
+    <br><br>
+    O rezolvare rapidă ar fi în contrast puternic cu majoritatea cazurilor de viol din India. Potrivit avocatei Kushwaha, de multe ori este nevoie de un an sau mai mult pentru ca plângerile de viol să fie înregistrate și investigate, în ciuda faptului că legea indiană prevede ca investigațiile privind cazurile de viol să fie finalizate în termen de două luni.
+    <br><br>
+    Cazurile pot dura ani de zile pentru a ajunge în instanță, iar mulți dintre presupușii făptași ies pe cauțiune în timp ce așteaptă rezultatul - trimițând mesajul că legea nu poate face nimic pentru a-i opri, potrivit lui Kushwaha.
+    <br><br>
+    Și chiar și după toate acestea, mai puțin de jumătate din plângerile de viol care ajung la proces duc la o condamnare. De exemplu, în 2020, doar patru din 10 cazuri s-au încheiat cu un verdict de vinovăție, potrivit celor mai recente statistici ale Biroului Național de Evidență a Criminalității.
+    <br><br>
+    "Chiar și atunci când au loc condamnări, acestea se întâmplă în 10 sau 15 ani", a declarat avocatul Kushwaha.
+    <br><br>
+    Maliwal, de la Comisia pentru femei din Delhi, spune că o parte a problemei este lipsa unor instanțe rapide care să se ocupe de cazurile de viol.
+    <br><br>
+    În 2019, guvernul central a aprobat un plan de deschidere a 1.023 de instanțe rapide în India pentru a ajuta la eliminarea întârzierilor în cazurile de viol și infracțiuni sexuale împotriva minorilor.
+    <br><br>
+    Cu toate acestea, potrivit datelor prezentate de ministrul Legii și Justiției în camera superioară a parlamentului în decembrie 2021, doar 681 de astfel de instanțe fuseseră înființate.
+    <br><br>
+    În afară de lege, trebuie să se pună accentul și pe educație, copiii din toate școlile să aibă acces la educație sexuală și studii de gen, a declarat Kushwaha. Violența împotriva femeilor va scădea doar dacă cultura patriarhală a Indiei se va schimba pentru a crea o societate mai egală, a adăugat ea.
+    <br><br>
+    Timp de mai bine de o săptămână, poliția a păzit ambele capete ale străzii unde a avut loc atacul. Oamenii încetinesc în timp ce trec și încearcă să se uite înăuntru.
+    <br><br>
+    Aarti locuiește în continuare în casa familiei sale, la câțiva metri de casa în care a fost atacată sora ei, pe aceeași stradă pe care a fost defilată și batjocorită.
+    <br><br>
+    "Nu plec nicăieri; nu-mi permit să plec", a spus Aarti.
+    <br><br>
+    "Am 18 ani, nu am un loc de muncă și trebuie să am grijă de tatăl meu", a spus ea. "Mă bucur că sora mea s-a întors acasă... I-am dat fiul înapoi; el s-a bucurat să o vadă".
+    <br><br>
+    </p>
+    <br><br><br>
+    <div><a
+    href="https://edition.cnn.com/2022/02/04/india/india-delhi-rape-victim-shamed-intl-dst-hnk/index.html"
+    target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+        height="25px" class="link"><span>&nbsp;</span>Sursa: https://edition.cnn.com/</a>
+    </div>
+    <br><br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
 }
