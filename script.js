@@ -48,7 +48,7 @@ function jurnalismul() {
         <br><br>
         Dar este o linie precară.<br><br>Observatorii spun că amenințarea împotriva lui Ressa va avea un gust și mai rău în Filipine, unde fiul fostului dictator, Ferdinand Marcos, și-a unit forțele cu fiica actualului președinte autoritar, Rodrigo Duterte.<br><br>Ressa și-a petrecut o mare parte din ultimii patru ani încercând să sublinieze că nimic din toate acestea nu se întâmplă în mod izolat și că „atacul asupra adevărului” are același impact asupra democrațiilor occidentale cum a avut și asupra țării sale.<br><br>Muratov este și mai sumbru. „Este înfricoșător că țările care trăiesc într-o democrație de atâția ani se îndreaptă spre o dictatură. Acesta este un gând terifiant.” <br><br> 
         Între timp, el spune că va face ceea ce fac editorii de ziare: să-și editeze ziarul atâta timp cât va putea. Sau, atâta timp cât îl lasă Vladimir Putin.</p><br><br><br>
-        <a href=https://www.theguardian.com/world/2021/dec/04/nobel-winner-we-journalists-are-the-defence-line-between-dictatorship-and-war?CMP=Share_AndroidApp_Other><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a><br>
+        <div><a href=https://www.theguardian.com/world/2021/dec/04/nobel-winner-we-journalists-are-the-defence-line-between-dictatorship-and-war?CMP=Share_AndroidApp_Other><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div><br>
         <br>
         <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
 `
@@ -67,7 +67,7 @@ function siria() {
     <br>
     <p>
     Acest articol din Foreign Policy discută o parte din istoria familiei Assad și politica din spate. De asemenea, vorbește despre recentele alegeri din Siria și despre răspunsul comunității internaționale.<br><h2>Reuniunea de familie a lui Assad ar putea fi o victorie finală</h2><div><p>Reconciliându-se cu un unchi înstrăinat, se poate ca dictatorul Siriei să-și fi restabilit definitiv puterea.<br><br><span>Articol scris de Anchal Vohra, editorialist pentru Politica Externă și corespondent TV independent și comentator pentru Orientul Mijlociu, cu sediul la Beirut.<br><br>2 DECEMBRIE 2021, 02:25</span><br><br>Un nepot bun trebuie să fie un lider bun: așa a vrut președintele sirian Bashar al-Assad ca grupul său etnic alawit să se gândească la el când a decis în octombrie să-i permită unchiului său înstrăinat, Rifaat al-Assad, să se întoarcă în Siria și să scape de pedeapsa de patru ani de închisoare în Franța. Nu a fost un gest altruist, ci unul care a izvorât din autoconservare.<br><br>Prin onorarea codului tribal de a-ți proteja poporul, Bashar al-Assad își propune să liniștească comunitatea alauită, al cărei sprijin pentru el s-a diminuat pe fondul agravării crizei economice din Siria; a fost, de asemenea, conceput pentru a zdrobi disidența în cadrul clanului Assad. Acesta marchează încă un pas al lui Bashar al-Assad către restabilirea controlului complet asupra Siriei.<br><br>Până în 1984, Rifaat al-Assad s-a înțeles bine cu fratele său și cu tatăl lui Bashar al-Assad, Hafez al-Assad, fostul președinte care a adus clanul Assad la putere. Rifaat al-Assad a fost generalul cel mai de încredere al fratelui său și se presupune că liderul său, în 1982, a comis masacrul islamiștilor politici din Hama. Mii de oameni au fost uciși, iar Rifaat al-Assad a ajuns să fie cunoscut drept „Măcelarul din Hama”. Dar cearta de familie a început la scurt timp după, și doar doi ani mai târziu, el a fost suspectat că, complotează pentru a-și răsturna fratele. Rifaat al-Assad a fost demascat și forțat să fugă din țară.<br><br>De-a lungul celor trei decenii în care a trăit în Europa în exil, și-a menținut o oarecare influență în zonele dominate de alauiții din patria sa. El s-a opus succesiunii la putere a lui Bashar al-Assad și a susținut că, din punct de vedere constituțional, el ar fi trebuit să fie cel care să preia conducerea de la fratele său.<br><br>Când a izbucnit războiul civil în 2011, Rifaat al-Assad a format o nouă organizație de opoziție numită Consiliul Național Democrat Sirian cu alți membri nemulțumiți ai Partidului Baath din Siria – poate pentru a părea curat în ochii țării sale gazdă sau pentru a arăta Rusiei că el ar putea fi un înlocuitor potrivit pentru Bashar al-Assad.<br><br>Trecutul lui l-a prins din urmă însă anul trecut. Un tribunal din Paris l-a condamnat pentru deturnare de fonduri ale statului sirian și l-a condamnat la patru ani de închisoare. Se spune că el a cumpărat o herghelie și un castel, precum și proprietăți imobiliare de prim rang în cartierele pariziene elegante, cu fonduri câștigate ilegal. În septembrie, instanța și-a menținut decizia. Rifaat al-Assad, în vârstă de 84 de ani, s-a temut că ar putea fi nevoit să-și petreacă ultimii săi ani închis într-o celulă și a decis să-și înghită mândria, să sărute inelul nepotului căruia i se opusese în toți acești ani și să se întoarcă în Siria.<br><br>Feras al-Assad, unul dintre fiii lui Rifaat al-Assad, a declarat pentru Foreign Policy că tatăl său a fost „cu siguranță vinovat de acele crime din Franța” și de multe altele din Siria. „A trimis mulți oameni nevinovați la închisoare” și era cunoscut ca „cea mai brutală personalitate din regimul sirian” la acea vreme. Feras al-Assad a adăugat că Bashar al-Assad și-a lăsat tatăl să se întoarcă pentru a-l împiedica să dezvăluie secretele mai întunecate ale regimului Assad - probabil singura pârghie rămasă lui Rifaat al-Assad. „Bashar nu a avut de ales”, a spus el. „Dacă Rifaat al-Assad vorbește despre ceea ce s-a întâmplat în Siria între 1970 și 1984, perioadă în care a fost a doua cea mai puternică persoană din țară, atunci aspirația regimului de a normaliza relațiile cu Occidentul va ieși din discuție.”<br><br>Lui Rifaat al-Assad i s-a permis să se întoarcă în Siria numai după ce i-a jurat credință nepotului său și a promis că nu va participa la niciun activism politic sau social. Ribal al-Assad, un alt fiu al lui Rifaat al-Assad, a vorbit cu <em>Foreign Policy</em> (Politica Externă) din Spania și și-a apărat tatăl și a susținut că este încă extrem de popular. „Dacă Bashar spune că tatăl meu este o forță cheltuită, atunci de ce să-i cer să nu se implice în politică? Asta înseamnă că știe că tatăl meu are încă o mulțime de urmăritori în Siria”, a spus el.<br><br>Mai multe conversații cu Ribal al-Assad de-a lungul anilor au făcut aluzie la propria sa ambiție politică. Pare înclinat să revendice moștenirea tatălui său în Siria și să profite de numele său printre alauiți. Dar în Siria lui Bashar al-Assad, nu există spațiu pentru orice fel de opoziție, nici măcar din partea unui membru al familiei.<br><br>În 2019, a izbucnit o ceartă publică între președinte și vărul său matern Rami Makhlouf, un magnat de afaceri. Acesta din urmă controla jumătate din economia siriană și deținea o miliție personală și o organizație caritabilă pe care le folosea pentru a-și menține și a crește baza de sprijin printre alauiți. Timp de mai bine de două decenii, Makhlouf a lucrat pentru Bashar al-Assad la fel cum a făcut tatăl său pentru Hafez al-Assad. Dar, pe măsură ce economia țării s-a prăbușit în faza postbelică și nemulțumirea în rândul alauților a crescut, un stat falimentar a confiscat activele lui Makhlouf, inclusiv gigantul de telecomunicații Syriatel. Soția președintelui, Asma al-Assad, a fost văzută ca orchestratoare a planului de a-l marginaliza pe Makhlouf și de a-i uzurpa puterea.<br><br>Puterea politică și economică din Siria se află acum în casa lui Bashar și Asma al-Assad, care intenționează să le lase moștenire pe toate celor trei copii ai lor. Joshua Landis, șeful Centrului pentru Studii din Orientul Mijlociu al Universității din Oklahoma și care este căsătorit cu un alauit sirian din Latakia, o fortăreață a lui Assad, a spus că nu mai este nimeni care să-l conteste pe președintele sirian. „Rami a fost lipsit de toată puterea și de cele mai multe bunuri, cu excepția, probabil, a câtorva dintre milioanele pe care le-a pus-deoparte în companii-fantomă din străinătate. De mai bine de un an nu am mai auzit nimic de la el”, a spus Landis. „Nimeni nu prevede astăzi o forță suficient de puternică pentru a-l scoate pe Bashar al-Assad de la putere, nici în cadrul opoziției fragmentate siriene și nici în cadrul comunității alauite sau al armatei. Se pare că este aici pentru a rămâne.”<br><br>Bashar al-Assad este în continuă ascensiune și nu vede concurență. În octombrie, speranța unui compromis cu opoziția politică și a participării acestora la politica siriană au fost anulate, deoarece nu s-a obținut niciun progres în discuțiile mediate de ONU. Reprezentanții guvernului Assad, ai opoziției politice și ai societății civile s-au așezat pentru a șasea oară pentru a elabora o nouă constituție, dar nu s-a realizat nimic. Trimisul special al Națiunilor Unite pentru Siria, Geir Pedersen, a descris discuțiile drept o „mare dezamăgire”.<br><br>Experții spun că Bashar al-Assad a participat la ONU și nu a intenționat niciodată să includă opoziția în guvernarea Siriei. Dacă a existat vreodată o șansă ca discuțiile să reușească, aceasta a expirat în mai, când au avut loc alegeri în Siria și fără nicio surpriză Bashar al-Assad a revenit la putere cu 95% din voturi. Lumea a numit-o o înșelăciune și și-a desfășurat treburile, în timp ce observatorii din Siria știau că Bashar al-Assad și Rusia au continuat sondajele pentru a da glas morții oricărei posibilități de schimbare semnificativă în Siria.<br><br>Politica comunității internaționale cu privire la Siria a fost aceea de a impulsiona punerea în aplicare a Rezoluției 2254 a Consiliului de Securitate al ONU (U.N. Security Council Resolution 2254), care solicită o nouă constituție care să garanteze participarea opoziției politice și mai multe reforme politice. Dar experții cred că a murit de mult și este necesară o nouă abordare care să ia în considerare modul în care Bashar al-Assad și-a depășit inamicii din țară și din străinătate.<br><br>Majoritatea națiunilor arabe au acceptat această realitate și, de asemenea, încearcă să convingă Statele Unite să reducă presiunea asupra președintelui sirian. Regele Iordaniei Abdullah a argumentat în favoarea renașterii lui Bashar al-Assad și a abordat cazul său cu președintele american Joe Biden. El a reușit să obțină de la Statele Unite o scutire selectivă a sancțiunilor împotriva Iordaniei, Egiptului și Libanului pentru a face comerț cu energie electrică și gaze prin teritoriul sirian. Emiratele Arabe Unite l-au trimis pe ministrul de externe șeicul Abdullah bin Zayed Al Nahyan la Damasc pentru a se întâlni cu Bashar al-Assad, cel mai mare semn de până acum al impulsului de a pune capăt izolării sale diplomatice.<br><br>Este probabil timpul ca, comunitatea internațională să-și recalibreze așteptările și să negocieze cu Bashar al-Assad într-o manieră prin care să câștige ceva tangibil pentru poporul sirian. În schimbul unei relaxări a sancțiunilor, ar putea fi posibil să se asigure eliberarea prizonierilor politici, drepturile refugiaților care doresc să se întoarcă și amnistia pentru cei care au scăpat de conscripția obligatorie. Nu ar trebui să ne mai îndoim că Bashar al-Assad și-a asigurat controlul asupra Siriei și că este puțin probabil că ar lăsa-o să-i scape din mână prea curând.</p></div><br><br>
-    <a href="https://foreignpolicy.com/2021/12/02/assads-family-reunion-could-be-a-final-victory/?tpcc=recirc_latest062921" target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+    <div><a href="https://foreignpolicy.com/2021/12/02/assads-family-reunion-could-be-a-final-victory/?tpcc=recirc_latest062921" target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://foreignpolicy.com/</a></div>
     <br>
     <br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
@@ -254,10 +254,10 @@ Amber Phillips, de la The Fix, a scris despre dezbaterea din ce în ce mai mare 
 Deși această dezbatere nu s-a format pe deplin - și există dovezi că GOP nu va câștiga atât de multe locuri, deoarece unele hărți elaborate de comisii, cum ar fi cea a Californiei, s-ar putea dovedi destul de favorabile pentru democrați - fundalul este o recunoaștere din ce în ce mai mare în Partidul Democrat că GOP este mult mai bun în exploatarea regulilor politicii. Democrații se pot plânge
 despre asta sau pot „lupta cu focul prin foc”. Și ca și în cazul unor lucruri precum reforma obstrucțională, există o mulțime de dovezi că ar putea opta pentru o abordare mai puțin bună a guvernării - pentru că nu a fost bine pentru capacitatea lor de a guverna.
 <br><br>
-</p><br><br><a href="https://www.washingtonpost.com/politics/2021/12/30/4-most-undersold-political-stories-2021/" target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a></div>
+</p><br><br><div><a href="https://www.washingtonpost.com/politics/2021/12/30/4-most-undersold-political-stories-2021/" target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.washingtonpost.com/</a></div>
 <br>
 <br>
-<a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+<a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
 `
 }
 
@@ -334,9 +334,9 @@ function taraGlorioasa() {
     Încă o dată, ca și înainte, speranța pentru America sunt americanii. Dar este timpul să ne confruntăm cu ceea ce americanii anilor 1850 au considerat atât de greu de înfruntat: sistemul este defect, de-a lungul liniei. Situația este clară și alegerea este primordială: reinventare sau cădere.
     <br><br>
     </p>
-    <br><br><br><a href="https://www.theguardian.com/world/2022/jan/04/next-us-civil-war-already-here-we-refuse-to-see-it" target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a></div><br>
+    <br><br><br><div><a href="https://www.theguardian.com/world/2022/jan/04/next-us-civil-war-already-here-we-refuse-to-see-it" target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div><br>
     <br>
-    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
 `
 }
 
@@ -397,12 +397,12 @@ Francis, care a denunțat anterior „iarna demografică” sau scăderea natali
 În 2014, Francis a declarat pentru ziarul Il Messaggero că a avea animale de companie în loc de copii este „un alt fenomen de degradare culturală” și că relațiile emoționale cu animalele de companie sunt mai ușoare decât relația „complexă” dintre părinți și copii.
 <br>
 </p>
-<br><br><br><a
+<br><br><br><div><a
 href="https://www.theguardian.com/world/2022/jan/05/pope-couples-choose-pets-children-selfish?CMP=Share_AndroidApp_Other"
-target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div>
 </div><br>
 <br>
-<a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+<a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
 `
 }
 
@@ -437,8 +437,8 @@ function womensRights() {
                         <em>Femeile au o contribuție semnificativă la munca agricolă din întreaga lume, dar mai puțin de 20% dintre proprietarii de pământ sunt femei.</em>
                         <br><br>
                     </p>
-                    <br><br><br><a href="https://worldpopulationhistory.org/womens-status-and-fertility-rates/"
-                        target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                    <br><br><br><div><a href="https://worldpopulationhistory.org/womens-status-and-fertility-rates/"
+                        target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://worldpopulationhistory.org/</a></div>
                         <br>
                         <br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
@@ -479,13 +479,14 @@ Joi, oficialii ruși au declarat că discuțiile nu au dat rezultate, iar un dip
 <br><br>
 </p>
  </div>
-                    <br><br><br><a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html"
+                    <br><br><br><div><a href="https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html"
                         target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                            height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                            height="25px" id="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a></div>
                     <br>
                     <br>
+                    <div>
                     <a href="https://stirileprotv.ro/stiri/international/ucraina-un-atac-cibernetic-masiv-a-vizat-website-uri-guvernamentale.html" target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                        height="25px" class="link"><span>&nbsp;</span>ProTV</a>
+                        height="25px" class="link"><span>&nbsp;</span>ProTV</a></div>
                     <br>
                     <br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
@@ -598,9 +599,9 @@ function compromis() {
          
     </p>
 </div>
-<br><br><br><a href="https://www.nytimes.com/2022/01/16/opinion/voting-rights-failure.html"
+<br><br><br><div><a href="https://www.nytimes.com/2022/01/16/opinion/voting-rights-failure.html"
     target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-        height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+        height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a></div>
 <br>
 <br>
 <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
@@ -647,9 +648,9 @@ Multe femei trăiesc în clandestinitate, temându-se de un regim cunoscut pentr
 </p>
 
 <br><br><br>
-<a href="https://www.theguardian.com/world/2022/jan/16/taliban-forces-pepper-spray-women-rights-protesters-kabul?CMP=Share_AndroidApp_Other"
+<div><a href="https://www.theguardian.com/world/2022/jan/16/taliban-forces-pepper-spray-women-rights-protesters-kabul?CMP=Share_AndroidApp_Other"
     target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-        height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+        height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div>
 <br><br>
 <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
@@ -773,8 +774,8 @@ function RussiaInformation() {
                 <br><br>
             </p>
             <br><br><br>
-            <a href="https://foreignpolicy.com/2022/01/14/russia-kazakhstan-propaganda/?tpcc=recirc_latest062921"
-                target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+            <div><a href="https://foreignpolicy.com/2022/01/14/russia-kazakhstan-propaganda/?tpcc=recirc_latest062921"
+                target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://foreignpolicy.com/</a></div>
             <br><br><a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>`
 }
 
@@ -884,8 +885,8 @@ function RusiaBelarusUcraina() {
 
                     </p>
                     <br><br><br>
-                    <a href="https://www.theguardian.com/world/2022/jan/17/russia-moves-troops-to-belarus-for-joint-exercises-near-ukraine-border?CMP=Share_AndroidApp_Other"
-                        target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                    <div><a href="https://www.theguardian.com/world/2022/jan/17/russia-moves-troops-to-belarus-for-joint-exercises-near-ukraine-border?CMP=Share_AndroidApp_Other"
+                        target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div>
                         <br><br><a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div</div>`
 }
 
@@ -979,8 +980,8 @@ function antisemitism() {
             <br><br>
         </p>
         <br><br><br>
-        <a href="https://www.theatlantic.com/ideas/archive/2022/01/texas-synagogue-anti-semitism-conspiracy-theory/621286/"
-            target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+        <div><a href="https://www.theatlantic.com/ideas/archive/2022/01/texas-synagogue-anti-semitism-conspiracy-theory/621286/"
+            target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theatlantic.com/</a></div>
         <br><br><a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>`
 }
 
@@ -1050,9 +1051,9 @@ Rusia, cred analiştii, continuă să joace un rol constructiv în discuţiile d
 „Rusia nu vrea nici Iranul cu o bombă, nici Iranul bombardat”, a spus Ali Vaez, directorul Iranului al International Crisis Group. „Rușii se pricep foarte bine să-și compartimenteze diferențele cu Occidentul.”
 <br><br>
 </p>
-<br><br>
+<br><br><div>
 <a href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html?referringSource=articleShare"
-    target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+    target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a></div>
 <br><br>
 <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
 `
@@ -1132,9 +1133,9 @@ Murphy, care s-a întâlnit miercuri în mediul virtual cu președintele Biden p
 "Mi-aș dori să existe semne că această criză se mișcă în revers, dar în fiecare zi se pare că Rusia se adâncește și mai mult", a spus Murphy. "Aceasta este o cacealma foarte costisitoare, dacă este o cacealma".
 <br><br>
 </p>
-<br><br><br>
+<br><br><br><div>
 <a href="https://www.washingtonpost.com/world/2022/01/20/russia-ukraine-military-satellite/"
-    target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+    target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: <https://www.washingtonpost.com/</a></div>
 <br><br>
 <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
@@ -1275,10 +1276,10 @@ function HughHefner() {
             <br><br>
 
         </p>
-        <br><br><br><a
+        <br><br><br><div><a
             href="https://www.politico.com/magazine/story/2017/09/28/hugh-hefner-death-feminism-womens-rights-215657/"
             target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.politico.com/</a></div>
 
         <br><br><br><br><br>
 
@@ -1382,10 +1383,10 @@ function HughHefner() {
             câștige atracție în masă, el a exploatat și a cimentat chiar ideologia pe care pretinde că a
             schimbat-o.
         </p>
-        <br><br><br><a
+        <br><br><br><div><a
             href="https://www.feministcurrent.com/2017/10/04/hugh-hefner-represents-neoliberalisms-win/"
             target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                height="25px" id="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                height="25px" id="link"><span>&nbsp;</span>Sursa: https://www.feministcurrent.com/</a></div>
 
         <br><br><br><br><br>
 
@@ -1557,9 +1558,10 @@ Madison a părăsit conacul în 2008, în același an în care și-a încheiat p
 <br><br>
         </p>
         <br><br><br>
+        <div>
         <a href="https://www.washingtonpost.com/arts-entertainment/2022/01/25/hugh-hefner-secrets-of-playboy/"
         target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.washingtonpost.com/</a></div>
             <br><br>
             <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
                 
@@ -1688,11 +1690,11 @@ function ChinaAutoritarista() {
                         respingem din start cuvântul cu "f".
                         <br><br>
                     </p>
-                    <br><br><br><a
+                    <br><br><br><div><a
                         href="https://www.washingtonpost.com/opinions/2022/01/31/china-authoritarian-fascism-totalitarian-uyghurs-surveillance/"
                         target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
-
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.washingtonpost.com/</a>
+</div>
                     <br><br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
                 
@@ -1786,8 +1788,8 @@ function SchimbarileClimatice() {
             oceanelor și că extremele cresc în timp."
             <br><br>
         </p>
-        <br><br><br>
-        <a href="https://www.theguardian.com/environment/2022/feb/01/extreme-heat-oceans-passed-point-of-no-return-high-temperatures-wildlife-seas" target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+        <br><br><br><div>
+        <a href="https://www.theguardian.com/environment/2022/feb/01/extreme-heat-oceans-passed-point-of-no-return-high-temperatures-wildlife-seas" target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div>
         <br><br>
         <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
@@ -1842,10 +1844,10 @@ function pinguinii() {
                         <br><br>
                     </p>
 
-                    <br><br><br><a
+                    <br><br><br><div><a
                         href="https://www.theguardian.com/world/2022/jan/29/same-sex-penguins-succeed-as-foster-parents-in-first-for-new-york-zoo?CMP=Share_AndroidApp_Other"
                         target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div>
 
                     <br><br>
                     
@@ -2009,10 +2011,10 @@ function RusiaInformationWar() {
                         <br><br>
                     </p>
 
-                    <br><br><br><a
+                    <br><br><br><div><a
                         href="https://www.nytimes.com/2022/01/25/us/politics/russia-ukraine-propaganda-disinformation.html"
                         target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a></div>
                     <br><br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
@@ -2160,10 +2162,10 @@ function RusiaSiOccidentul() {
                         <br><br>
                     </p>
 
-                    <br><br><br><a href="https://foreignpolicy.com/2022/01/26/russia-ukraine-invasion-timeline/"
+                    <br><br><br><div><a href="https://foreignpolicy.com/2022/01/26/russia-ukraine-invasion-timeline/"
                         target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
-
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://foreignpolicy.com/</a>
+</div>
                     <br><br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
@@ -2268,11 +2270,13 @@ function SchimbareaClimei() {
         <br><br>
     </p>
 
-<br><br><br><a
+<br><br><br>
+<div>
+<a
     href="https://www.theguardian.com/environment/2022/jan/11/oceans-hottest-temperatures-research-climate-crisis?CMP=Share_AndroidApp_Other"
     target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-        height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
-
+        height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a>
+</div>
 <br>
 <br>
 <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
@@ -2499,9 +2503,11 @@ function RussiaSiPanium() {
     <br><br>
 </p>
 <br><br>
-<br><a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html"
+<br>
+<div>
+<a href="https://www.nytimes.com/2022/01/11/world/europe/putin-ukraine-russia.html"
                         target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-                            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a></div>
 
                     <br>
                     <br>
@@ -2633,10 +2639,12 @@ function RusiaKazahstan() {
         <br><br>
     </p>
 
-    <br><br><br><a href="https://foreignpolicy.com/2022/01/07/kazakhstan-russia-troops-csto/"
+    <br><br><br>
+    <div>
+    <a href="https://foreignpolicy.com/2022/01/07/kazakhstan-russia-troops-csto/"
         target=_blank><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
-            height="25px" class="link"><span>&nbsp;</span>link către articolul în engleză</a>
-
+            height="25px" class="link"><span>&nbsp;</span>Sursa: https://foreignpolicy.com/</a>
+</div>
     <br>
     <br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
