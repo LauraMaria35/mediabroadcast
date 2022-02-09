@@ -906,3 +906,9 @@ strong{
         margin: 5px;
     }
 }
+
+.link{
+    display: inline-block;
+    margin: 0;
+}
+
