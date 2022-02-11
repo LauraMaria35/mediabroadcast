@@ -3158,5 +3158,71 @@ function importantaUcrainei(){
 }
 
 function ElSalvador(){
-    
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>El Salvador - avortul într-o țară majoritar catolică</h1>
+    <br><br>
+    <p><br>
+        Am mai vorbit despre Polonia și despre "omagiul" pe care valorile familiale tradiționale profund
+        sexiste ale acesteia îl aduc papalității. Atacurile lor se concentrează în continuare asupra
+        femeilor și a comunității LGBTQIA+.
+        <br><br>
+        Acest articol discută despre drepturile omului pentru femei și avortul în El Salvador, țară
+        majoritar catolică.
+        <br><br>
+        ----------------------
+        <br><br>
+        El Salvador a eliberat o altă femeie încarcerată pentru omor calificat, care, după ce a suferit
+        o urgență obstetricală, a fost acuzată că și-a întrerupt sarcina, într-o țară în care avortul
+        este interzis în orice circumstanțe.
+        <br><br>
+        Femeia, pe care activiștii care o ajută au identificat-o doar ca Elsy, a executat mai mult de un
+        deceniu dintr-o pedeapsă de 30 de ani. Ea a fost a cincea femeie eliberată înainte de ispășirea
+        pedepsei de la sfârșitul lunii decembrie a anului trecut.
+        <br><br>
+        "Sărbătorim faptul că Elsy a fost eliberată după ce a stat în închisoare pe nedrept puțin mai
+        mult de 10 ani", a declarat Morena Herrera, director al organizației non-profit Citizen Group
+        for the Decriminalization of Abortion (Grupul de cetățeni pentru dezincriminarea avortului).
+        "Sentința ei eronată de 30 de ani pentru omor calificat a luat sfârșit".
+        <br><br>
+        Sentința lui Elsy a fost comutată și drepturile ei au fost restabilite, a declarat Herrera.
+        <br><br>
+        Femeia s-a reunit miercuri cu familia sa în Yayantique, în estul El Salvadorului.
+        <br><br>
+        În iunie 2011, Elsy, o mamă singură în vârstă de 28 de ani, lucra ca angajată domestică atunci
+        când a suferit un aparent avort spontan. Ea a cerut ajutor, dar în loc să primească asistență
+        medicală a fost arestată imediat, fiind suspectată că a avortat.
+        <br><br>
+        În urma unui proces plin de nereguli, ea a fost declarată vinovată și condamnată pentru omor
+        calificat.
+        <br><br>
+        Organizația lui Herrera a declarat că Elsy nu a avut parte de o apărare legală din partea
+        avocatului din oficiu care s-a ocupat de cazul ei și care să-i protejeze drepturile. Chiar și
+        după ce Curtea Supremă de Justiție a fost de acord să îi comute sentința și după ce biroul
+        procurorului general a semnat, avocații ei au fost nevoiți să facă apel după ce o instanță
+        inferioară a refuzat să o elibereze.
+        <br><br>
+        La 23 decembrie, El Salvador a eliberat trei femei încarcerate în mod similar, iar o a patra la
+        17 ianuarie.
+        <br><br>
+        În ultimii 20 de ani, El Salvador a trimis în judecată 181 de femei care au suferit urgențe
+        obstetricale. Organizația lui Herrera a reușit să elibereze 61 dintre ele începând din 2009.
+        <br><br>
+        Curtea interamericană pentru drepturile omului a decis în noiembrie că El Salvador a încălcat
+        drepturile unei femei identificate ca Manuela, care a fost trimisă la închisoare pentru
+        încălcarea legilor privind avortul și a murit în timp ce își ispășea pedeapsa de 30 de ani.
+        <br><br>
+    </p>
+    <br>
+    <a href="https://www.theguardian.com/world/2022/feb/09/el-salvador-woman-freed-abortion-law-10-years?CMP=Share_AndroidApp_Other"
+        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a>
+
+    <br><br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    `
 }
