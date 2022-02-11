@@ -2912,11 +2912,11 @@ function misoginie(){
     <br><br>
     </p>
     <br><br><br>
-    <div><a
+    <a
     href="https://edition.cnn.com/2022/02/04/india/india-delhi-rape-victim-shamed-intl-dst-hnk/index.html"
     target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
         height="25px" class="link"><span>&nbsp;</span>Sursa: https://edition.cnn.com/</a>
-    </div>
+    
     <br><br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
@@ -2934,4 +2934,193 @@ function sexism(){
     window.open('sexism.html');
     document.getElementById(container).style.display="block";
 
+}
+
+function KSOccident(){
+    `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br>
+    <br>
+    <h1>2021 - KS și escaladarea crizei cu Occidentul</h1>
+                    <br><br>
+                    <p><br>
+                        Bill Browder a declarat că Putin ar putea fi constrâns prin sancțiuni care să vizeze finanțele
+                        sale personale și ascunse. Ponderea dovezilor nu susține o soluție atât de simplă.
+                        <br><br>
+                        Putin din 2008 nu este Putin din 2021. Naționalismul său, mândria, reputația, temerile reale sau
+                        imaginare și sentimentul tot mai nebunesc de victimizare sunt probleme prea importante pentru o
+                        soluție atât de simplă.
+                        <br><br>
+                        Articolul de mai jos prezintă câteva puncte relevante, precum și cele mai recente actualizări
+                        privind situația din Ucraina.
+                        <br><br>
+                        <em>Situația actuală este "cea mai dificilă cu care ne-am confruntat din 1989 încoace", a
+                            declarat președintele polonez Andrzej Duda.
+                            <br><br>
+                            "Când oamenii spun că nu este rațional pentru Putin să meargă la război, ei bine, este
+                            rațional pentru el să accepte o înfrângere diplomatică majoră?.... Logica situației este
+                            înspăimântătoare." François Heisbourg, consilier senior la IISS.</em>
+                        <br><br>
+                        ---------------------
+                        <br><br>
+                        MOSCOVA - Navele de război rusești au navigat marți spre Marea Neagră, alimentând alarma în
+                        rândul oficialilor de securitate americani și europeni, care au avertizat că, capacitățile
+                        finale pentru un asalt pe scară largă asupra Ucrainei par să se pună la punct.
+                        <br><br>
+                        Într-o zi de pendulări diplomatice frenetice ale președintelui francez Emmanuel Macron, care a
+                        călătorit între capitale încercând să evite un conflict, oficialii ruși au dat puține semne că
+                        inițiativele liderului francez le-au schimbat calculele.
+                        <br><br>
+                        În schimb, oficialii americani și europeni au declarat că privesc următoarele 12 zile cu o
+                        îngrijorare crescândă, temându-se că exercițiile militare rusești programate să înceapă joi ar
+                        putea oferi acoperire pentru un atac brusc împotriva Ucrainei și că încheierea pe 20 februarie a
+                        Jocurilor Olimpice de la Beijing înlătură o potențială barieră diplomatică pentru președintele
+                        rus Vladimir Putin, care s-ar putea teme să îl depășească pe președintele chinez Xi Jinping.
+                        <br><br>
+                        Macron, care s-a prezentat drept principalul interlocutor european în contextul în care
+                        Kremlinul cere refacerea arhitecturii de securitate a continentului, a oferit marți un optimism
+                        măsurat în urma discuțiilor cu Putin la Moscova și apoi cu președintele ucrainean Volodymyr
+                        Zelensky la Kiev.
+                        <br><br>
+                        "Nimeni nu este naiv", a declarat Macron într-o conferință de presă comună cu Zelensky. "Nu cred
+                        că putem rezolva această criză cu câteva ore de discuții". El și-a exprimat convingerea că
+                        există "soluții specifice, practice, care ne vor permite să mergem mai departe", dar nu a oferit
+                        detalii.
+                        <br><br>
+                        El a spus că a căutat "noi mecanisme care să garanteze securitatea".
+                        <br><br>
+                        Mai târziu în cursul zilei, Macron s-a întâlnit cu liderii german și polonez la Berlin. Aceștia
+                        au promis că sunt uniți împotriva Rusiei - dar au oferit puține lucruri pentru a ieși din impas.
+                        Macron a declarat că consilierii politici se vor întâlni joi la Berlin pentru a încerca să
+                        revigoreze un armistițiu din 2015, axat pe părțile separatiste din estul Ucrainei, dar au
+                        existat puține semne că Putin ar accepta o relansare a unui acord diplomatic vechi de șapte ani
+                        ca fiind o victorie suficientă pentru a-și trimite trupele acasă.
+                        <br><br>
+                        Situația actuală este "cea mai dificilă cu care ne-am confruntat din 1989 încoace", a declarat
+                        președintele polonez Andrzej Duda.
+                        <br><br>
+                        Diplomații NATO, care au vorbit sub protecția anonimatului pentru a vorbi deschis despre
+                        discuțiile strategice interne, au declarat că sunt îngrijorați de faptul că cererile lui Putin
+                        sunt atât de extinse încât există puțin sau deloc loc pentru un compromis pe care toate părțile
+                        l-ar considera acceptabil. Rusia a cerut, de asemenea, ca alianța să înceteze orice activitate
+                        militară în regiune.
+                        <br><br>
+                        "Când oamenii spun că nu este rațional pentru Putin să meargă la război, ei bine, este rațional
+                        pentru el să accepte o înfrângere diplomatică majoră?", a întrebat François Heisbourg, consilier
+                        principal pentru Europa la Institutul Internațional pentru Studii Strategice. "Logica situației
+                        este înfricoșătoare".
+                        <br><br>
+                        Detașamentul de nave de război rusești care se deplasează în Marea Neagră, șase nave mari de
+                        debarcare, va participa la un exercițiu, a precizat marina. În trecut, armata rusă a folosit
+                        acest lucru ca o cacealma înainte de invazii.
+                        <br><br>
+                        Această evoluție "arată că problema nu a fost încă rezolvată", a declarat Josep Borrell, șeful
+                        politicii externe a Uniunii Europene, în fața reporterilor de la Washington. "Vizita
+                        președintelui Macron la Moscova a fost importantă, dar nu a produs un miracol".
+                        <br><br>
+                        Dar, într-o apariție separată, Borrell a declarat că nu crede că Rusia se află în "ajunul unui
+                        război în toată regula".
+                        <br><br>
+                        Navele de debarcare rusești sunt folosite de obicei pentru descărcarea trupelor, vehiculelor și
+                        materialelor pe uscat. Unele au luat parte la invazia Rusiei în Georgia în 2008. Marina rusă a
+                        precizat într-o declarație că acestea au fost destinate utilizării în cadrul unui exercițiu, dar
+                        odată ajunse în Marea Neagră vor fi în raza de acțiune a coastei lungi de sud a Ucrainei.
+                        <br><br>
+                        Oficialii americani și europeni au declarat că mișcările militare rusești reprezintă un motiv de
+                        îngrijorare din ce în ce mai mare. Joi, Rusia urmează să înceapă un exercițiu de 10 zile cu
+                        Belarus, poziționând un număr mare de trupe și arme într-o țară prietenă care se învecinează cu
+                        Ucraina la nord.
+                        <br><br>
+                        Serviciile de informații europene au urmărit Rusia redirecționând echipamente militare, inclusiv
+                        muniții, de pe poziții din vestul Rusiei pe calea ferată către Belarus, potrivit unor persoane
+                        familiarizate cu aceste informații care, ca și altele, au vorbit sub protecția anonimatului
+                        deoarece nu au fost autorizate să le discute public. Imaginile comerciale din satelit din
+                        ultimele zile au arătat, de asemenea, rachete, lansatoare de rachete și avioane de atac
+                        desfășurate în Belarus în trei locații din apropierea graniței cu Ucraina.
+                        <br><br>
+                        Acumularea de forțe îi face pe oficialii americani și europeni să se teamă că Rusia ar putea
+                        organiza un asalt asupra Kievului prin trimiterea de trupe în sudul orașului ucrainean Zhytomyr
+                        și apoi să se deplaseze spre est, spre capitală. În același timp, o forță mai mare ar putea
+                        avansa spre vest de pe teritoriul rusesc.
+                        <br><br>
+                        Oficialii au declarat că vremea din februarie până la sfârșitul lunii martie ar fi favorabilă
+                        pentru invazie; terenul plat și deschis al Ucrainei și râurile care îl străbat ar fi înghețate,
+                        permițând vehiculelor blindate să manevreze mai ușor.
+                        <br><br>
+                        Marți, oficialii ruși au repetat promisiunile că intenționează să își retragă forțele din
+                        Belarus după exerciții.
+                        <br><br>
+                        Conferința anuală de securitate de la Munchen este programată să aibă loc între 18 și 20
+                        februarie. Aceasta ar putea reprezenta o altă oportunitate pentru diplomații ruși de a se angaja
+                        în negocieri. Nu este clar dacă Zelensky va participa la acest forum. Unii analiști se tem că,
+                        dacă el părăsește Kievul într-un moment de vulnerabilitate crescută, ar putea să-i dea lui Putin
+                        un stimulent pentru a lovi.
+                        <br><br>
+                        Oficialii europeni au apreciat, de asemenea, că este probabil ca Rusia să provoace tulburări la
+                        Kiev în încercarea de a destabiliza administrația lui Zelensky, posibil prin sprijinirea
+                        protestelor împotriva națiunilor occidentale. Atacurile cibernetice recente asupra site-urilor
+                        guvernamentale ucrainene și rapoartele false potrivit cărora explozibili sau "mine" ar fi fost
+                        plasate în aeroporturi, centre comerciale și școli ar putea face parte dintr-o campanie menită
+                        să declanșeze panica în rândul cetățenilor ucraineni și să submineze încrederea acestora în
+                        guvernul lui Zelensky, potrivit unor oficiali familiarizați cu această chestiune.
+                        <br><br>
+                        Zelensky, vorbind alături de Macron marți, a declarat că a fost prima dată când un președinte
+                        francez a vizitat țara sa în ultimii 24 de ani și a descris discuțiile ca fiind "substanțiale și
+                        foarte productive". El a afișat un aer de calm, denunțând ceea ce el și consilierii săi au
+                        caracterizat drept o luptă geopolitică între Rusia și Occident care are prea puțin de-a face cu
+                        Ucraina în sine.
+                        <br><br>
+                        Rusia nu a oferit niciun semn de domolire marți, purtătorul de cuvânt al Kremlinului, Dmitri
+                        Peskov, declarând că detensionarea crizei este "necesară de urgență, deoarece tensiunea crește
+                        pe zi ce trece". Dar el s-a plâns că Statele Unite și NATO continuă să ignore cererile de
+                        securitate ale Rusiei.
+                        <br><br>
+                        "În ceea ce privește punctele fundamentale, din păcate, nu am primit un răspuns. Prin urmare,
+                        acest subiect rămâne deschis în sensul deplin al cuvântului și rămâne cel mai important pentru
+                        noi", a declarat Peskov reporterilor. "Nu simțim și nu vedem disponibilitatea partenerilor
+                        noștri occidentali de a ține cont de preocupările noastre".
+                        <br><br>
+                        Rusia a adunat peste 100.000 de soldați și echipamente în apropierea graniței cu Ucraina,
+                        poziționându-i pentru ceea ce oficialii americani avertizează că ar putea fi cea mai mare
+                        ofensivă militară terestră în Europa de la cel de-al Doilea Război Mondial încoace.
+                        <br><br>
+                        Europa și Statele Unite au schițat până acum un front unit împotriva lui Putin, în afară de
+                        evaluările opuse privind probabilitatea unui conflict. La o zi după ce cancelarul german Olaf
+                        Scholz a vizitat Washingtonul, liderul minorității din Senat, Mitch McConnell (R-Ky.), care a
+                        luat cina cu acesta luni alături de alți senatori, a declarat că liderul german i-a asigurat în
+                        spatele ușilor închise că proiectul gazoductului Nord Stream 2, care va trimite gaze naturale
+                        din Rusia în Germania, va fi abandonat dacă Moscova va trimite din nou forțe în Ucraina.
+                        <br><br>
+                        Aceasta este dincolo de ceea ce a fost dispus Scholz să spună în public, inclusiv alături de
+                        președintele Biden luni. Liderul german - în funcție doar din decembrie - a fost blocat de o
+                        coaliție care este divizată în ceea ce privește politica față de Rusia și s-a confruntat cu
+                        criticile că nu a făcut suficient pentru a aborda criza.
+                        <br><br>
+                        Scholz "a confirmat ceea ce a spus ieri președintele Biden - că dacă Rusia invadează, Nord
+                        Stream 2" va fi închis, a declarat McConnell reporterilor.
+                        <br><br>
+                        Germania "va sta umăr la umăr cu Statele Unite și cu restul Europei pentru a se asigura că Putin
+                        plătește un preț", a declarat senatorul Chris Murphy (D-Conn.), care a participat, de asemenea,
+                        la dineu.
+                        <br><br>
+                        Congresul a negociat un pachet de sancțiuni împotriva Rusiei, deși perspectivele acestui efort
+                        rămân neclare.
+                        <br><br>
+                        Scholz urmează să se deplaseze la Kiev pe 14 februarie și la Moscova o zi mai târziu.
+                        <br><br>
+                        <em>Noack a relatat de la Paris, iar Harris și Birnbaum de la Washington. David L. Stern la
+                            Kiev, Rachel Pannett la Sydney și Missy Ryan, John Hudson, Mike DeBonis, Aaron Blake și Paul
+                            Sonne la Washington au contribuit la acest reportaj.</em>
+                        <br><br>
+                    </p>
+                    <br><br>
+                    <a href="https://www.washingtonpost.com/world/2022/02/08/ukraine-russia-biden-putin-macron/"
+                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.washingtonpost.com/</a>
+
+                    <br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+    `
 }
