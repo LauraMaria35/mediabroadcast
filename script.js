@@ -19,6 +19,14 @@ function feminism(){
     window.open('feminism.html');
     document.getElementById(container).style.display="block";
 }
+function gen(){
+    window.open('IdentitateDeGen.html');
+    document.getElementById(container).style.display="block";
+}
+function diverse(){
+    window.open('diverse.html');
+    document.getElementById(container).style.display="block";
+}
 
 let mainArticole = document.getElementById("mainArticole");
 
