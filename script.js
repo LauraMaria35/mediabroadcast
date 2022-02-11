@@ -2937,7 +2937,7 @@ function sexism(){
 }
 
 function KSOccident(){
-    `<div id="mainHome1">
+    mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
@@ -3123,4 +3123,36 @@ function KSOccident(){
                     <br><br>
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
     `
+}
+
+function importantaUcrainei(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    
+    <br></br>
+    <h1>Rusia și importanța Ucrainei</h1>
+                        <br>
+                        <p><br>
+                            Acest scurt videoclip de 8 minute realizat de The Economist explică pe scurt de ce Ucraina
+                            înseamnă atât de mult pentru Rusia. Există o explicație a istoriei și a evenimentelor pe
+                            care alte articole postate nu le-au acoperit bine, sau deloc. Ucraina este atât de
+                            importantă pentru Rusia și pentru Putin din motive istorice, simbolice și emoționale, dar și
+                            strategice. De asemenea, sunt discutate protestele de stradă din 2021 și presiunile interne
+                            aferente cu care se confruntă Putin.
+                        <br><br></p>
+                            <br><br>
+                        <div class="youtube">
+                            <iframe class="ytb" width="560" height="315" src="https://www.youtube.com/embed/sUKblujiRyk"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                            <br><br>
+
+                            <p class="indicatii">Puteți activa traducerea în limba română astfel: faceți click la
+                                Settings, apoi click la Subtitles/CC, click la Auto-translate si alegeti Romanian.</p>
+                        </div>
+                    
+                    <br><br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+                    `
 }
