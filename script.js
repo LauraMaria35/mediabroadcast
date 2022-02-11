@@ -1,4 +1,25 @@
 
+function politica(){
+    window.open('politica.html');
+    document.getElementById(container).style.display="block";
+}
+function clima(){
+    window.open('SchimbariClimatice.html');
+    document.getElementById(container).style.display="block";
+}
+function sexism(){
+    window.open('sexism.html');
+    document.getElementById(container).style.display="block";
+}
+function contrafacerea(){
+    window.open('contrafacerea.html');
+    document.getElementById(container).style.display="block";
+}
+function feminism(){
+    window.open('feminism.html');
+    document.getElementById(container).style.display="block";
+}
+
 let mainArticole = document.getElementById("mainArticole");
 
 function jurnalismul() {
@@ -2922,19 +2943,6 @@ function misoginie(){
     `
 }
 
-function politica(){
-    window.open('politica.html');
-    document.getElementById(container).style.display="block";
-}
-function clima(){
-    window.open('SchimbariClimatice.html');
-    document.getElementById(container).style.display="block";
-}
-function sexism(){
-    window.open('sexism.html');
-    document.getElementById(container).style.display="block";
-
-}
 
 function KSOccident(){
     mainArticole.innerHTML = `<div id="mainHome1">

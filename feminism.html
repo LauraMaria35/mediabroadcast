@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora&family=Monoton&display=swap" rel="stylesheet">
-    <title>Contrafacerea</title>
+    <title>Media Broadcast</title>
 </head>
 
 <body>
@@ -58,7 +58,7 @@
 
                 <div id=listaArticole>
 
-                    <div id="internalContrafacerea">
+                    <div id="internal">
                     </div>
                     <div id=list>
 
@@ -68,28 +68,71 @@
                                 <th style="width:15%">Data</th>
                                 <th style="width:85%">Titlu</th>
                             </tr>
+
+                            <tr>
+                                <td>9/02/2022</td>
+                                <td onclick="misoginie()" class="pointer" class="titluri">Misoginie - Feminismul radical
+                                    și "Toate Viețile Contează"</td>
+                            </tr>
                             
+                            <tr>
+                                <td>28/01/2022</td>
+                                <td onclick="HughHefner()" class="pointer" class="titluri">Hugh Hefner - feminismul
+                                    liberal din al doilea val și "emanciparea femeilor"</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>06/01/2022</td>
+                                <td onclick="womensRights()" class="pointer" class="titluri">Drepturile femeilor –
+                                    legate de economia unei țări și de rata...</td>
+                            </tr>
                             <tr>
                                 <td>06/01/2022</td>
                                 <td onclick="thePapacy()" class="pointer" class="titluri">Papalitatea – Feminism
                                     cultural și liberal contrafăcut</td>
                             </tr>
+                           
                             <tr>
-                                <td>02/01/2022</td>
-                                <td onclick="counterfeit()" class="titluri">The Counterfeit – 2021 and Gender Equality
-                                </td>
-                            </tr>   
-                            <tr>
-                                <td>22/11/2021</td>
-                                <td class="titluri">Catholicism, Protestantism, Seventh-Day Adventism...</td>
+                                <td>15/12/2021</td>
+                                <td class="titluri">Clinton – 2011 U.N. speech on LGBT human rights</td>
                             </tr>
+                            
                             <tr>
-                                <td>17/11/2021</td>
-                                <td class="titluri">The Papacy – alpha history of Modern Babylon and...</td>
+                                <td>02/12/2021</td>
+                                <td class="titluri">Sfârșitul lui Roe</td>
                             </tr>
+                           
                             <tr>
-                                <td>17/11/2021</td>
-                                <td class="titluri">Ireland – The Papacy and misogyny in the early 1900’s</td>
+                                <td>02/12/2021</td>
+                                <td class="titluri">China, drepturile omului și WTA</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>20/11/2021</td>
+                                <td class="titluri">”Autocracy Inc.” – and the domination of women</td>
+                            </tr>
+                           
+                            <tr>
+                                <td>09/11/2021</td>
+                                <td class="titluri">Spain – Feminism, prostitution, and the culture war</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>07/11/2021</td>
+                                <td class="titluri">1989 – Opposition to Feminism, and societies
+                                    unwillingness/inability...</td>
+                            </tr>
+                           
+                            <tr>
+                                <td>07/10/2021</td>
+                                <td class="titluri">#MeToo Movement, China, and the fight for gender equality</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>29/07/2021</td>
+                                <td><a href="tedEx.html" class="listaArticoleA" class="pointer"
+                                        class="titluri">Menstruația – TedX discurs despre lipsa de acces a unor femei la
+                                        produse de igienă</td>
                             </tr>
                             
                             </ol>
@@ -115,30 +158,6 @@
         copyRight.innerHTML = '&copy; ' + " " + "Copyright" + " " + nu.getFullYear();
     </script>
     <script type="text/javascript" src="script.js"></script>
-    <script>
-
-        var div = document.getElementById("internalContrafacerea");
-        var table = document.createElement("table");
-        
-        div.appendChild(table);
-        var rowLength = 6;
-        var colLength = 1;
-        var text = document.createTextNode(i + (j - 1) * 5);
-        for (var i = 0; i < rowLength; i++) {
-        
-            var rows = document.createElement("tr");
-            table.appendChild(rows);
-        
-            for (var j = 0; j < colLength; j++) {
-        
-                var columns = document.createElement("td");
-                var text = document.createTextNode(i + j * rowLength);
-                columns.appendChild(text);
-                rows.appendChild(columns);
-            }
-        
-        }
-           </script>
 </body>
 
 </html>
