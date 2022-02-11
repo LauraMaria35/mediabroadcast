@@ -51,6 +51,7 @@
                 <h4 onclick='clima()'>Schimbări climatice</h4>
                 <h4 onclick="diverse()">Diverse</h4>
             </div>
+            <br>
             <div id=searchBar>
                 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for..">
             </div>
@@ -143,6 +144,30 @@
         copyRight.innerHTML = '&copy; ' + " " + "Copyright" + " " + nu.getFullYear();
     </script>
     <script type="text/javascript" src="script.js"></script>
+    <script>
+
+        var div = document.getElementById("internalSexism");
+        var table = document.createElement("table");
+        
+        div.appendChild(table);
+        var rowLength = 13;
+        var colLength = 1;
+        var text = document.createTextNode(i + (j - 1) * 5);
+        for (var i = 0; i < rowLength; i++) {
+        
+            var rows = document.createElement("tr");
+            table.appendChild(rows);
+        
+            for (var j = 0; j < colLength; j++) {
+        
+                var columns = document.createElement("td");
+                var text = document.createTextNode(i + j * rowLength);
+                columns.appendChild(text);
+                rows.appendChild(columns);
+            }
+        
+        }
+           </script>
 </body>
 
 </html>

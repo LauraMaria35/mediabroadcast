@@ -51,6 +51,7 @@
                 <h4 onclick='clima()'>Schimbări climatice</h4>
                 <h4 onclick="diverse()">Diverse</h4>
             </div>
+            <br>
             <div id=searchBar>
                 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for..">
             </div>
@@ -58,7 +59,7 @@
 
                 <div id=listaArticole>
 
-                    <div id="internal">
+                    <div id="internalDiverse">
                     </div>
                     <div id=list>
 
@@ -122,7 +123,7 @@
     <script type="text/javascript" src="script.js"></script>
     <script>
 
-        var div = document.getElementById("internalPolitics");
+        var div = document.getElementById("internalDiverse");
         var table = document.createElement("table");
         
         div.appendChild(table);
