@@ -3156,3 +3156,7 @@ function importantaUcrainei(){
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
                     `
 }
+
+function ElSalvador(){
+    
+}
