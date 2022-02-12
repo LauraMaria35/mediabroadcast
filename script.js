@@ -107,7 +107,7 @@ function siria() {
 var div = document.getElementById("internal");
 var table = document.createElement("table");
 div.appendChild(table);
-var rowLength = 229;
+var rowLength = 230;
 var colLength = 1;
 var text = document.createTextNode(i + (j - 1) * 5);
 for (var i = 0; i < rowLength; i++) {
@@ -3627,4 +3627,272 @@ function pandemic() {
 
 }
 
+function transformation1(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br><br>
+    <h1>Rusia - Împăratul Sudului și o transformare internă <br>
+                        Partea 1/2 </h1>
+                    <br><br>
+                    <p><br>
 
+                        Nu ar trebui să fim atenți doar la agresiunea externă a Rusiei, ci și la ștergerea internă a
+                        oricărui progres spre democrație și drepturile omului realizat de la căderea Uniunii Sovietice.
+                        <br><br>
+                        Înființată în 1989, Memorial a fost "cea mai proeminentă organizație pentru drepturile omului
+                        din Rusia".
+                        <br><br>
+                        Acest articol din <em>Foreign Policy</em> este din 25 decembrie, cu 4 zile în urmă, așa că al doilea
+                        articol al nostru va vorbi despre hotărârea de ieri.
+                        <br><br>
+                        --------------------
+                        <br><br>
+                        Memorial, cea mai proeminentă organizație pentru drepturile omului din Rusia, este un simbol al
+                        libertăților dobândite de disidenți odată cu căderea comunismului în 1991 și al luptei pentru
+                        păstrarea acestor libertăți într-o Rusie post-sovietică din ce în ce mai represivă.
+                        <br><br>
+                        Înființată în ianuarie 1989, Memorial a creat o bază de date cu peste 2,6 milioane de victime
+                        ale represiunii sovietice, a identificat autorii crimelor politice din epoca sovietică și a
+                        apărat victimele încălcărilor drepturilor omului și ale represiunii politice. În ultimii cinci
+                        ani, guvernul rus a desemnat organizația drept agent străin - o etichetă stigmatizantă care
+                        obligă Memorial să declare acest statut înainte de fiecare comentariu public și să se supună
+                        unor audituri financiare. De asemenea, organizația s-a confruntat cu campanii de defăimare,
+                        raiduri ale poliției și amenzi în valoare de 82.460 de dolari pentru presupusa încălcare a legii
+                        privind agenții străini.
+                        <br><br>
+                        La 11 noiembrie, procurorii ruși au intentat un proces împotriva organizației surori a Memorial,
+                        Human Rights Center, acuzând-o de activism extremist și terorist pentru că a publicat o listă de
+                        prizonieri politici, ceea ce, potrivit procurorului, constituie un motiv pentru dizolvarea
+                        acesteia. Un al doilea caz amenință să interzică Memorial pentru că ar fi încălcat legea privind
+                        agenții străini prin faptul că nu a etichetat unele dintre materialele sale. Memorial a declarat
+                        că acuzațiile sunt nefondate și motivate politic.
+                        <br><br>
+                        "Am devenit foarte vocali", a declarat Anna Dobrovolskaya, director executiv al Centrului pentru
+                        drepturile omului Memorial, care expune abuzurile actuale ale autorităților ruse. Centrul a
+                        militat pentru prizonierii religioși și politici, cum ar fi liderul opoziției încarcerat Alexei
+                        Navalny și membrii Martorilor lui Iehova, un grup religios pe care guvernul îl consideră
+                        extremist. Lista centrului recunoaște 420 de persoane ca prizonieri politici, cel mai mare număr
+                        din istoria Rusiei moderne, a declarat Dobrovolskaia. "Am creat în mod constant probleme pentru
+                        autorități, care încearcă să ignore faptul că tortura continuă să aibă loc în Rusia și că
+                        oamenii sunt reținuți cu brutalitate", a adăugat ea. Următoarea audiere pentru procesul Memorial
+                        va avea loc pe 28 decembrie, iar cea pentru procesul Centrului pentru Drepturile Omului pe 29
+                        decembrie.
+                        <br><br>
+                        Activiștii și disidenții consideră că amenințarea la adresa Memorial, care cuprinde în prezent o
+                        rețea de 50 de grupuri din Rusia și nu numai, reprezintă un punct de cotitură pentru gândirea
+                        independentă din Rusia. Ei consideră că este un alt semn al determinării guvernului de a elimina
+                        disidența rămasă și de a ascunde brutalitățile din perioada sovietică. "Guvernul arată clar că
+                        nu dorește nicio critică la adresa acțiunilor sale, la fel cum nu dorește nicio amintire a
+                        greșelilor din trecut", a declarat Tanya Lokshina, director asociat al diviziei Human Rights
+                        Watch pentru Europa și Asia Centrală.
+                        <br><br>
+                        Timp de ani de zile, Kremlinul a încercat să își controleze criticii prin supraveghere, hărțuire
+                        și persecuție. Acum, acesta încearcă să elimine complet disidența, a declarat Grigory Okhotin,
+                        cofondator al OVD-Info, o organizație de media și de drepturile omului cu sediul la Moscova care
+                        monitorizează represiunea politică și oferă asistență juridică. În acest an, grupurile pentru
+                        drepturi au fost închise, în timp ce zeci de activiști politici și jurnaliști au fost arestați,
+                        desemnați agenți străini și forțați să părăsească țara.
+                        <br><br>
+                        Din 2020 a apărut un nou tip de regim rusesc. "Este mai ideologic, mai conservator și mai
+                        agresiv", a declarat Tatiana Stanovaya, fondator al firmei de analiză politică R.Politik, cu
+                        sediul la Moscova, și cercetător nerezident la Carnegie Moscow Center. Rădăcinile acestui nou
+                        sistem pot fi urmărite până în 2016, când președintele rus Vladimir Putin a început să cedeze
+                        mai multă putere în politica internă serviciilor de securitate, în timp ce se implica mai mult
+                        în politica externă, inclusiv în Siria și Ucraina. Până în 2020, serviciile de securitate ale
+                        Rusiei erau responsabile de controlul opoziției nesistemice - opoziția reală, spre deosebire de
+                        partidele și organizațiile pro-Kremlin care își joacă rolurile atribuite în așa-numita
+                        democrație gestionată de Putin). "Politica [guvernului] împotriva criticilor fusese selectivă,
+                        dar acum este nediscriminatorie și de rutină", a declarat Stanovaya. "Opoziția nesistemică este
+                        văzută ca o amenințare la adresa securității naționale și și-a pierdut dreptul de a exista în
+                        ochii Kremlinului."
+                        <br><br>
+                        Războiul împotriva opoziției a devenit un mod de viață pentru agențiile de aplicare a legii și
+                        armatele de ofițeri de securitate ale Kremlinului. "Este modul în care dovedesc că sunt necesari
+                        și că servesc bine țara", a adăugat Stanovaya. "Dacă nu îi arăți lui Putin disponibilitatea ta
+                        de a lupta împotriva dușmanilor, a opoziției nesistemice, înseamnă că tu însuți poți fi văzut ca
+                        o forță politică iresponsabilă".
+                        <br><br>
+                        Întoarcerea lui Navalny în Rusia din Germania, unde se recupera după otrăvirea cu un agent
+                        neurotoxic pe care el și aliații săi au pus-o pe seama Kremlinului, a fost văzută de serviciile
+                        de securitate ale Rusiei ca fiind provocarea supremă împotriva lui Putin. În februarie,
+                        activistul anticorupție a fost încarcerat pentru acuzații vechi de fraudă despre care a spus că
+                        au fost motivate politic. În iunie, Fundația sa anticorupție a fost efectiv interzisă, un
+                        tribunal declarând-o "extremistă". Aproape 50 de site-uri web conduse de Navalny și asociații
+                        săi au fost blocate și zeci de birouri regionale au fost închise. Mulți dintre membrii echipei
+                        și aliații lui Navalny se află acum în exil, temându-se să nu fie arestați dacă pun piciorul în
+                        Rusia.
+                        <br><br>
+                        În ultimii ani, alegerile din Rusia au fost, de obicei, un pretext pentru represiune. Înaintea
+                        alegerilor pentru orașul Moscova din 2019, unii candidați ai opoziției au fost intimidați,
+                        arestați pe baza unor acuzații administrative și li s-a refuzat șansa de a se înscrie. În
+                        perioada premergătoare alegerilor parlamentare din septembrie, potențialii candidați ai
+                        opoziției s-au confruntat cu o amenințare mai extremă: urmărirea penală. Dmitri Gudkov, un
+                        deputat rus, a fost scos din cursă după ce a fost arestat în iunie în baza unor acuzații că nu a
+                        plătit o datorie pentru o proprietate închiriată, acuzații pe care le-a negat. Autoritățile l-au
+                        încarcerat, de asemenea, pe Andrei Pivovarov, șeful grupului de opoziție Open Russia, finanțat
+                        de magnatul rus Mihail Hodorkovski, un critic al lui Putin, care a fost odată încarcerat.
+                        Pivovarov, care plănuia să candideze la alegeri, a fost acuzat că a luat parte la o organizație
+                        "indezirabilă", un statut care obligă orice grup desemnat să își desființeze operațiunile în
+                        Rusia. El riscă o pedeapsă de până la șase ani de închisoare.
+                        <br><br>
+                        Kremlinul a adoptat, de asemenea, în iunie, o lege care interzice celor care au legături cu
+                        organizații pe care le etichetează drept "extremiste" să candideze la alegeri. Nimeni din echipa
+                        lui Navalny nu a fost autorizat să candideze în septembrie, iar mai multor activiști ai
+                        opoziției li s-a interzis să candideze pentru că l-au susținut pe Navalny. Partidul lui Putin,
+                        Rusia Unită, a obținut aproape 50% din voturi, ceea ce reprezintă o ușoară scădere a sprijinului
+                        față de alegerile precedente, chiar dacă un sondaj realizat de Centrul independent Levada a
+                        indicat că doar 27% dintre ruși erau pregătiți să voteze pentru partidul său.
+                        <br><br>
+                        Legea privind agenții străini a fost folosită pentru a stigmatiza și hărțui organizațiile
+                        neguvernamentale și organizațiile media în ultimul deceniu. Însă modificările aduse legii în
+                        decembrie anul trecut înseamnă că regimul poate acum să vizeze orice persoană sau grup informal
+                        care primește finanțare din străinătate dacă se consideră că este implicat în "activități
+                        politice" definite în sens larg în interesul "unui stat străin". De atunci, aproximativ 80 de
+                        persoane, organizații pentru drepturi și instituții media au fost adăugate pe lista agenților
+                        străini, inclusiv unul dintre cele mai populare instituții media independente, Meduza.
+                        <br><br>
+                        Eticheta de agent străin a împins zeci de activiști și jurnaliști să părăsească Rusia, printre
+                        care Valeria Vetoshkina, fostă avocată a Team 29, un grup pentru drepturile omului cu sediul la
+                        Moscova, acum dispărut, care s-a specializat în apărarea suspecților acuzați de trădare și
+                        spionaj. Grupul s-a închis în luna mai, după ce autoritățile i-au blocat site-ul web. Vetoshkina
+                        a fost trecută pe lista agenților străini la 8 noiembrie, o decizie despre care a spus că are
+                        legătură cu activitatea sa ca avocat al Fundației Anticorupție a lui Navalny. În luna mai, ea și
+                        un alt avocat al echipei 29 au făcut apel la o decizie a instanței de a restricționa
+                        activitățile fundației. "Dacă m-ați fi întrebat acum câteva luni, aș fi spus că nu voi părăsi
+                        niciodată Rusia", a spus ea. "Dar presiunea a devenit foarte intensă".
+                        <br><br>
+                        Vetoshkina a declarat că se teme că eticheta sa îi va descuraja pe jurnaliștii ruși să o
+                        intervieveze cu privire la cazurile penale ale clienților săi, deoarece legea cere ca mass-media
+                        să indice public statutul său. "Uneori le este teamă. Nu vor să aibă probleme cu autoritățile",
+                        a spus ea. "Publicitatea și sensibilizarea cu privire la aceste cazuri este foarte importantă,
+                        deoarece situația juridică este foarte dificilă".
+                        <br><br>
+                        Okhotin a declarat că ultimul val represiv al Rusiei este parțial o reacție la popularitatea în
+                        scădere a lui Putin din 2017, din cauza scăderii nivelului de trai și a unei reforme a pensiilor
+                        profund nepopulare în 2018. Potrivit unui sondaj Statista, rata de aprobare a lui Putin era de
+                        85% în ianuarie 2017, față de 67% în octombrie 2021. Sprijinul pentru partidul său, Rusia Unită,
+                        a atins noi minime în acest an, potrivit Centrului de Cercetare a Opiniei Publice din Rusia, un
+                        institut de sondare deținut de stat. Rușii sunt îngrijorați de creșterea prețurilor la alimente,
+                        de sărăcie și de corupție - și reducerea la tăcere a criticilor nu va face ca aceste probleme să
+                        dispară.
+                        <br><br>
+                        "Mi-e teamă că vom avea închideri de internet și sfârșitul societății civile, așa cum am văzut
+                        în Belarus", a declarat Vetoshkina. "Vreau să mă înșel, dar este deja clar că guvernul vrea să
+                        închidă organizațiile pentru drepturile omului." Diferența dintre Rusia și Belarus este că prima
+                        nu a folosit încă forța letală - cel puțin nu în mod deschis împotriva populației. Okhotin a
+                        declarat că Kremlinul ar prefera să-i împingă pe critici să părăsească țara decât să-i aresteze
+                        și să-i încarcereze.
+                        <br><br>
+                        Memorial este un caz-test pentru viitorul libertății de exprimare din Rusia. Un atac asupra
+                        acestei organizații este un atac asupra societății civile rusești în ansamblu, a spus Okhotin.
+                        Dizolvarea Memorial ar afecta, la rândul său, zeci de fundații care se bazează pe sprijinul său,
+                        inclusiv OVD-Info. Numai în acest an, organizația de asistență juridică a apărat 2.874 de cazuri
+                        administrative și este implicată în prezent în 44 de cazuri penale. OVD-Info a declarat că
+                        închiderea Memorialului ar pune în pericol capacitatea sa de a oferi asistență juridică.
+                        <br><br>
+                        Procesul Memorial reprezintă o amenințare pentru multe altele. Lokshina, de la Human Rights
+                        Watch, a declarat că autoritățile trimit un mesaj către fiecare organizație independentă,
+                        activist și jurnalist care mai lucrează în Rusia: "'Putem prinde pe oricine vrem noi. Nimic nu
+                        vă va proteja, nici premiile internaționale, nici numărul de susținători.'".
+                        <br><br>
+                    </p>
+                    <br>
+                    <a href='https://foreignpolicy.com/2021/12/25/russia-putin-memorial-trial-human-rights-history-gulag/'
+                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" class="link"><span>&nbsp;</span>Sursa:
+                        https://foreignpolicy.com/</a>
+                    <br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>`
+}
+
+function transformation2(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br><br>
+    <h1>Rusia - Împăratul Sudului și o transformare internă
+                        <br>
+                        Partea 2/2
+                    </h1>
+                    <br><br>
+                    <p><br>
+                        Ieri, instanța a decis că Memorial trebuie să își înceteze activitatea. Această închidere
+                        forțată a Memorialului este o parte a unei povești mai ample, despre coborârea Rusiei într-o
+                        dictatură distopică și patriarhală alimentată de teoriile conspirației.
+                        <br><br>
+                        --------------------
+                        <br><br>
+                        Într-un an teribil pentru drepturile omului în Rusia, începând cu încarcerarea liderului
+                        opoziției Alexei Navalny, închiderea Memorialului Internațional se remarcă prin cruzimea sa.
+                        <br><br>
+                        Fondat la sfârșitul anilor 1980 de Andrei Saharov și de alți disidenți din epoca sovietică,
+                        grupul a profitat de noile libertăți oferite de Mihail Gorbaciov și le-a folosit pentru a
+                        dezvălui adevăruri crude despre soarta a milioane de victime ale represiunilor lui Stalin.
+                        <br><br>
+                        A fost un simbol emoționant al noii deschideri a Rusiei, dar pentru mulți semnificația a fost cu
+                        totul altceva decât abstractă: rușii au descoperit destinele tragice ale părinților, bunicilor
+                        și străbunicilor lor după decenii de secretomanie și lașitate oficială.
+                        <br><br>
+                        Închiderea Memorialului este, de asemenea, un simbol puternic - un simbol al societății civile
+                        rusești care este dezmembrată cu viteza fulgerului. Conducerea sa a sperat că sprijinul public,
+                        inclusiv din partea unor ruși proeminenți precum Gorbaciov, va opri mâna Kremlinului. Sau că
+                        închiderea unei organizații dedicate dezvăluirii atrocităților sovietice ar fi fost un pas prea
+                        departe, chiar și pentru Vladimir Putin.
+                        <br><br>
+                        Dar marți, la aproape exact 30 de ani de la dizolvarea Uniunii Sovietice, un judecător a arătat
+                        contrariul.
+                        <br><br>
+                        "Când Rusia a ales să meargă pe o cale democratică și legală înainte, nici în cele mai negre
+                        vise ale mele nu mi-aș fi putut imagina că, în cele din urmă, totul va începe să meargă în sens
+                        invers", a declarat luna trecută Nikita Petrov, un istoric și cercetător care a contribuit la
+                        fondarea Memorial, pentru The Guardian. "Probabil că am fost naiv atunci".
+                        <br><br>
+                        Nu este greu de înțeles cum Putin, împotmolit în conflicte istorice legate de Crimeea, de
+                        expansiunea NATO și de căderea Uniunii Sovietice, de cel de-al Doilea Război Mondial și nu
+                        numai, vede investigarea istoriei sovietice ca pe o amenințare la adresa securității naționale.
+                        El este mult mai interesat de nedreptățile istorice percepute ca fiind comise împotriva Rusiei
+                        decât de adevărurile incomode dezgropate de Memorial în timpul celor trei decenii de activitate
+                        a organizației în arhivele rusești.
+                        <br><br>
+                        "Țara noastră are nevoie de o înțelegere onestă și conștiincioasă a trecutului sovietic; aceasta
+                        este cheia viitorului său", a scris organizația într-o declarație după lichidarea sa.
+                        <br><br>
+                        În locul Memorialului, care vorbea cu elocvență și agresivitate despre atrocitățile în masă,
+                        statul creează o prezentare mai îngrijită și mai atentă a morții a milioane de oameni, una care
+                        condamnă mai mult morțile decât crimele lor, identificând victimele, dar nu și ucigașii lor.
+                        <br><br>
+                        Guvernul rus ar dori să prezinte închiderea Memorialului ca pe o simplă extensie birocratică a
+                        legilor sale privind "agenții străini". Dar marți, un procuror din instanță a explicitat motivul
+                        politic, spunând într-un discurs pasionat că Memorial "prezintă în mod mincinos URSS ca fiind un
+                        stat terorist".
+                        <br><br>
+                        "De ce ar trebui ca noi, urmașii învingătorilor, să asistăm la justificarea trădătorilor de
+                        patrie și a acoliților naziști?", a întrebat procurorul. Un avocat pentru Memorial a declarat că
+                        acest lucru i-a amintit de un proces-spectacol din anii 1930.
+                        <br><br>
+                        Conducerea Memorial a declarat că este inutil să încerce să înțeleagă care dintre liniile roșii
+                        ale guvernului au fost depășite pentru a determina autoritățile să îl închidă. Unii cred că are
+                        legătură cu activitatea sa arhivistică și istorică privind teroarea sovietică, alții cu
+                        sprijinul său pentru prizonierii politici precum Navalny.
+                        <br><br>
+                        Cu toate acestea, adevărul este că Memorial a continuat să facă ceea ce a făcut încă din prima
+                        zi, în timp ce Rusia este cea care s-a schimbat din nou, punând poate capăt unei scurte perioade
+                        în care ar fi tolerat o recunoaștere independentă a trecutului său.
+                        <br><br>
+                        "Aceasta vorbește despre temerile guvernului că nu mai este dispus să tolereze o contabilizare
+                        onestă a comportamentului său pe care Memorial o oferă", a declarat Kenneth Roth, șeful Human
+                        Rights Watch. "Dacă acea oglindă este prea îngrozitoare pentru a o privi, răspunsul este să
+                        schimbi comportamentul, nu să spargi oglinda".
+                        <br><br>
+                    </p>
+                    <br>
+                    <a href='https://www.theguardian.com/world/2021/dec/28/international-memorial-rights-group-closure-russia-analysis?CMP=Share_AndroidApp_Other'
+                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" class="link"><span>&nbsp;</span>Sursa:
+                        https://www.theguardian.com/</a>
+                    <br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>`
+}

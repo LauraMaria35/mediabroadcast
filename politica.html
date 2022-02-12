@@ -152,16 +152,21 @@
                             </tr>
                             <tr>
                                 <td>30/12/2021</td>
-                                <td onclick="Unassessment()" class="titluri">U.N. – RAPID ASSESSMENT THE EFFECTS...</td>
+                                <td onclick="Unassessment()" class="pointer" class="titluri">ONU - Evaluare rapidă a efectelor COVID-19 asupra violenței împotriva femeilor și ...</td>
                             </tr>
                             <tr>
                                 <td>29/12/2021</td>
-                                <td onclick="transformation()" class="titluri">Russia – the KS and an internal
-                                    transformation</td>
+                                <td onclick="transformation1()" class="pointer" class="titluri">Rusia - ÎS și o transformare internă 
+                                    Partea 1/2</td>
+                            </tr>
+                            <tr>
+                                <td>29/12/2021</td>
+                                <td onclick="transformation2()" class="pointer" class="titluri">Rusia - ÎS și o transformare internă 
+                                    Partea 2/2 </td>
                             </tr>
                             <tr>
                                 <td>28/12/2021</td>
-                                <td onclick="Desmond()" class="titluri">Desmond Tutu</td>
+                                <td onclick="Desmond()" class="pointer" class="titluri">Desmond Tutu</td>
                             </tr>
                             <tr>
                                 <td>24/12/2021</td>
@@ -225,7 +230,7 @@ var div = document.getElementById("internalPolitics");
 var table = document.createElement("table");
 
 div.appendChild(table);
-var rowLength = 30;
+var rowLength = 31;
 var colLength = 1;
 var text = document.createTextNode(i + (j - 1) * 5);
 for (var i = 0; i < rowLength; i++) {
