@@ -2959,7 +2959,7 @@ function KSOccident() {
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     <br>
     <br>
-    <h1>2021 - KS și escaladarea crizei cu Occidentul</h1>
+    <h1>2021 - Împăratul Sudului și escaladarea crizei cu Occidentul</h1>
                     <br><br>
                     <p><br>
                         Bill Browder a declarat că Putin ar putea fi constrâns prin sancțiuni care să vizeze finanțele
@@ -3626,3 +3626,5 @@ function pandemic() {
                     `
 
 }
+
+
