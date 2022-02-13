@@ -48,7 +48,7 @@ p {
     margin-right: 10px;
 }
 
-@media (max-width:520px) {
+@media (max-width:820px) {
     p {
         margin-left: 0px;
         margin-right: 0px;
@@ -66,7 +66,7 @@ p {
     padding-top: 20px;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 820px) {
     #container {
         margin: 0 auto;
         padding: 0;
@@ -107,7 +107,7 @@ header {
     font-size: 44px;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 820px) {
     #naam h1 {
         margin-top: 4px;
         font-size: 22px;
@@ -225,7 +225,7 @@ footer p {
     font-family: monoton, cursive;
 }
 
-@media (max-width:520px) {
+@media (max-width:820px) {
     main {
         font-size: 20px;
     }
@@ -235,7 +235,8 @@ footer p {
     }
 }
 
-@media (max-width:520px) {
+
+@media (max-width:820px) {
 
     footer p, #footerDiv {
         font-size: 10px;
@@ -247,11 +248,6 @@ footer p {
         width: 400px;
         top: 140px;
     }
-
-    #titleNav {
-        max-width: 480px;
-    }
-
 
     #naam {
         font-family: "Utopian Two BW";
@@ -297,7 +293,7 @@ footer a {
     text-align: justify;
 }
 
-@media (max-width:520px) {
+@media (max-width:820px) {
     #mainHome1 {
         padding: 10px 5px 10px 5px;
     }
@@ -356,7 +352,7 @@ label {
     margin-right: 10px;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 820px) {
     #mainHome #articol {
         margin-right: 0;
         padding: 8px;
@@ -459,7 +455,7 @@ td:hover, th:hover {
     font-size: 18px;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 820px) {
     .listaArticoleA {
         font-size: 18px;
     }
@@ -548,7 +544,7 @@ label {
     margin-top: 30px;
 }
 
-@media(max-width: 520px) {
+@media(max-width: 820px) {
 
     #searchBar {
         width: 230px;
@@ -612,7 +608,7 @@ label {
     cursor: pointer;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 820px) {
     .pointer {
         font-size: 18px;
     }
@@ -622,7 +618,7 @@ label {
     margin: 0 auto;
 }
 
-@media (max-width:520px) {
+@media (max-width:820px) {
     .image {
         height: 30px;
         width: 27.8px;
@@ -685,7 +681,7 @@ label {
     margin: 0 auto;
 }
 
-@media (max-width:520px) {
+@media (max-width:820px) {
     #mainVideo {
         width: 380px;
     }
@@ -744,7 +740,7 @@ label {
 
 }
 
-@media (max-width:520px) {
+@media (max-width:820px) {
     #materialePage {
         max-width: 480px;
     }
@@ -866,7 +862,7 @@ label {
     width: 97%;
 }
 
-@media (max-width:520px) {
+@media (max-width:820px) {
     .emptyBox {
         width: 50px;
     }
@@ -897,8 +893,6 @@ strong {
     margin: 20px;
     margin-right: 0px;
 }
-
-
 
 .link {
     display: inline-block;
@@ -933,7 +927,7 @@ strong {
     color: darkslategray;
 }
 
-@media (max-width:620px) {
+@media (max-width:820px) {
     .poze {
         width: 310px;
     }
