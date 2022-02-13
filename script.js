@@ -107,7 +107,7 @@ function siria() {
 var div = document.getElementById("internal");
 var table = document.createElement("table");
 div.appendChild(table);
-var rowLength = 230;
+var rowLength = 232;
 var colLength = 1;
 var text = document.createTextNode(i + (j - 1) * 5);
 for (var i = 0; i < rowLength; i++) {
@@ -4082,5 +4082,82 @@ function Desmond2(){
     <br>
     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     <br><br>
+    <h1>Desmond Tutu - Partea 2/2</h1>
+<br><br>
+<p><br>
+    Articolul de mai jos este scris de Desmond Tutu în 2012, pentru Girls Not Brides. Nu ne așteptăm ca vocile externe să fie capabile să încadreze corect adevărata natură a egalității de gen și problemele externe care se referă la aceasta - mai ales în dispensațiunea compromisului. Chiar și RBG a avut punctele ei oarbe.  
+<br><br>
+    În acest context, nu sunt de acord cu toate formulările de mai jos - în special cu formularea "a se ridica la nivelul de bărbat".  Invocă o dezbatere comună cu privire la ceea ce este adevărata "virilitate" - că a fi "bărbat" înseamnă să te opui inegalității și să lupți pentru dreptate.  Se face greșeala de a pune în discuție aceste calități pozitive de luptă și de protecție, în chiar efortul de a încerca să pledeze pentru egalitatea femeilor.  
+    <br><br>
+    Cu toate acestea, în ciuda acestui fapt, articolul de mai jos al lui Desmond Tutu conține o dorință de a vedea profunzimea inegalității și a abuzului de gen, gama de moduri în care se manifestă acest abuz și modul în care cultura este atât de regulat folosită ca o apărare pentru sexism.  Există multe pietre prețioase care merită să fie remarcate. Dacă ar fi fost mai mulți cei care ar fi ascultat, poate că secerișul netinimilor ar fi avut mai mult succes. Vă încurajez să deschideți linkul și să îl citiți de la sursă, dar este postat și mai jos. 
+    <br><br>
+    ----------------------
+    <br><br>
+    Pe 25 noiembrie, marcăm Ziua internațională pentru eliminarea violenței împotriva femeilor. Este profund trist, deși poate nu șocant, să aflăm că aproximativ 70 la sută dintre toate femeile suferă de abuz fizic sau sexual în timpul vieții. În ciuda progreselor pe care le-am făcut, această lume rămâne una crudă și arbitrară pentru prea multe femei și fete.
+<br><br>
+    Nu vă lăsați însă păcăliți: aceasta nu este o așa-numită "problemă a femeilor". La urma urmei, știm că, de cele mai multe ori, violența suferită de femei este provocată de bărbații cu care își împart viața - tații, soții, partenerii lor intimi. Dacă majoritatea femeilor din această lume au suferit de pe urma bărbaților lor, câte milioane de bărbați trebuie să fi rănit și abuzat femei? Câte milioane de bărbați au stat deoparte și au lăsat să se întâmple acest lucru?
+    <br><br>
+    Dacă bărbații brutalizează femeile în proporție covârșitoare, atunci bărbații sunt covârșitor de brutali.
+    <br><br>
+    Este ceva ce nu pot accepta. Acesta este motivul pentru care fac apel la bărbații și băieții de pretutindeni să ia atitudine împotriva maltratării fetelor și femeilor. Prin apărarea drepturilor fetelor și femeilor ne ridicăm cu adevărat la nivelul de bărbați.
+    <br><br>
+    <strong>Un tip de violență nerostită</strong> 
+    <br><br>
+    Acum sunt un Elder și am fost martor la multe forme de brutalitate. Există violența directă, fizică, comisă adesea la mânie sau în război. Dar există și alte forme de violență - mai complexe, mai insidioase, mai nespuse - pe care nu trebuie să le trecem cu vederea.
+    <br><br>
+    Anul trecut, în Etiopia, eu și colegii mei Elderi am întâlnit o femeie pe nume Himanot, care a fost forțată să se căsătorească la vârsta de 13 ani. Nu a fost forțată fizic sau târâtă în lanțuri până la nuntă - de fapt, a vrut să fugă. Dar mama ei i-a spus că se va sinucide dacă Himanot fuge. Așadar, ce alegere a avut copila?
+    <br><br>
+    A exercita acest tip de presiune emoțională este o formă de violență împotriva femeilor. Să-i iei educația unei fete, să îi iei dreptul de a se dezvolta în propriul timp, de a-și realiza potențialul: da, aceasta este violență. Cu toate acestea, nu o judec prea aspru pe mama lui Himanot. Majoritatea părinților care își căsătoresc fiicele de tinere au la inimă interesele lor cele mai bune - nu mulți dintre ei și-ar lăsa de bunăvoie copilul să se confrunte cu rușinea și stigmatul de a sfida "tradiția".
+<br><br>  
+Deci, dacă este vorba de violență, cine este autorul? Dacă nu familia, atunci comunitatea? Unde se termină responsabilitatea? Statisticile ne spun că 70 la sută dintre femei suferă de violență la un moment dat în viața lor. Dar bănuiesc că această cifră ar fi mai mare dacă am include toată violența emoțională și structurală care, pentru multe fete și femei, formează urzeala și țesătura vieții de zi cu zi.
+<br><br>
+<strong>Căsătoria copiilor reprezintă violență împotriva femeilor</strong>
+<br><br>
+Când vine vorba de violența împotriva femeilor, există puține practici la fel de dăunătoare sau atât de răspândite ca și căsătoria timpurie. Nu este vorba doar de presiunea emoțională și socială intensă la care este supusă tânăra mireasă. În mod fundamental, aceasta încalcă dreptul unei fete de a-și determina propriul viitor - cum poate un copil să își dea "consimțământul" să se căsătorească atunci când are doar 10 sau 12 ani?
+<br><br>
+Într-o astfel de uniune inegală, știm că fetele sunt mult mai vulnerabile la violența fizică, mai ales atunci când sunt căsătorite cu bărbați mai în vârstă. Este greu de insistat asupra practicării sexului protejat, lăsându-le mai predispuse să contracteze HIV sau să rămână însărcinate înainte de a fi pregătite. Iar maternitatea timpurie în sine poate fi devastatoare pentru corpul unei fete - în întreaga lume în curs de dezvoltare, nașterea este prima cauză de deces pentru fetele cu vârste cuprinse între 15 și 19 ani.
+<br><br>
+Și, în ciuda tuturor acestor lucruri, practica este apărată în numele "tradiției". Acesta este motivul pentru care colega mea Elder Ela Bhatt spune: "Căsătoria copiilor este o violență care se întâmplă cu acordul societății".
+<br><br>
+Bineînțeles, nu toată societatea consimte. Există câteva voci curajoase, din ce în ce mai sonore și mai puternice pe zi ce trece, care contestă status quo-ul. Am avut privilegiul de a-i întâlni pe unii dintre cei care își arată adevăratul curaj, sfidând tradiția pentru a proteja drepturile fetelor și femeilor din comunitățile lor.
+<br><br>
+<strong>Băieți adolescenți care sfidează tradițiile în India</strong>
+<br><br>
+Statul Bihar are una dintre cele mai ridicate rate de căsătorie a copiilor din India - 69% dintre fete sunt căsătorite înainte de vârsta de 18 ani. De fapt, în India este ilegal să te căsătorești înainte de vârsta de 18 ani, în cazul fetelor, sau de 21 de ani, în cazul băieților. Dar pentru majoritatea tinerilor din această țară, tradiția familiei și a comunității prevalează asupra acestei legi relativ recente.
+<br><br>
+Când am călătorit în Bihar împreună cu colegii mei Elderi la începutul acestui an, un băiat pe nume Premnath mi-a povestit cum tatăl său îl presează să își găsească o soție care să îl ajute la treburile casnice, după ce mama sa a murit anul trecut. Dar Prem - în vârstă de doar 18 ani - se împotrivește. El s-a angajat să amâne căsătoria și ne-a arătat cu mândrie o carte cu angajamente similare din partea altor tineri și a familiilor lor.
+<br><br>
+Împreună cu colegii săi din mișcarea "Jagriti", atât fete, cât și băieți, el mobilizează acum tineri din toată Bihar să își ia același angajament. Aveau deja peste 21.000 de semnături atunci când i-am vizitat anul trecut - o realizare uluitoare. Se pare, de fapt, că el și colegii săi își sfidează proprii lor Elderi! Este nevoie de mult curaj și trebuie să-i salut pentru asta.
+<br><br>
+<strong>Bărbați și băieți: Luați atitudine</strong> 
+<br><br>
+Vreau să marchez Ziua internațională pentru eliminarea violenței împotriva femeilor prin recunoașterea activității tinerilor bărbați precum Premnath. Este un lucru să oprești un act individual de violență, sau poate un individ violent. Dar să te confrunți cu o întreagă comunitate, cu o întreagă tradiție și să încerci să pui în discuție ceva care le face rău fetelor de generații întregi - asta înseamnă curaj.
+<br><br>
+Bărbații au de dat multă socoteală, nu pot nega asta. Am construit instituții care oprimă și fac rău femeilor și ne justificăm practicile noastre ca fiind "așa cum sunt lucrurile" sau "așa cum au fost întotdeauna".
+<br><br>
+Cu toate acestea, așa cum spun întotdeauna, sunt un prizonier al speranței. Cred că noi, bărbații, putem contribui la stoparea acestor tradiții. Putem refuza să participăm la ele și putem refuza să le aprobăm. Putem merge mai departe și putem face campanie împotriva lor.
+<br><br>
+Nu este o sarcină ușoară. Dar dacă un băiat de 18 ani dintr-o comunitate patriarhală și tradițională precum cea a lui Prem poate face acest lucru, am încredere că și alții o pot face.
+<br><br>
+<em>Publicat:
+    <br>
+5 decembrie 2012
+<br><br>
+Scris de:
+<br>
+Arhiepiscopul Desmond Tutu, Despre autor</em>
+<br><br>
+În timpul cât a durat citirea acestui articol, 68 de fete sub 18 ani au fost căsătorite.
+<br> În fiecare an, 12 milioane de fete sunt căsătorite înainte de vârsta de 18 ani.
+<br> Asta înseamnă 23 de fete în fiecare minut.
+<br><br>
+</p>
+<br>
+<a href="https://www.girlsnotbrides.org/articles/let-us-measure-up-as-men-desmond-tutu-on-engaging-men-and-boys-against-gender-based-violence/"
+    target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+        height="25px" class="link"><span>&nbsp;</span>Sursa:
+        https://www.girlsnotbrides.org/</a>
+<br><br>
+<a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     `
 }
