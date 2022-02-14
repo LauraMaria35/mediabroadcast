@@ -504,7 +504,7 @@ td:hover, th:hover {
 
 /*Materiale*/
 
-main img {
+main #diagrama1 img {
     width: fit-content;
     margin: 60px 120px 60px 120px;
 }
