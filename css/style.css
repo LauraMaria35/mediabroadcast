@@ -898,7 +898,7 @@ strong {
 
 .link {
     display: inline-block;
-    margin: 0;
+    
 }
 
 .sursa {
@@ -946,8 +946,4 @@ strong {
         flex: 1 1 0;
         font-size: 10px;
     }
-}
-
-#articol a img{
-    display: inline-block;
 }
