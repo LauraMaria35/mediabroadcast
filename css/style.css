@@ -504,10 +504,10 @@ td:hover, th:hover {
 
 /*Materiale*/
 
-main #diagrama1 img {
-    display: block;
+main #diagrama1 #diagrama {
+   
     width: fit-content;
-    margin: 60px 120px 60px 120px;
+    margin: 0 auto;
 }
 
 
@@ -752,8 +752,19 @@ label {
         font-size: 20px;
     }
 
-    #diagrama1 img{
-        width: 400px;
+    #diagrama{
+        max-width: 720px;
+    }
+}
+@media (max-width:620px){
+    #diagrama{
+        max-width: 520px;
+    }
+}
+
+@media (max-width:420px){
+    #diagrama{
+        max-width: 420px;
     }
 }
 
