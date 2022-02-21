@@ -107,7 +107,7 @@ function siria() {
 var div = document.getElementById("internal");
 var table = document.createElement("table");
 div.appendChild(table);
-var rowLength = 232;
+var rowLength = 235;
 var colLength = 1;
 var text = document.createTextNode(i + (j - 1) * 5);
 for (var i = 0; i < rowLength; i++) {
