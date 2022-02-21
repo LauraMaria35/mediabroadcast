@@ -4566,3 +4566,264 @@ Alți strategi consideră că Statele Unite ar putea fi mai agresive. Statele Un
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     `
 }
+
+function Mutilarea(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br><br></br>
+    <h1>Mutilarea genitală feminină - 200 de milioane de femei și un exemplu al nevoii de feminism
+                        radical.</h1>
+                    <br><br>
+                    <p><br>
+                        În curând vor începe vacanțele școlare în Kenya, iar odată cu vacanțele, ritualul mutilării
+                        genitale feminine revine.
+                        <br><br>
+                        Potrivit Organizației Mondiale a Sănătății (OMS):
+                        Mai mult de 200 de milioane de fete și femei în viață astăzi au suferit MGF în 30 de țări din
+                        Africa, Orientul Mijlociu și Asia unde se practică MGF.
+                        <br><br>
+                        Există câteva puncte-cheie pe care acest articol ni le reamintește.
+                        <br><br>
+                        1. Presiunea de a se conforma, precum și hărțuirea și stigmatizarea exercitate asupra celor care
+                        nu sunt mutilate.
+                        <br><br>
+                        2. Impactul pe care îl are mutilarea asupra prețului miresei.
+                        <br><br>
+                        3. Lauda care vine odată cu mutilarea, ceea ce face ca atât de multe femei să ia parte și să
+                        perpetueze astfel acest abuz. Această practică brutală este doar una dintre numeroasele practici
+                        culturale la care femeile sunt forțate să se conformeze pentru a fi acceptabile din punct de
+                        vedere social și pentru a avea mai multă valoare
+                        <br><br>
+                        4. După ce se conformează de bună voie sau nu la această practică, unele femei aleg să devină,
+                        de asemenea, abuzatorii - cei care efectuează procedura. Acesta este momentul în care feminismul
+                        liberal arată sexismul pe care îl reprezintă cu adevărat. Pentru că susține ideea că "tot ceea
+                        ce alege o femeie este o alegere feministă doar pentru că ea a ales-o".
+                        <br><br>
+                        NOTĂ
+                        Ca orice articol care are legătură cu sexismul și feminismul, nu sunt de acord cu tot ceea ce
+                        este scris. În timp ce mulți activiști curajoși se opun MGF în țările în care este practicată,
+                        unele dintre cele mai tulburătoare părți ale articolului de mai jos sunt cuvintele bărbaților
+                        care se opun practicii și cât de multă misoginie rămâne în mentalitatea lor. Câteva exemple:
+                        <br><br>
+                        1. Salută femeile pentru că fac "munca de măgar pentru comunitate".
+                        Cum ar fi văzut acest lucru dacă ar fi schimbat într-un context rasial și apoi citat de The
+                        Guardian fără reproșuri?
+                        <br><br>
+                        2. Spunând că cei din afara Kenyei care se opun MGF sunt "intruși, care fac găuri în cultura
+                        lor".
+                        Cum ar fi privită această afirmație, dacă ar fi vorba de o chestiune rasială și nu de 200 de
+                        milioane de femei mutilate?
+                        <br><br>
+                        3. Exprimarea simpatiei pentru alți bărbați elderi care susțin MGF, care continuă practica
+                        pentru propriul beneficiu financiar și sugerarea ca elderii să fie recompensați financiar pentru
+                        a pune capăt practicii.
+                        <br><br>
+                        Acest sentiment nu face decât să perpetueze rolul cultural al acestor elderi de sex masculin de
+                        a continua să exercite presiune socială asupra femeilor.
+                        <br><br>
+                        -----------------------
+                        <br><br>
+                        Ridicându-se pe jumătate de pe scaunul alb din plastic, el aruncă un deget spre o fată și
+                        prietenele ei de la școală care stăteau de cealaltă parte a cercului față de el. "Ea va avea un
+                        viitor", spune Patrick Ikware, aproape strigând. "Acest cult este în scădere, dar pentru a-l
+                        elimina, trebuie să înlocuim educația, să ne trimitem fiicele la școală și să ne astupăm
+                        urechile față de elderi."
+                        <br><br>
+                        Cei câțiva alții care stau pe scaune discordante pe iarba din fața școlii din Masaba dau din
+                        cap. La o reuniune a părinților organizată pentru cei care se opun mutilării genitale feminine
+                        (MGF), o practică aproape universală în rândul femeilor din districtele Kuria din comitatul
+                        Migori, în vestul Kenyei, participă puțini oameni.
+                        <br><br>
+                        Dar fiica sa, care zâmbește timid la cuvintele sfidătoare ale tatălui ei, ca toate fiicele lor,
+                        este încă în pericol. Rudele de aici, chiar și vecinii, vor ademeni o fată la ceremoniile de
+                        tăiere dacă părinții ei nu sunt vigilenți.
+                        <br><br>
+                        "Problema pe care o avem sunt oamenii care nu pot privi dincolo de propriul acoperiș! Bătrânii,
+                        părinții și rudele noastre, chiar și prietenii noștri, spun că trebuie să tai", spune Ikware.
+                        <br><br>
+                        "Ei nu pot să-mi spună ce să fac cu fiicele mele și dacă fiica mea absolvă aici, nu trebuie să
+                        mă aștept să se căsătorească în jurul acestei comunități. Există și alte locuri".
+                        <br><br>
+                        Campania pentru a opri mutilarea organelor genitale a sute de fete la sfârșitul lunii viitoare,
+                        când școlile se vor închide de Paște, este în plină desfășurare aici. Vacanța școlară este
+                        perioada în care au loc tăierile, la fete de la șase ani în sus. Cu cât vacanța este mai lungă,
+                        cu atât mai multe fete vor fi tăiate, iar din martie școlile sunt închise timp de șapte
+                        săptămâni. Sărbătorile de Crăciun i-au luat prin surprindere pe toți cei implicați în mișcarea
+                        anti-FGM de aici - ceremoniile de tăiere au început la scară largă în centrele orașelor din
+                        Kuria, la granița kenyană cu Tanzania, facilitate de lipsa de aplicare a legii datorită
+                        închiderii Covid.
+                        <br><br>
+                        În ciuda pasiunii voluntarilor care militează împotriva MGF, a activiștilor care vorbesc la
+                        fiecare post de radio local despre prețul teribil mental și fizic, a comitetelor, a legislației
+                        și chiar a președintelui kenyan care a denunțat practica ilegală, atracția și puterea tradiției
+                        sunt puternice și este greu să fii evitat de vecini și familie într-un loc mic unde viața este
+                        grea.
+                        <br><br>
+                        Presiunea de a se conforma este uriașă. Fetele care nu sunt tăiate sunt hărțuite, sunt poreclite
+                        cu nume urâte. Tații și frații sunt tachinați sau ridiculizați. În cazurile rare în care o fată
+                        se căsătorește fără să fie tăiată, se știe că socrii îngroziți vor mitui o asistentă pentru a-i
+                        tăia labiile în urma nașterii.
+                        <br><br>
+                        Femeile, mai puțin educate și cu mai puține posibilități de a părăsi limitele comunității, sunt
+                        cele care resimt cel mai acut așteptările ca fiicele lor să fie tăiate, perpetuând tradiția
+                        chiar dacă sunt conștiente de daunele provocate asupra propriului corp. Fetele care nu au nimic
+                        văd o zi în care sunt lăudate, primesc un cadou, poate chiar câteva bancnote prinse pe haine. Și
+                        pot face parte din procesiunile care marchează sărbătorile unice ale MGF din Kuria, când sângele
+                        care se scurge din corpurile proaspăt tăiate este camuflat de vopseaua unsă pe victime sau șters
+                        de pe pământ de picioarele dansatoare atunci când atinge pământul.
+                        <br><br>
+                        Kuria, situată la vest de taberele de safari din rezervația națională Maasai Mara, a scăpat până
+                        acum de seceta din alte părți ale Africii de Est, iar pieile de cerb ale vacilor sunt
+                        strălucitoare, iar micile capre au burta plinuță. Dar există încă niveluri chinuitoare de
+                        sărăcie și oameni care nu-și pot permite uniformele școlare, pantofii, taxele și cărțile.
+                        Covidul a înrăutățit situația economică, în timp ce mulți băieți și fete nu s-au întors la
+                        studii după închiderea școlilor din cauza pandemiei.
+                        <br><br>
+                        Dar fetele încă mai obțin câteva vaci ca zestre, ceea ce face ca cei 1.000-2.000 de șilingi
+                        kenyeni (6,50-13 lire sterline) pe care îi costă plata unui tăietor să fie o investiție. Iar
+                        banii sunt la baza provocării de a eradica această practică brutală în Kuria.
+                        <br><br>
+                        Zacharia Gati Marwa, coordonatorul cultural al consiliului de bătrâni din Kuria, stă pe o bancă
+                        în casa sa cu acoperișuri joase din cărămidă de lut. El ar putea fi acuzat, de asemenea, că stă
+                        pe baricade. El s-a angajat alături de activiștii care doresc să pună capăt MGF și spune că
+                        propriile sale fiice nu sunt tăiate, dar are simpatie pentru elderii care se împotrivesc să-și
+                        folosească autoritatea pentru a pune capăt tăierii. Cele patru clanuri din regiune sunt
+                        reprezentate de 160 de elderi, care dirijează aproximativ 40 de tăietori, luând pentru ei înșiși
+                        profiturile pe care le obțin.
+                        <br><br>
+                        "Elderii nu sunt oameni bogați", spune Marwa. "Mulți sunt foarte săraci și, fără acești bani, au
+                        și mai puține venituri. Banii colectați sunt importanți. Există un impact asupra veniturilor
+                        aici.
+                        <br><br>
+                        "Dar în ultimii doi ani am văzut că cel puțin o parte dintre membri au început să își schimbe
+                        mentalitatea. Aproximativ o treime încă rezistă.
+                        <br><br>
+                        "Atunci când planifică modul în care ar trebui să aibă loc tăierea, ei se consultă cu spiritele
+                        și apoi adună tăietorii și pregătesc farmece care să îi ajute", spune el. "Există 40 de tăietori
+                        la un moment dat, aleși de spirite. Ei nu pot refuza sarcina dacă sunt aleși, este o chemare și
+                        sunt învățați cum să taie de către spirite. Orice femeie nu se poate trezi pur și simplu și să
+                        înceapă să taie fete.
+                        <br><br>
+                        "Pentru a pune capăt MGF, ar trebui să le cumpărăm acestor bărbați o casă, astfel încât să fie
+                        în siguranță, și să plătim pentru a le educa fiicele, apoi aceste fete pot spune "uite, nu sunt
+                        tăiată și sunt copilul unui elder". Cred că aceasta este singura cale.
+                        <br><br>
+                        "În acest moment, cea mai mare amenințare culturală la adresa modului de viață al elderilor este
+                        reprezentată de ... schimbările care au legătură cu MGF."
+                        <br><br>
+                        Merida Omahe și soțul ei, Martin, conduc un hotel micuț, Black Bull, în Migori, dar cea mai mare
+                        parte a muncii ei este acum să aibă grijă de fetele din cartier. În timp ce vorbim, două mame,
+                        Esther Mbusiro și Mary Marko, apar la poarta lor. Ele vor să știe dacă fiicele lor pot veni și
+                        se pot ascunde cu Merida în timpul sezonului de tăiere pentru a le ține în siguranță.
+                        <br><br>
+                        "Da, îmi amintesc ce mi s-a întâmplat. A fost o petrecere pe cinste", spune Merida, cu o ironie
+                        grea. "Când eram fată, toată lumea o susținea (tăierea). Uneori mă simt traumatizată. Am fost
+                        lovită și am sângerat foarte mult. M-am ascuns și am reușit să scap de ea câțiva ani, dar când
+                        aveam 21 de ani, am fost luată cu forța. Atunci a fost un ritual de trecere la vârsta adultă și
+                        la căsătorie, dar eram mult mai în vârstă decât ceea ce se întâmplă acum."
+                        <br><br>
+                        "Acum pot să iau apărarea acestor fete tinere. O persoană din două te va asculta. De multe ori,
+                        ele vor ascunde astfel de lucruri de soții lor."
+                        <br><br>
+                        Soțul ei de 45 de ani o susține, chiar și atunci când 185 de copile au ajuns să se ascundă de
+                        tăietori în complexul lor familial în decembrie. "Acum sunt cinci", zâmbește el. "Cele pe care
+                        le avem acasă, salvările pe care le-am făcut, aceste copile care aleargă la ea, care nu vor să
+                        fie tăiate, mă impresionează ceea ce face ea. Mă emoționează. Ea are o inimă blândă. La început,
+                        o făcea singură, dar acum sunt oameni care gândesc la fel", spune el.
+                        <br><br>
+                        El crede că oamenii locali vor aduce schimbarea, nu marile ONG-uri sau agențiile ONU. "Oamenii
+                        care vin din afară sunt intruși și nu vrem ca ei să facă găuri în cultura noastră. Este treaba
+                        oamenilor noștri să decidă ce este mai bine pentru ei. De aceea, activiștii de aici sunt atât de
+                        importanți. Trebuie să vorbim cu tinerii noștri. Aceștia sunt băieții care se vor căsători cu
+                        aceste fete, iar dacă se vor opune MGF, aceasta va înceta.
+                        <br><br>
+                        "Femeile muncesc foarte mult în comunitatea noastră. Ele fac toată munca noastră de măgar. Le
+                        salut".
+                        <br><br>
+                        O femeie care este căsătorită, dar care nu a fost tăiată, este numită irikunena, iar fetele
+                        necăsătorite sunt numite mosagane - termeni nepoliticoși și înjositori, spune Janet Ghati, în
+                        vârstă de 15 ani, o orfană care este una dintre cele cinci care încă mai trăiesc cu Omahes. Ea
+                        primește multe abuzuri verbale pentru că nu a fost tăiată, dar spune că profesorii vor interveni
+                        pentru a opri hărțuirea dacă o aud. "Nu vreau să fiu tăiată, dar uneori, când sunt abuzată la
+                        școală, mă simt chinuită de decizia mea. Se întâmplă des, dar nu am fost niciodată împinsă să
+                        abandonez școala. Mi-ar plăcea să devin medic."
+                        <br><br>
+                        Trebuie să vorbim cu tinerii noștri. Aceștia sunt băieții care se vor căsători cu aceste fete,
+                        iar dacă se vor opune MGF, aceasta va înceta.
+                        <br><br>
+                        Așezată pe un scaun de plastic lângă ea se află prietena ei Rahena, de asemenea în vârstă de 15
+                        ani, o supraviețuitoare a MGF. Ea are acum fobie de sânge. "Au făcut un lucru rău", spune ea,
+                        "nu am vrut niciodată să se întâmple așa ceva. M-am simțit oribil, neajutorată. Nu aveam telefon
+                        să o sun pe mama. Nu-mi venea să cred că mi s-a întâmplat mie. A fost nevoie de o lună pentru ca
+                        durerea să dispară".
+                        <br><br>
+                        Meride, împreună cu Vincent Mwita, coordonatorul grupului umbrelă de activiști anti-FGM
+                        Tunaweza, a reușit să ajungă la Rahena înainte de a fi căsătorită.
+                        <br><br>
+                        "Este o poveste nefericită", spune ea, "noi o protejam când am auzit că risca să fie căsătorită
+                        de copil, dar fratele ei a luat-o noaptea. Era o fată foarte nefericită când am găsit-o".
+                        <br><br>
+                        Pentru astfel de "salvări", ei închiriază o motocicletă-taxi care să le ia pe fete. Este
+                        costisitor, iar Mwita speră că Tunaweza își va putea cumpăra într-o zi propria motocicletă, dar
+                        este o achiziție costisitoare. Poliția este rareori de acord să participe, invocând lipsa de
+                        personal sau de combustibil pentru vehiculele lor, spune el, dar mulți oameni din comunitate vor
+                        raporta tăierile, iar numerele de telefon ale activiștilor sunt distribuite pe scară largă
+                        pentru apeluri de urgență.
+                        <br><br>
+                        "Fratele lui Rahena a fost nevoit să se ascundă în Tanzania după ce a fost reclamat
+                        autorităților pentru acest lucru", spune el.
+                        <br><br>
+                        În decembrie, poliția a arestat 57 de părinți. Cei mai mulți dintre ei așteaptă ca procesele lor
+                        să fie judecate în instanță. Pedepsele cu închisoarea pentru implicarea în MGF sunt de până la 3
+                        ani și, întrucât copilul trebuie să depună mărturie, sunt controversate.
+                        <br><br>
+                        "Desparte familii", spune Janet Robi, ofițerul județean pentru copii. "În prezent, avem 94 de
+                        copii aliniați pentru a depune mărturie împotriva părinților lor, dar până atunci trebuie să
+                        găsim locuri pentru a-i îngriji." În lipsa unor locuri suficiente în casele de copii, unii
+                        așteaptă în celulele poliției sau în centrele de detenție preventivă pentru adulți, spune ea.
+                        "În trecut, cazurile de MGF se năruiau deoarece copiii trebuiau să stea la rude și erau
+                        instruiți cu privire la ce să spună în instanță. Sau erau duși cu forța în Tanzania. Ieri, am
+                        avut patru copii în biroul meu. Ambii părinți fuseseră arestați, așa că facem o petiție la
+                        tribunal pentru a elibera o persoană care să se ocupă de îngrijirea copiilor. Aceasta este
+                        provocarea noastră. Chiar dacă arestezi un tăietor - [și este] dificil să îi prinzi în flagrant
+                        - faci apoi loc pentru unul mai puțin experimentat care să îi ia locul. Aceste femei nu sunt
+                        instruite".
+                        <br><br>
+                        "În Kenya, avem 43 de triburi, doar cinci nu practică MGF", spune Maginga. "Kuria are doar
+                        300.000 de persoane, dar se remarcă pentru că avem atât refluxul din Tanzania, cât și muzica și
+                        dansul, deoarece oamenii ies pe drumuri pentru a sărbători. Este foarte colorat. Kuria este
+                        renumit pentru două lucruri: MGF și furtul de vite. Și furtul de vite devine o problemă din ce
+                        în ce mai puțin gravă, deoarece este luată în serios", spune el.
+                        <br><br>
+                        "Am fost la o înmormântare în această dimineață. Era acolo un bătrân de 90 de ani, cu lobii
+                        lungi ai urechilor găuriți pe care îi aveau bărbații, care mă întreba despre activitatea de MGF
+                        și mi-a spus: "Uită-te la urechile mele, oamenii noștri nu mai respectă această tradiție, așa că
+                        de ce se agață să ne taie fetele?".
+                        <br><br>
+                        "Dar noi o glorificăm, durerea sau suportarea durerii este glorificată pentru acești copii, unii
+                        dintre ei nemaifiind felicitați înainte pentru nimic în viața lor. Acesta este un diavol cu două
+                        fețe", spune el. "Unii spun că vor face un lucru și fac altul. Un exemplu? Unul dintre înalții
+                        funcționari care au ieșit să facă arestări în decembrie? Fiica ei de 10 ani a fost tăiată în
+                        același timp".
+                        <br><br>
+                        Acesta este un an electoral național pentru Kenya, o perioadă uneori volatilă, când diviziunea
+                        este transformată în violență de către cei fără scrupule. Tingo spune că politicienii sunt atât
+                        de dornici de voturi încât nu vor să se pronunțe împotriva MGF. "Acesta este un lucru care este
+                        deja în afara legii. Singurele persoane pe care trebuie să le cucerim în această campanie sunt
+                        clasele politice. În ziua în care un politician va sta pe un podium și va vorbi despre MGF și va
+                        spune "atâta i-a fost", totul se va fi terminat."
+                        <br><br>
+
+                    </p>
+                    <br>
+                    <a href="https://www.theguardian.com/global-development/2022/feb/15/hiding-from-the-cutters-the-fight-to-save-girls-from-mutilation-in-kenya-fgm"
+                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a>
+
+                    <br><br>
+                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+
+    `
+}
