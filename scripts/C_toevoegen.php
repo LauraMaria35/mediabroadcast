@@ -3,79 +3,80 @@ try
 {
 	//********** Initialisatie
 	$_srv = $_SERVER['PHP_SELF'];
-
+$_output = "";
 	// database connection en selection
 	require_once("../connections/pdo.inc.php"); 
 	// maak variabele selectie query
 	require_once("../php_lib/createSelect.inc.php"); 
-	// zoek primary key voor t_gemeente  
-	require_once("../php_lib/PK_t_gemeente.inc.php"); 
 
 	//********** Input en verwerking
 
-	if (! isset($_POST["submit"]))  // formulier klaar maken
+	if (isset($_POST["submit"]))  // formulier klaar maken
 	{
-		$_output= "<h1>Toevoegen</h1>";
-		$_output.= " 
-<form  method='post' action='$_srv'>
-<label>Voornaam : </label>
-<input type='text' name='vnaam' placeholder ='voornaam'>
-<label>Naam  : </label>
-<input type='text' name='anaam' placeholder ='naam'>
-<label>Straat : </label>
-<input type='text' name='straat' placeholder='straat' >
-&nbsp;&nbsp
-<input type='text' name='nr' placeholder=nr>
-<label>Gemeente : </label>
-<input type='text' name='postcode' placeholder='postcode' >
-&nbsp;&nbsp
-<input type='text' name='gemeente' placeholder='gemeente'>
 
-<input type='submit' class='submit' name='submit' value='Toevoegen' >
-</form>";
-
-	}
-	else // inhoud formulier verwerken 
-	{
 		// input uitpakken
-		$_naam = $_POST['anaam'];
-		$_vnaam = $_POST['vnaam'];
-		$_straat = $_POST['straat'];
-		$_nummer = $_POST['nr'];	
-		$_postcode = $_POST['postcode'];
-		$_gemeente = $_POST['gemeente'];
+		$_titlu = $_POST['titlu'];
+		$_articol = $_POST['articol'];
+		$_sursa = $_POST['sursa'];
+		
 
 		// Query samenstellen
 		$_query = createSelect(
-			"v_cursisten",
-			array($_naam, $_vnaam, $_postcode, $_gemeente,$_straat,$_nummer), 
-			array("d_naam", "d_voornaam", "d_postnummer", "d_gemeenteNaam", "d_straat", "d_nummer"));
+			"t_articole",
+			array($_titlu, $_articol, $_sursa), 
+			array("d_titlu", "d_continut", "d_sursa"));
 
 		// Query naar DB sturen
-		$_result = $_PDO -> query("$_query");
-
-		// Resultaat verwerken
+		$_result = $_PDO -> query($_query);
 		if ($_result -> rowCount() > 0)
 		{
-			$_output = "<p>Cursist &quot;$_vnaam $_naam&quot; zit al in de database!</p>"; 
+			$_output = "<p>Articolul &quot;$_titlu $_sursa&quot; se află în baza de date!</p>"; 
 		}
 		else
 		{
+			$_query = "INSERT INTO t_articole
+			(d_titlu, d_continut, d_sursa)
+	  VALUES ('$_titlu', '$_continut', '$_sursa')";
 
-			$_PK_gemeente = PK_t_gemeente($_postcode, $_gemeente);
-
-			$_query = "INSERT INTO t_cursisten 
-			           (d_naam, d_voornaam, d_straat, d_nummer,d_gemeente)
-                 VALUES ('$_naam', '$_vnaam', '$_straat', '$_nummer', '$_PK_gemeente');";
-
-			$_PDO -> query("$_query");
-			$_output = "<p>Cursist $_vnaam $_naam werd toegevoegd</p>";	
+ $_PDO -> query($_query);
+ $_output = "<section id=form><h2>Articolul $_titlu a fost introdus.</h2>";
 		}
+			$_query = "SELECT * FROM t_articole ORDER BY d_index DESC";
 
+			$_result = $_PDO->query($_query)->fetchAll();
+	
+			$_output = "<div id='mainHome1'>
+			<br>
+			<a href=articole.html><img id=sageata src='img/sageata.png' alt='sageata'><span>&nbsp;</span>Înapoi la lista cu articole</a>
+			<br>
+			<div id='articol'>
+				<br>
+				<h1>$_titlu</h1>
+				<br>
+				<br>
+				<p>
+					<br>
+					$_articol
+					<br>
+					<br>
+				</p>
+				<br>
+				<br>
+				<a href=$_sursa
+					target='_blank'><img src='img/external-link-pngrepo-com.png' alt='external link' width='25px' height='25px' id='link'><span>&nbsp;</span>link către articolul în engleză</a>
+			</div>
+			<br><br>
+		 ";
+			
+		
 	}
 
 	//********** output
 	require("../smarty/mySmarty.inc.php");
+	$_smarty->assign('srv', $_srv);
+	$_smarty->assign('titlu', $_titlu);
+	$_smarty->assign('articol', $_articol);
+	$_smarty->assign('sursa', $_sursa);
 	$_smarty->assign('output', $_output);
 	$_smarty->display('basisAppl.tpl');
 

@@ -1,3 +1,27 @@
+<?php
+/* Smarty version 3.1.31, created on 2022-02-24 13:40:20
+  from "/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.31',
+  'unifunc' => 'content_62178ac475f107_07510211',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'dedd4569578e73cab2a6ad7146f422c66af50435' => 
+    array (
+      0 => '/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl',
+      1 => 1645709822,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_62178ac475f107_07510211 (Smarty_Internal_Template $_smarty_tpl) {
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,7 +34,9 @@
         type="text/css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-   <script type="text/javascript" src="../js_lib/copyright.js"></script>
+   <?php echo '<script'; ?>
+ type="text/javascript" src="../js_lib/copyright.js"><?php echo '</script'; ?>
+>
     <title>6 iunie 2020</title>
 </head>
 
@@ -42,7 +68,8 @@
   
 	<main id="mainArticole">
 		<h1>Introdu</h1>
-<form  method='post' action={$srv}>
+<form  method='post' action=<?php echo $_smarty_tpl->tpl_vars['srv']->value;?>
+>
 <label>Titlu : </label>
 <input type='text' name='titlu' placeholder ='titlu'>
 <label>Articol  : </label>
@@ -52,17 +79,22 @@
 &nbsp;&nbsp
 <input type='submit' class='submit' name='submit' value='Toevoegen' >
 </form>
-           {$output}
+           <?php echo $_smarty_tpl->tpl_vars['output']->value;?>
+
 		
 	</main>
   
 	<footer>
-		<script language="javascript">
+		<?php echo '<script'; ?>
+ language="javascript">
 			document.write(copyRight(" lauraciocalau.com"));
-		</script>
+		<?php echo '</script'; ?>
+>
 	</footer>
   
 </div>
 
 </body>
 </html>
+<?php }
+}
