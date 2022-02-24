@@ -30,7 +30,7 @@ $_output = "";
 		$_result = $_PDO -> query($_query);
 		if ($_result -> rowCount() > 0)
 		{
-			$_output = "<p>Articolul &quot;$_titlu $_sursa&quot; se află în baza de date!</p>"; 
+			$_output = "<p>Articolul &quot;$_titlu&quot; se află în baza de date!</p>"; 
 		}
 		else
 		{
@@ -43,9 +43,8 @@ $_output = "";
 		}
 			$_query = "SELECT * FROM t_articole ORDER BY d_index DESC";
 
-			$_result = $_PDO->query($_query)->fetchAll();
 	
-			$_output = "<div id='mainHome1'>
+		/*	$_output = "<div id='mainHome1'>
 			<br>
 			<a href=articole.html><img id=sageata src='img/sageata.png' alt='sageata'><span>&nbsp;</span>Înapoi la lista cu articole</a>
 			<br>
@@ -66,7 +65,7 @@ $_output = "";
 					target='_blank'><img src='img/external-link-pngrepo-com.png' alt='external link' width='25px' height='25px' id='link'><span>&nbsp;</span>link către articolul în engleză</a>
 			</div>
 			<br><br>
-		 ";
+		 "; */
 			
 		
 	}
