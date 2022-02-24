@@ -11,27 +11,25 @@
 <body>
 <div id="mainbox">
 	<header>
-		<img src="../../images/basis.png"  height="100%" alt="Basis applicatie"/>
-		<p>Applicatie</p>
+		<div id="titleNav">
+
+			<div id="naam">
+				<h1><img src="../images/basis.png" alt="" width="205"> <br> Applicatie</h1>
+			</div>
+			<img src="../images/vlaanderen.png" alt="logo" width="450" height="201">
+
+		</div>
+
 	</header>
-	<nav>
-		<ul>
-			<li><a href="php11_o_1_producten.php">Produkten</a></li>
-			<li><a href="php11_o_1_klanten_b.php">Klanten</a></li>
-		</ul> 
-	</nav>
   
 	<main>
-		<article id="artMain">
-			<h1>Smarty</h1>
-			<p>Smarty is a web template system written in PHP. Smarty is primarily promoted as a tool for separation of concerns.[1] Smarty is intended to simplify compartmentalization, allowing the front-end of a web page to change separately from its back-end. Ideally, this lowers costs and minimizes the efforts associated with software maintenance.</p>
-		</article>
+		{$output}
 		
 	</main>
   
 	<footer>
 		<script language="javascript">
-			document.write(copyRight("webontwikkeling.info"));
+			document.write(copyRight(" lauraciocalau.com"));
 		</script>
 	</footer>
   

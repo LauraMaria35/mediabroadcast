@@ -3,27 +3,33 @@
 <head>
 <meta charset="UTF-8">
 <link href="../css/basisAppl.css" rel="stylesheet" type="text/css">
-<script src="../js_lib/copyright.js"></script>
+<script type="text/javascript" src="../js_lib/copyright.js"></script>
 
-<title>Basis applicatie</title>
+<title>Basis applicate</title>
 </head>
 
 <body>
-<div id="container">
+<div id="mainbox">
 	<header>
-		<img src="../images/basis.png"  height="100%" alt="Basis applicatie"/>
-		<p> applicatie</p>
+		<div id="titleNav">
+
+			<div id="naam">
+				<h1><img src="../images/basis.png" alt="" width="205"> <br> Applicatie</h1>
+			</div>
+			<img src="../images/vlaanderen.png" alt="logo" width="450" height="201">
+
+		</div>
+
 	</header>
   
 	<main>
-		<article>
-			{$output}
-		</article>
+		{$output}
+		
 	</main>
   
 	<footer>
-		<script>	
-			document.write(copyRight("webontwikkeling.info"));
+		<script language="javascript">
+			document.write(copyRight(" lauraciocalau.com"));
 		</script>
 	</footer>
   
