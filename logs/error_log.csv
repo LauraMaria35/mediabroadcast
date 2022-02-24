@@ -1,0 +1,32 @@
+"06-03-2018 15:15:03","illegal access",/Applications/MAMP/htdocs/webo/C_Applicaties/APP_01_Basis/scripts/L_data_aanpassen.php,40
+"06-03-2018 15:29:34","Opening error_log failed",/Applications/MAMP/htdocs/webo/C_Applicaties/APP_01_Basis/scripts/Y_toon_exceptionsLog.php,75
+"06-03-2018 15:29:44","Opening error_log failed",/Applications/MAMP/htdocs/webo/C_Applicaties/APP_01_Basis/scripts/Y_toon_exceptionsLog.php,75
+"08-03-2018 16:15:38","illegal access",/Applications/MAMP/htdocs/webo/C_Applicaties/APP_01_Basis/scripts/L_data_aanpassen.php,40
+"13-03-2018 09:05:35","SQLSTATE[HY000] [2002] No such file or directory",/Applications/MAMP/htdocs/webo/C_Applicaties/APP_01_Basis/connections/pdo.inc.php,18
+"13-03-2018 09:05:56","SQLSTATE[HY000] [2002] No such file or directory",/Applications/MAMP/htdocs/webo/C_Applicaties/APP_01_Basis/connections/pdo.inc.php,18
+"13-03-2018 09:06:20","SQLSTATE[HY000] [2002] No such file or directory",/Applications/MAMP/htdocs/webo/C_Applicaties/APP_01_Basis/connections/pdo.inc.php,18
+"14-01-2019 10:57:13","SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_school.v_cursisten_comp' doesn't exist",/Applications/MAMP/htdocs/webo/B_php/php10_TTVA_1/oefeningen/PHP08_01_B_tonen_multiple.php,62
+"15-01-2019 13:32:19","SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'd_gemeente' at row 1",/Applications/MAMP/htdocs/webo/B_php/php10_TTVA_1/oefeningen/PHP08_02_toevoegen_deel_3.php,79
+"15-01-2019 13:32:47","SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'd_gemeente' at row 1",/Applications/MAMP/htdocs/webo/B_php/php10_TTVA_1/oefeningen/PHP08_02_toevoegen_deel_3.php,79
+"15-01-2019 13:33:22","SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'd_gemeente' at row 1",/Applications/MAMP/htdocs/webo/B_php/php10_TTVA_1/oefeningen/PHP08_02_toevoegen_deel_3.php,79
+"16-01-2019 19:11:38","illegal access",/Applications/MAMP/htdocs/webo/B_php/php11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"16-01-2019 19:12:44","illegal access",/Applications/MAMP/htdocs/webo/B_php/php11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"16-01-2019 19:12:54","illegal access",/Applications/MAMP/htdocs/webo/B_php/php11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"16-01-2019 19:12:59","illegal access",/Applications/MAMP/htdocs/webo/B_php/php11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"21-01-2019 11:15:45","illegal access",/Applications/MAMP/htdocs/webo/B_php/php11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"13-02-2020 10:21:50","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/start.php,22
+"13-02-2020 10:32:01","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"13-02-2020 11:08:36","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"13-02-2020 11:22:50","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"13-02-2020 11:23:07","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"13-02-2020 11:25:24","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"13-02-2020 11:29:11","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/start.php,22
+"13-02-2020 11:29:15","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/C_data_aanpassen.php,30
+"13-02-2020 11:47:26","SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_school.t_lesgever' doesn't exist",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/L_toevoegen.php,79
+"20-02-2020 09:41:16","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/L_data_aanpassen.php,30
+"20-02-2020 09:41:48","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/L_data_aanpassen.php,30
+"20-02-2020 09:42:01","illegal access",/Applications/MAMP/htdocs/webo/B_PHP/PHP-11_TTVA_2/oefeningen/L_data_aanpassen.php,30
+"02-02-2021 12:56:22","illegal access",/Users/micky/Sites/localhost/webo/B_PHP/PHP-12_basis_applicatie_deel_2/scripts/C_data_aanpassen.php,26
+"02-02-2021 12:56:37","illegal access",/Users/micky/Sites/localhost/webo/B_PHP/PHP-12_basis_applicatie_deel_2/scripts/C_data_aanpassen.php,26
+"25-01-2022 11:07:13","SQLSTATE[HY000] [2002] No such file or directory",/Users/micky/Documents/www/webo/B_PHP/PHP_12_basis_applicatie_deel_2/connections/pdo.inc.php,20
+"25-01-2022 11:18:34","SQLSTATE[HY000] [2002] No such file or directory",/Users/micky/Documents/www/webo/B_PHP/PHP_12_basis_applicatie_deel_2/connections/pdo.inc.php,20
