@@ -27,11 +27,11 @@
                 <nav>
                     <div id="navHeader"></div>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="articole.html">Articole</a></li>
-                        <li><a href="materiale.html">Materiale</a></li>
-                        <li><a href="prezentari.html">Prezentări</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="../html/index.html">Home</a></li>
+                        <li><a href="../html/articole.html">Articole</a></li>
+                        <li><a href="../html/materiale.html">Materiale</a></li>
+                        <li><a href="../html/prezentari.html">Prezentări</a></li>
+                        <li><a href="../html/contact.html">Contact</a></li>
                     </ul>
 
                 </nav>

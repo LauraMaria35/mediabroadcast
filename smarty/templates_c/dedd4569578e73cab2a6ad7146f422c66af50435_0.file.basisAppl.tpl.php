@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-02-25 06:26:54
+/* Smarty version 3.1.31, created on 2022-02-25 12:17:52
   from "/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_621876ae655943_23794167',
+  'unifunc' => 'content_6218c8f074d592_58435545',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'dedd4569578e73cab2a6ad7146f422c66af50435' => 
     array (
       0 => '/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl',
-      1 => 1645770404,
+      1 => 1645791449,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_621876ae655943_23794167 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6218c8f074d592_58435545 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -53,11 +53,11 @@ function content_621876ae655943_23794167 (Smarty_Internal_Template $_smarty_tpl)
                 <nav>
                     <div id="navHeader"></div>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="articole.html">Articole</a></li>
-                        <li><a href="materiale.html">Materiale</a></li>
-                        <li><a href="prezentari.html">Prezentări</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="../html/index.html">Home</a></li>
+                        <li><a href="../html/articole.html">Articole</a></li>
+                        <li><a href="../html/materiale.html">Materiale</a></li>
+                        <li><a href="../html/prezentari.html">Prezentări</a></li>
+                        <li><a href="../html/contact.html">Contact</a></li>
                     </ul>
 
                 </nav>
