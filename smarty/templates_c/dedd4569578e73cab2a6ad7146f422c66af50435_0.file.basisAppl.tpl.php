@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-02-24 19:47:52
+/* Smarty version 3.1.31, created on 2022-02-25 06:26:54
   from "/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_6217e0e8cbf920_64779499',
+  'unifunc' => 'content_621876ae655943_23794167',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'dedd4569578e73cab2a6ad7146f422c66af50435' => 
     array (
       0 => '/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl',
-      1 => 1645732064,
+      1 => 1645770404,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6217e0e8cbf920_64779499 (Smarty_Internal_Template $_smarty_tpl) {
+function content_621876ae655943_23794167 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -67,22 +67,7 @@ function content_6217e0e8cbf920_64779499 (Smarty_Internal_Template $_smarty_tpl)
         </header>
   
 	<main id="mainArticole">
-		<h1>Introdu în baza de date</h1>
-<form  method='post' action=<?php echo $_smarty_tpl->tpl_vars['srv']->value;?>
->
-<label>Titlu:</label>
-<input type='text' name='titlu' placeholder ='titlu'>
-<br><br>
-<label>Articol</label> &nbsp;&nbsp;&nbsp;
-                      <textarea name='articol' cols='100' rows='10' id='boodschap'></textarea>
-
-<br><br>
-<label>Sursa:</label>
-<input type='text' name='sursa' placeholder='sursa' >
-<br><br>
-&nbsp;&nbsp;
-<input type='submit' class='submit' name='submit' value='Adaugă' >
-</form>
+		
            <?php echo $_smarty_tpl->tpl_vars['output']->value;?>
 
 		

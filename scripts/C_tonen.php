@@ -3,7 +3,7 @@ try
 {
 //********** Initialisatie
 	$_srv = $_SERVER['PHP_SELF'];
-
+$_output = "";
 	// database connection en selection
 	require_once("../connections/pdo.inc.php");
 
@@ -12,42 +12,31 @@ try
 
 //********** Input en verwerking
 
-	if (! isset($_POST["submit"]))  // formulier klaar maken
+	if (!isset($_POST["submit"]))  // formulier klaar maken
 	{
-		$_output= "<h1>Tonen</h1>";
-		$_output.= "  
-<form  method='post' action='$_srv'>
-<label>Voornaam : </label>
-<input type='text' name='vnaam'placeholder='voornaam' >
-<label>Naam  : </label>
-<input type='text' name='anaam' placeholder='naam' >
-<label>Straat : </label>
-<input type='text' name='straat' placeholder='straat' >
-&nbsp;&nbsp
-<input type='text' name='nr' placeholder='nr'>
-<label>Gemeente : </label>
-<input type='text' name='postcode' placeholder='postcode' >
-&nbsp;&nbsp
-<input type='text' name='gemeente' placeholder='gemeente'>
-
-<input type='submit' class='submit' name='submit' value='Toon' >
-</form>";
+			$_output = " 
+			<h1>Caută următorul articol:</h1>
+			<form  method='post' action={$srv}>
+			<label>Titlu:</label>
+			<input type='text' name='titlu' placeholder ='titlu'>
+			<br><br>
+			
+			&nbsp;&nbsp;
+			<input type='submit' class='submit' name='submit' value='Arată' >
+			</form>";
 	}
-	else // inhoud formulier verwerken
-	{
 		// input uitpakken
-		$_naam = $_POST['anaam'];
-		$_vnaam = $_POST['vnaam'];
-		$_straat = $_POST['straat'];
-		$_nummer = $_POST['nr'];	
-		$_postcode = $_POST['postcode'];
-		$_gemeente = $_POST['gemeente'];
+		else {
+		// input uitpakken
+		$_titlu = $_POST['titlu'];
+		$_articol = $_POST['articol'];
+		$_sursa = $_POST['sursa'];
 
 		// Query samenstellen
 		$_query = createSelect(
-			"v_cursisten",
-			array($_naam, $_vnaam, $_postcode, $_gemeente,$_straat,$_nummer), 
-			array("d_naam", "d_voornaam", "d_postnummer", "d_gemeenteNaam", "d_straat", "d_nummer"));
+			"t_articole",
+			array($_titlu, $_articol, $_sursa), 
+			array("d_titlu", "d_continut", "d_sursa"));
 
 		// Query naar DB sturen
 		$_result = $_PDO -> query("$_query");
@@ -55,36 +44,41 @@ try
 		// Resultaat verwerken
 		if ($_result -> rowCount() > 0)
 		{
-			$_output = "";
-			While ($_row = $_result -> fetch(PDO::FETCH_ASSOC))
-			{
-				$_output.=  
-					$_row['d_voornaam'].
-					"&nbsp;&nbsp;".
-					$_row['d_naam'].
-					"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".
-					$_row['d_straat']. 
-					"&nbsp;&nbsp;".
-					$_row['d_nummer'].
-					"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".
-					$_row['d_postnummer']. 
-					"&nbsp;&nbsp;".
-					$_row['d_gemeenteNaam'].
-					"</br>";
-
+			$_output = "<div id='mainHome1'>
+			<br>
+			<a href=articole.html><img id='sageata' src='img/sageata.png' alt='sageata'><span>&nbsp;</span>Înapoi la lista cu articole</a>
+			<br>
+			<div id='articol'>
+				<br>
+				<h1>$_titlu</h1>
+				<br>
+				<br>
+				<p>
+					<br>
+					$_articol
+					<br></br>
+				</p>
+				<br>
+				<br>
+				<a href='' target='_blank'><img src='img/external-link-pngrepo-com.png' alt='external link' width='25px' height='25px' id='link'><span>&nbsp;</span>$_sursa</a>
+			</div>
+			<br><br>";
 			}
-		}
-
+		
 		else
 		{
-			$_output = "Cursist niet gevonden";
+			$_output = "Articolul nu a fost găsit";
 		}
 
-		$_output .= "<br><br><br><br><a href='$_srv'>volgende</a>";
+		$_output .= "<br><br><br><br><a href='$_srv'>următorul</a>";
 	}
-
+		
 //********** output
 	require("../smarty/mySmarty.inc.php");
+	$_smarty->assign('srv', $_srv);
+	$_smarty->assign('titlu', $_titlu);
+	$_smarty->assign('articol', $_articol);
+	$_smarty->assign('sursa', $_sursa);
 	$_smarty->assign('output', $_output);
 	$_smarty->display('basisAppl.tpl');
 

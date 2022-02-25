@@ -11,10 +11,27 @@ $_output = "";
 
 	//********** Input en verwerking
 
-	if (isset($_POST["submit"]))  // formulier klaar maken
+	if (!isset($_POST["submit"]))  // formulier klaar maken
 	{
-
+			$_output = " 
+			<h1>Introdu în baza de date</h1>
+			<form  method='post' action={$srv}>
+			<label>Titlu:</label>
+			<input type='text' name='titlu' placeholder ='titlu'>
+			<br><br>
+			<label>Articol</label> &nbsp;&nbsp;&nbsp;
+								  <textarea name='articol' cols='100' rows='10' id='boodschap'></textarea>
+			
+			<br><br>
+			<label>Sursa:</label>
+			<input type='text' name='sursa' placeholder='sursa' >
+			<br><br>
+			&nbsp;&nbsp;
+			<input type='submit' class='submit' name='submit' value='Adaugă' >
+			</form>";
+	}
 		// input uitpakken
+		else {
 		$_titlu = $_POST['titlu'];
 		$_articol = $_POST['articol'];
 		$_sursa = $_POST['sursa'];
@@ -25,9 +42,10 @@ $_output = "";
 			"t_articole",
 			array($_titlu, $_articol, $_sursa), 
 			array("d_titlu", "d_continut", "d_sursa"));
-
+		
 		// Query naar DB sturen
 		$_result = $_PDO -> query($_query);
+	
 		if ($_result -> rowCount() > 0)
 		{
 			$_output = "<p>Articolul &quot;$_titlu&quot; se află în baza de date!</p>"; 
@@ -43,7 +61,7 @@ $_output = "";
 		}
 			$_query = "SELECT * FROM t_articole ORDER BY d_index DESC";
 
-	
+		}
 		/*	$_output = "<div id='mainHome1'>
 			<br>
 			<a href=articole.html><img id=sageata src='img/sageata.png' alt='sageata'><span>&nbsp;</span>Înapoi la lista cu articole</a>
@@ -68,7 +86,7 @@ $_output = "";
 		 "; */
 			
 		
-	}
+	
 
 	//********** output
 	require("../smarty/mySmarty.inc.php");

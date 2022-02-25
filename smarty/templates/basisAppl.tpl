@@ -41,21 +41,7 @@
         </header>
   
 	<main id="mainArticole">
-		<h1>Introdu în baza de date</h1>
-<form  method='post' action={$srv}>
-<label>Titlu:</label>
-<input type='text' name='titlu' placeholder ='titlu'>
-<br><br>
-<label>Articol</label> &nbsp;&nbsp;&nbsp;
-                      <textarea name='articol' cols='100' rows='10' id='boodschap'></textarea>
-
-<br><br>
-<label>Sursa:</label>
-<input type='text' name='sursa' placeholder='sursa' >
-<br><br>
-&nbsp;&nbsp;
-<input type='submit' class='submit' name='submit' value='Adaugă' >
-</form>
+		
            {$output}
 		
 	</main>
