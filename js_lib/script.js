@@ -4166,7 +4166,7 @@ function theKing1(){
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
-    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     <br><br>
     <h1>Împăratul Sudului - P. 1/2 - Conferința de presă anuală a lui Putin </h1>
     <br><br>
@@ -4272,11 +4272,11 @@ function theKing1(){
     </p>
     <br><br>
     <a href='https://foreignpolicy.com/2021/12/23/putin-press-conference-ukraine-nato/'
-        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+        target="_blank"><img src="../img/external-link-pngrepo-com.png" alt="external link" width="25px"
             height="25px" class="link"><span>&nbsp;</span>Sursa:
             https://foreignpolicy.com/</a>
     <br><br>
-    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     `
 }
 
@@ -4284,7 +4284,7 @@ function theKing2(){
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
-    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     <br><br>
     <h1>Împăratul Sudului - P. 2/2 - Disperarea lui Putin în legătură cu Ucraina</h1>
     <br><br>
@@ -4372,11 +4372,11 @@ function theKing2(){
     </p>
     <br><br>
     <a href='https://www.theguardian.com/world/2021/dec/23/vladimir-putin-russian-president-ukraine-analysis?CMP=Share_AndroidApp_Other'
-        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+        target="_blank"><img src="../img/external-link-pngrepo-com.png" alt="external link" width="25px"
             height="25px" class="link"><span>&nbsp;</span>Sursa:
             https://www.theguardian.com/</a>
     <br><br>
-    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     `
 }
 
@@ -4430,11 +4430,11 @@ function CurteaSuprema(){
 </p>
 <br>
                     <a href="https://www.theguardian.com/us-news/2022/feb/12/joe-biden-supreme-court-pick-short-list?CMP=Share_AndroidApp_Other"
-                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                        target="_blank"><img src="../img/external-link-pngrepo-com.png" alt="external link" width="25px"
                             height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a>
 
                     <br><br>
-                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+                    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     `
 }
 
@@ -4559,11 +4559,11 @@ Alți strategi consideră că Statele Unite ar putea fi mai agresive. Statele Un
 </p>
 <br>
 <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html"
-                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                        target="_blank"><../img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
                             height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a>
 
                     <br><br>
-                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+                    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     `
 }
 
@@ -4571,7 +4571,7 @@ function Mutilarea(){
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
-    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     <br><br></br>
     <h1>Mutilarea genitală feminină - 200 de milioane de femei și un exemplu al nevoii de feminism
                         radical.</h1>
@@ -4819,11 +4819,119 @@ function Mutilarea(){
                     </p>
                     <br>
                     <a href="https://www.theguardian.com/global-development/2022/feb/15/hiding-from-the-cutters-the-fight-to-save-girls-from-mutilation-in-kenya-fgm"
-                        target="_blank"><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                        target="_blank"><img src="../img/external-link-pngrepo-com.png" alt="external link" width="25px"
                             height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a>
 
                     <br><br>
-                    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+                    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
 
     `
+}
+
+function SouthKorea(){
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br><br></br>
+    <h1>Coreea de Sud - Noua generație și o reacție agresivă față de egalitatea de gen</h1>
+                    <br><br>
+                    <p><br>
+                        Săptămâna trecută am vorbit despre Orientul Mijlociu și despre abuzurile de gen cu care se
+                        confruntă femeile de acolo. Acest articol se concentrează asupra Coreei de Sud.
+                        <br><br>
+                        Aș dori să subliniez faptul că în cadrul Mișcării nu ne așteptăm ca femeile să aibă părul scurt
+                        - susținem alegerea lor individuală în această privință. Cu toate acestea, le cerem tuturor să
+                        își ia timp să ia în considerare și să fie conștienți de sexismul din așteptările stereotipice
+                        conform cărora femeile ar trebui să aibă părul lung. Dorim să evidențiem în articolul de mai
+                        jos, legătura dintre misoginism și discriminarea cu care se confruntă femeile cu părul scurt. Un
+                        stereotip și o prejudecată cu siguranță nu se limitează la Coreea de Sud.
+                        <br><br>
+                        Lee Hyo-lin, în vârstă de 29 de ani, a declarat că "feministă" a devenit un cuvânt atât de
+                        murdar încât femeile care poartă părul scurt... riscă ostracizarea.
+                        <br><br>
+                        -------------------------
+                        <br><br>
+                        SEOUL — Au apărut ori de câte ori femeile s-au mobilizat împotriva violenței sexuale și a prejudecăților de gen în Coreea de Sud. Zeci de bărbați tineri, majoritatea îmbrăcați în negru, au ironizat protestatarii, chiuind și scandând "Thud! Thud!" pentru a imita zgomotul pe care spuneau că îl fac "urâtele scroafe feministe" atunci când merg pe jos.
+<br><br>
+                        "Afară cu cei care urăsc bărbații!" au strigat ei. "Feminismul este o boală mintală!"
+                        <br><br>
+                        
+                        Pe străzi, astfel de mitinguri ar fi ușor de respins ca fiind retorica extremă a unui grup marginal. Dar sentimentele antifeministe sunt amplificate online, găsind o audiență vastă care își impune din ce în ce mai mult agenda asupra societății și politicii sud-coreene.
+                        <br><br>
+                        Acești bărbați activiști au vizat orice are iz de feminism, forțând o universitate să anuleze o prelegere a unei femei pe care au acuzat-o că răspândește misandria. Ei au denigrat femei proeminente, criticând-o pe An San, triplă medaliată cu aur la Jocurile Olimpice de la Tokyo, pentru tunsoarea ei scurtă.
+                        <br><br>
+                        Au amenințat companiile cu boicotul, determinând companiile să retragă reclamele cu imaginea unor degete care, în opinia lor, ridiculizează dimensiunea organelor genitale masculine. De asemenea, au luat în vizor guvernul pentru că promovează o agendă feministă, obținând promisiuni din partea candidaților rivali la președinție de a reforma Ministerul Egalității de Gen și al Familiei din țară, vechi de 20 de ani.
+                        <br><br>
+                        Coreea de Sud se confruntă cu un nou tip de corectitudine politică impusă de tineri furioși care se revoltă împotriva oricăror forțe pe care le consideră că subminează oportunitățile - iar feministele sunt, în opinia lor, inamicul nr. 1. Inegalitatea este una dintre cele mai delicate probleme din Coreea de Sud, o națiune cu o incertitudine economică tot mai profundă, alimentată de prețurile galopante ale locuințelor, de lipsa locurilor de muncă și de o diferență tot mai mare de venituri.
+                        <br><br>
+                        "Noi nu urâm femeile și nu ne opunem ridicării drepturilor lor", a declarat Bae In-kyu, în vârstă de 31 de ani, șeful organizației Man on Solidarity, unul dintre cele mai active grupuri antifeministe din țară. "Dar feministele sunt un rău social".
+                        <br><br>
+                        Grupul este vârful de lance al mitingurilor de stradă și conduce un canal YouTube cu 450.000 de abonați. Pentru membrii săi, feministele sunt egale cu cei care urăsc bărbații.
+                        <br><br>
+                        Motto-ul său spunea cândva: "Până în ziua în care toate feministele vor fi exterminate!".
+                        <br><br>
+                        Reacția împotriva feminismului în Coreea de Sud poate părea deconcertantă.
+                        <br><br>
+                        
+                        Coreea de Sud are cea mai mare diferență de salarizare între femei și bărbați dintre țările bogate. Mai puțin de o cincime din legislatorii săi naționali sunt femei. Femeile reprezintă doar 5,2 la sută din membrii consiliilor de administrație ale întreprinderilor cotate la bursă, față de 28 la sută în Statele Unite.
+                        <br><br>
+                        Și totuși, cei mai mulți bărbați tineri din țară susțin că în Coreea de Sud bărbații, nu femeile, sunt cei care se simt amenințați și marginalizați. În rândul bărbaților sud-coreeni în vârstă de 20 de ani, aproape 79 la sută au declarat că sunt victimele unei discriminări grave de gen, potrivit unui sondaj din luna mai.
+                        <br><br>
+                        "Există o cultură a misoginiei în comunitățile online dominate de bărbați, care le prezintă pe feministe ca fiind misandriști radicali și răspândesc teama de feministe", a declarat Kim Ju-hee, 26 de ani, o asistentă medicală care a organizat proteste de denunțare a antifeminiștilor.
+                        <br><br>
+                        Valul de anti-feminism din Coreea de Sud împărtășește multe dintre sloganurile incendiare cu mișcările populiste de dreapta din Occident care colportează astfel de mesaje. Femeile care pledează pentru dreptul la avort sunt etichetate drept "distrugătoare de familie". Feministele nu sunt campioane ale egalității de gen, ci "femei suprematiste".
+                        <br><br>
+                        În Coreea de Sud, "femeile" și "feministele" sunt două dintre cele mai frecvente ținte ale discursului de ură online, potrivit Comisiei Naționale pentru Drepturile Omului din această țară.
+                        <br><br>
+                        Reacția reprezintă o ruptură față de generațiile anterioare.
+                        <br><br>
+                        Bărbații sud-coreeni mai în vârstă recunosc că au beneficiat de o cultură patriarhală care a marginalizat femeile. Cu zeci de ani în urmă, când Coreea de Sud ducea lipsă de orice, de la alimente la bani, era mai probabil ca fiii să fie înscriși în învățământul superior. În unele familii, femeilor nu li se permitea să mănânce de la aceeași masă cu bărbații, iar fetele nou-născute erau numite Mal-ja, sau "ultima fiică". Avorturile în funcție de sex erau frecvente.
+<br><br>
+Pe măsură ce țara s-a îmbogățit, astfel de practici au devenit o amintire îndepărtată. Familiile își adoră acum fiicele. Mai multe femei urmează o facultate decât bărbații și au mai multe oportunități în guvern și în alte domenii, deși persistă un plafon de sticlă semnificativ.
+<br><br>
+"Bărbații în vârstă de 20 de ani sunt profund nemulțumiți, considerându-se victime ale discriminării inverse, supărați că au trebuit să plătească prețul pentru discriminările de gen create în timpul generațiilor anterioare", a declarat Oh Jae-ho, cercetător la Institutul de Cercetare Gyeonggi din Coreea de Sud.
+<br><br>
+Dacă bărbații mai în vârstă vedeau femeile ca având nevoie de protecție, bărbații mai tineri le considerau concurente pe o piață a muncii acerbă.
+<br><br>
+Antifeministele remarcă adesea că bărbații sunt dezavantajați deoarece trebuie să amâne obținerea unui loc de muncă pentru a-și îndeplini serviciul militar obligatoriu. Dar multe femei renunță la forța de muncă după ce nasc, iar o mare parte din sarcinile casnice le revin lor.
+<br><br>
+"Ce vreți mai mult? V-am dat propriul vostru spațiu în metrou, autobuz, parcare", scrie rapperul San E, de sex masculin, în piesa sa din 2018 "Feminist", care are un cult în rândul tinerilor antifeminiști. "Oh, fetele nu au nevoie de un prinț! Atunci plătește jumătate din casă când ne căsătorim".
+<br><br>
+Războaiele de gen au infuzat cursa prezidențială sud-coreeană, văzută în mare parte ca o competiție pentru tinerii alegători. În condițiile în care vocea virulentă a antifeminiștilor este în creștere, niciun candidat major nu se pronunță pentru drepturile femeilor, cândva o cauză atât populară, încât președintele Moon Jae-in s-a autointitulat "feminist" atunci când a făcut campanie electorală în urmă cu aproximativ cinci ani.
+<br><br>
+Yoon Suk-yeol, candidatul Partidului conservator al opoziției, Partidul Puterea Poporului, s-a alăturat mișcării antifeministe atunci când a acuzat ministerul pentru egalitatea de gen că îi tratează pe bărbați ca pe niște "potențiali infractori sexuali". El a promis pedepse mai aspre pentru acuzațiile nedrepte aduse bărbaților de infracțiuni sexuale, în ciuda îngrijorărilor că acest lucru ar descuraja femeile să vorbească.
+<br><br>
+Dar domnul Yoon a recrutat, de asemenea, luna trecută, un lider proeminent în vârstă de 31 de ani al unui grup feminist ca principal consilier de campanie, o mișcare menită să calmeze îngrijorările că partidul său a îndepărtat votanții tineri de sex feminin.
+<br><br>
+Prin lege, dl Moon nu poate candida la realegere. Candidatul Partidului său Democrat, Lee Jae-myung, a încercat, de asemenea, să apeleze la tinerii bărbați, spunând: "La fel cum femeile nu ar trebui să fie niciodată discriminate din cauza sexului lor, nici bărbații nu ar trebui să sufere discriminare pentru că sunt bărbați."
+<br><br>
+Dl Lee vede conflictul de gen în mare parte ca pe o problemă legată de scăderea oportunităților de angajare, comparându-i pe tinerii sud-coreeni cu "puii care se luptă să nu cadă dintr-un cuib aglomerat". "Trebuie să facem cuibul mai mare prin reluarea creșterii", a spus el.
+<br><br>
+Este greu de spus câți bărbați tineri susțin genul de activism extrem de provocator și adesea teatral susținut de grupuri precum "Man on Solidarity". Liderul său înflăcărat, dl Bae, a apărut la un miting feminist recent îmbrăcat ca Joker din benzile desenate "Batman" și purtând un pistol cu apă de jucărie. El a urmărit protestatarii de sex feminin, pretinzând că, după cum a spus el, "omoară muștele".
+<br><br>
+Zeci de mii de fani i-au urmărit acrobațiile transmise în direct pe internet, trimițând donații în bani. În timpul unui talk-fest online din august, dl Bae a strâns nouă milioane de woni (7 580 de dolari) în trei minute.
+<br><br>
+Teama susținătorilor drepturilor femeilor este că ascensiunea anti-feminismului ar putea bloca sau chiar anula progresul greu obținut de Coreea de Sud în ceea ce privește extinderea drepturilor femeilor. În ultimele decenii, acestea au luptat pentru legalizarea avortului și au inițiat una dintre cele mai puternice campanii #MeToo din Asia.
+<br><br>
+Lee Hyo-lin, în vârstă de 29 de ani, a declarat că "feministă" a devenit un cuvânt atât de murdar încât femeile care își poartă părul scurt sau care au la ele un roman scris de o scriitoare feministă riscă să fie ostracizate. Când era membră a unui grup K-pop, ea a spus că colegii bărbați făceau în mod obișnuit comentarii despre corpul ei, ironizând faptul că "a renunțat să mai fie femeie" atunci când s-a îngrășat.
+<br><br>
+"Problema #MeToo face parte din a fi femeie în Coreea de Sud", a spus ea. "Acum vrem să ne exprimăm, dar ei vor să tăcem. Este atât de frustrant".
+<br><br>
+De cealaltă parte a războiului cultural se află tinerii bărbați cu o litanie de nemulțumiri - preocupări care sunt regurgitate la nesfârșit de forumurile dominate de bărbați. Aceștia s-au fixat, în special, pe cazuri limitate de acuzații false, ca o modalitate de a da credibilitate unei agende antifeministe mai largi.
+<br><br>
+Son Sol-bin, un vânzător de mobilă folosită, avea 29 de ani când fosta sa iubită l-a acuzat de viol și răpire în 2018. Trolii online au cerut castrarea sa, a spus el. Mama sa a găsit imagini de la televiziunea cu circuit închis care dovedesc că acuzațiile nu au avut loc niciodată.
+<br><br>
+"Influența feministă a lăsat sistemul atât de părtinitor împotriva bărbaților, încât poliția a considerat mărturia unei femei și o simplă picătură din lacrimile ei drept dovezi suficiente pentru a băga un bărbat nevinovat în închisoare", a declarat domnul Son, care a petrecut opt luni în închisoare înainte de a fi achitat. "Cred că țara a luat-o razna".
+<br><br>
+În timp ce domnul Son se lupta cu lacrimile în timpul unui miting anti-feminist recent, alți tineri au scandat: "Fii puternic! Suntem cu tine!"
+<br><br>
+                    </p>
+
+                    <br><br><a href="https://www.nytimes.com/2022/01/01/world/asia/south-korea-men-anti-feminists.html"
+                        target=_blank><src="../img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a>
+                    <br>
+                    <br>
+                    <a href=articole.html><../img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>`
 }
