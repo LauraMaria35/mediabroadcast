@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-02-25 12:17:52
+/* Smarty version 3.1.31, created on 2022-02-25 22:27:32
   from "/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_6218c8f074d592_58435545',
+  'unifunc' => 'content_621957d4ef44a0_22883314',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'dedd4569578e73cab2a6ad7146f422c66af50435' => 
     array (
       0 => '/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl',
-      1 => 1645791449,
+      1 => 1645827980,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6218c8f074d592_58435545 (Smarty_Internal_Template $_smarty_tpl) {
+function content_621957d4ef44a0_22883314 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -78,6 +78,9 @@ function content_6218c8f074d592_58435545 (Smarty_Internal_Template $_smarty_tpl)
  language="javascript">
 			document.write(copyRight(" lauraciocalau.com"));
 		<?php echo '</script'; ?>
+>
+		<?php echo '<script'; ?>
+ type="text/javascript" src="../js_lib/script.js"><?php echo '</script'; ?>
 >
 	</footer>
   

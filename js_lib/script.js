@@ -33,7 +33,7 @@ let mainArticole = document.getElementById("mainArticole");
 function jurnalismul() {
     mainArticole.innerHTML = `<div id="mainHome1"><div id="articol">
     <br>
-    <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <a href=../html/articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
     <br>
     <br>
     <h1>Jurnalismul și căderea la nivel mondial a democrației</h1>
@@ -79,7 +79,7 @@ function jurnalismul() {
         Între timp, el spune că va face ceea ce fac editorii de ziare: să-și editeze ziarul atâta timp cât va putea. Sau, atâta timp cât îl lasă Vladimir Putin.</p><br><br><br>
         <div><a href=https://www.theguardian.com/world/2021/dec/04/nobel-winner-we-journalists-are-the-defence-line-between-dictatorship-and-war?CMP=Share_AndroidApp_Other><img src="img/external-link-pngrepo-com.png" alt="external link" width="25px" height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.theguardian.com/</a></div><br>
         <br>
-        <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
+        <a href=../html/articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a></div></div>
 `
 
 }

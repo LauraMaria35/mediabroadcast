@@ -50,6 +50,7 @@
 		<script language="javascript">
 			document.write(copyRight(" lauraciocalau.com"));
 		</script>
+		<script type="text/javascript" src="../js_lib/script.js"></script>
 	</footer>
   
 </div>

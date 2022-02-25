@@ -32,10 +32,17 @@ $_output = "";
 	}
 		// input uitpakken
 		else {
-		$_titlu = $_POST['titlu'];
-		$_articol = $_POST['articol'];
-		$_sursa = $_POST['sursa'];
-		
+			$_titlu = $_POST['titlu'];
+			$_titlu = str_replace('&', '&#38', $_titlu);
+			$_titlu = str_replace(',', '&#44', $_titlu);
+	
+			$_articol = $_POST['articol'];
+			$_articol = str_replace('&', '&#38', $_articol);
+			$_articol = str_replace(',', '&#44', $_articol);
+	
+			$_sursa = $_POST['sursa'];
+			$_sursa = str_replace('&', '&#38', $_sursa);
+			$_sursa = str_replace(',', '&#44', $_sursa);
 
 		// Query samenstellen
 		$_query = createSelect(
@@ -54,10 +61,11 @@ $_output = "";
 		{
 			$_query = "INSERT INTO t_articole
 			(d_titlu, d_continut, d_sursa)
-	  VALUES ('$_titlu', '$_continut', '$_sursa')";
+	  VALUES ('$_titlu', '$_articol', '$_sursa')";
 
  $_PDO -> query($_query);
  $_output = "<section id=form><h2>Articolul $_titlu a fost introdus.</h2>";
+ $_output .= "<br><br><br><br><a href='$_srv'>următorul</a>";
 		}
 			$_query = "SELECT * FROM t_articole ORDER BY d_index DESC";
 
