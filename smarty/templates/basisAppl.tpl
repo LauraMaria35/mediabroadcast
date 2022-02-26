@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ro">
 
 <head>
     <meta charset="UTF-8">
@@ -11,7 +11,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <script type="text/javascript" src="../js_lib/copyright.js"></script>
-    <title>6 iunie 2020</title>
+   <script type="text/javascript" src="../js_lib/script.js"></script>
+    <title>Media Broadcast</title>
 </head>
 
 <body>
@@ -50,7 +51,7 @@
 		<script language="javascript">
 			document.write(copyRight(" lauraciocalau.com"));
 		</script>
-		<script type="text/javascript" src="../js_lib/script.js"></script>
+		
 	</footer>
   
 </div>

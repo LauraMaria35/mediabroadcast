@@ -3,20 +3,10 @@ try
 {
 //********** Initialisatie
 	$_srv = $_SERVER['PHP_SELF'];
-$_output = "";
-	// database connection en selection
-	require_once("../connections/pdo.inc.php");
-
-	// maak variabele selectie query
-	require_once("../php_lib/createSelect.inc.php");  
-
-//********** Input en verwerking
-
-	if (!isset($_POST["submit"]))  // formulier klaar maken
-	{
+ 
 			$_output = " 
             <div class='categories'>
-                <h4 onclick='politica()>Politică</h4>
+                <h4 onclick='politica()'>Politică</h4>
                 <h4 onclick='sexism()'>Sexism</h4>
                 <h4 onclick='feminism()'>Feminism</h4>
                 <h4 onclick='gen()'>Identitate de gen</h4>
@@ -40,6 +30,42 @@ $_output = "";
                             <tr>
                                 <th style='width:15%'>Data</th>
                                 <th style='width:85%'>Titlu</th>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='IS_Ucraina' class='pointer' class='titluri'>Împăratul Sudului - Ucraina, război informațional și influență</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='RoevWade' class='pointer' class='titluri'>Roe v. Wade – Florida, West Virginia, și Arizona</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='NordStream2' class='pointer' class='titluri'>Rusia - Nord Stream 2 și pârghia geopolitică</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='Putin2' class='pointer' class='titluri'>Putin - O schimbare de comportament - Partea 2</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='Putin1' class='pointer' class='titluri'>Putin - O schimbare de comportament</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='erainfo' class='pointer' class='titluri'>Era informațională și conflictul modern</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='RusiaDonbass' class='pointer' class='titluri'>Russia – Donbass, și dezinformare</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='sinteza' class='pointer' class='titluri'>Sinteză Foreign Policy – 17 Feb. 2022</td>
+                            </tr>
+                            <tr>
+                                <td>16/02/2022</td>
+                                <td id='PutinBiden' class='pointer' class='titluri'>Vladimir Putin, Joe Biden, și Panium</td>
                             </tr>
                             <tr>
                                 <td>16/02/2022</td>
@@ -1046,69 +1072,10 @@ $_output = "";
                 </div>
             </div>
     </div>";
-	}
-		// input uitpakken
-		else {
-		// input uitpakken
-		$_titlu = $_POST["titlu"];
-		$_titlu = str_replace('&', '&#38', $_titlu);
-		$_titlu = str_replace(',', '&#44', $_titlu);
-
-		$_articol = $_POST["articol"];
-		$_articol = str_replace('&', '&#38', $_articol);
-		$_articol = str_replace(',', '&#44', $_articol);
-
-		$_sursa = $_POST["sursa"];
-		$_sursa = str_replace('&', '&#38', $_sursa);
-		$_sursa = str_replace(',', '&#44', $_sursa);
-
-		// Query samenstellen
-		$_query = createSelect(
-			"t_articole",
-			array($_titlu, $_articol, $_sursa), 
-			array("d_titlu", "d_continut", "d_sursa"));
-
-		// Query naar DB sturen
-		$_result = $_PDO -> query("$_query");
-
-		// Resultaat verwerken
-		if ($_result -> rowCount() > 0)
-		{
-			$_output = "<div id='mainHome1'>
-			<br>
-			<a href=articole.html><img id='sageata' src='../img/sageata.png' alt='sageata'><span>&nbsp;</span>Înapoi la lista cu articole</a>
-			<br>
-			<div id='articol'>
-				<br>
-				<h1>$_titlu</h1>
-				<br>
-				<br>
-				<p>
-					<br>
-					$_articol
-					<br></br>
-				</p>
-				<br>
-				<br>
-				<a href='' target='_blank'><img src='img/external-link-pngrepo-com.png' alt='external link' width='25px' height='25px' id='link'><span>&nbsp;</span>$_sursa</a>
-			</div>
-			<br><br>";
-			}
-		
-		else
-		{
-			$_output = "Articolul nu a fost găsit";
-		}
-
-		$_output .= "<br><br><br><br><a href='$_srv'>următorul</a>";
-	}
 		
 //********** output
 	require("../smarty/mySmarty.inc.php");
 	$_smarty->assign('srv', $_srv);
-	$_smarty->assign('titlu', $_titlu);
-	$_smarty->assign('articol', $_articol);
-	$_smarty->assign('sursa', $_sursa);
 	$_smarty->assign('output', $_output);
 	$_smarty->display('basisAppl.tpl');
 

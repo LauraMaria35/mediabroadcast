@@ -1,30 +1,30 @@
 
 function politica() {
-    window.open('politica.html');
+    window.open('../html/politica.html');
     document.getElementById(container).style.display = "block";
 }
 function clima() {
-    window.open('SchimbariClimatice.html');
+    window.open('../html/SchimbariClimatice.html');
     document.getElementById(container).style.display = "block";
 }
 function sexism() {
-    window.open('sexism.html');
+    window.open('../html/sexism.html');
     document.getElementById(container).style.display = "block";
 }
 function contrafacerea() {
-    window.open('contrafacerea.html');
+    window.open('../html/contrafacerea.html');
     document.getElementById(container).style.display = "block";
 }
 function feminism() {
-    window.open('feminism.html');
+    window.open('../html/feminism.html');
     document.getElementById(container).style.display = "block";
 }
 function gen() {
-    window.open('IdentitateDeGen.html');
+    window.open('../html/IdentitateDeGen.html');
     document.getElementById(container).style.display = "block";
 }
 function diverse() {
-    window.open('diverse.html');
+    window.open('../html/diverse.html');
     document.getElementById(container).style.display = "block";
 }
 
@@ -3627,7 +3627,7 @@ function pandemic() {
 
 }
 
-function transformation1(){
+function transformation1() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -3807,7 +3807,7 @@ function transformation1(){
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>`
 }
 
-function transformation2(){
+function transformation2() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -3897,7 +3897,7 @@ function transformation2(){
                     <a href=articole.html><img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>`
 }
 
-function Desmond1(){
+function Desmond1() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4076,7 +4076,7 @@ function Desmond1(){
     `
 }
 
-function Desmond2(){
+function Desmond2() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4162,7 +4162,7 @@ Arhiepiscopul Desmond Tutu, Despre autor</em>
     `
 }
 
-function theKing1(){
+function theKing1() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4280,7 +4280,7 @@ function theKing1(){
     `
 }
 
-function theKing2(){
+function theKing2() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4380,7 +4380,7 @@ function theKing2(){
     `
 }
 
-function CurteaSuprema(){
+function CurteaSuprema() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4438,7 +4438,7 @@ function CurteaSuprema(){
     `
 }
 
-function Panium(){
+function Panium() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4567,7 +4567,7 @@ Alți strategi consideră că Statele Unite ar putea fi mai agresive. Statele Un
     `
 }
 
-function Mutilarea(){
+function Mutilarea() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4828,7 +4828,7 @@ function Mutilarea(){
     `
 }
 
-function SouthKorea(){
+function SouthKorea() {
     mainArticole.innerHTML = `<div id="mainHome1">
     <div id="articol">
     <br>
@@ -4933,5 +4933,93 @@ Son Sol-bin, un vânzător de mobilă folosită, avea 29 de ani când fosta sa i
                             height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a>
                     <br>
                     <br>
-                    <a href=articole.html><../img id=sageata src="img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>`
+                    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>`
+}
+
+let IS_Ucraina = document.querySelector("#IS_Ucraina");
+IS_Ucraina.addEventListener("click", IS_Ucraina);
+
+function IS_Ucraina() {
+    mainArticole.innerHTML = `<div id="mainHome1">
+    <div id="articol">
+    <br>
+    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+    <br><br></br>
+    <h1>Împăratul Sudului - Ucraina, război informațional și influență</h1>
+                    <br><br>
+                    <p><br>
+                    (comentariu) {Invazia lui Putin în Ucraina, justificată de luni de dezinformare țintită și precedată de un atac cibernetic masiv asupra infrastructurii ucrainene, a început. }
+
+                    ---------------------
+                    
+                    Forțele rusești au declanșat un atac asupra Ucrainei la ordinul lui Vladimir Putin, care a anunțat în zori o "operațiune militară specială", pe fondul avertismentelor liderilor mondiali că aceasta ar putea declanșa cel mai mare război din Europa din 1945 încoace.
+                    
+                    La câteva minute de la scurtul discurs televizat al lui Putin, în jurul orei 5 dimineața, ora Ucrainei, s-au auzit explozii în apropierea marilor orașe ucrainene, inclusiv în capitala Kiev.
+                    
+                    Amploarea atacului rusesc pare să fie masivă. Ministerul ucrainean de Interne a raportat că țara a fost atacată de rachete de croazieră și balistice, Rusia părând să vizeze infrastructura din apropierea unor orașe importante precum Kiev, Harkov, Mariupol și Dnipro.
+                    
+                    Exploziile rachetelor de artilerie au luminat cerul nopții când au început bombardamentele în apropiere de Mariupol, se arată într-o înregistrare video. Un consilier de rang înalt al Ministerului de Interne al Ucrainei a declarat că se pare că trupele rusești ar putea avansa în curând spre Harkov, care se află la aproximativ 30 de kilometri de graniță, și spre portul Odesa de la Marea Neagră, printr-o debarcare amfibie. Localnicii din Kiev au căutat refugiu în adăposturi antiaeriene, în timp ce în afara orașului se auzeau explozii.
+                    
+                    "Putin tocmai a lansat o invazie la scară largă a Ucrainei", a declarat ministrul ucrainean de externe Dmytro Kuleba. "Orașe ucrainene pașnice sunt sub lovituri. Acesta este un război de agresiune. Ucraina se va apăra și va învinge. Lumea poate și trebuie să-l oprească pe Putin. Timpul de a acționa este acum".
+                    
+                    În încercarea de a justifica atacul, Putin a afirmat: "Pe pământurile noastre istorice se creează o anti-Rusia ostilă".
+                    
+                    "Am luat decizia de a desfășura o operațiune militară specială", a spus el, în ceea ce a echivalat cu o declarație de război. El a susținut că aceasta a fost pentru "demilitarizarea și denazificarea" Ucrainei, reluând o temă a propagandei Kremlinului, afirmația falsă că guvernul de la Kiev este controlat de extrema dreaptă.
+                    
+                    "Nu intenționăm să ocupăm Ucraina", a spus el, și a oferit un avertisment înfricoșător pentru alte națiuni.
+                    
+                    "Pentru oricine ar lua în considerare posibilitatea de a interveni din exterior: dacă o veți face, vă veți confrunta cu consecințe mai mari decât oricare altele cu care v-ați confruntat în istorie. Toate hotărârile relevante au fost luate. Sper să mă ascultați", a spus el.
+                    
+                    În timp ce Putin vorbea și erau raportate primele detonări, Consiliul de Securitate al ONU ținea o sesiune de urgență, prezidată chiar de Rusia, care deține președinția rotativă. Aceasta a fost începută de secretarul general al ONU, António Guterres, care a făcut un apel direct: "Domnule președinte Putin - opriți trupele dvs. să atace Ucraina. Dați o șansă păcii. Au murit deja prea mulți oameni".
+                    
+                    Joe Biden a emis o declarație scrisă în care a spus "Rugăciunile întregii lumi sunt alături de poporul ucrainean în această seară, în timp ce suferă un atac neprovocat și nejustificat din partea forțelor militare ruse.
+                    
+                    "Președintele Putin a ales un război premeditat care va aduce pierderi catastrofale de vieți omenești și suferință umană", a declarat Biden. "Rusia este singura responsabilă pentru moartea și distrugerea pe care le va aduce acest atac, iar Statele Unite și aliații și partenerii săi vor răspunde într-un mod unit și decisiv. Lumea va trage Rusia la răspundere".
+                    Scena ofensivei a fost pregătită joi seară, după ce liderii celor două teritorii controlate de Rusia în estul Ucrainei au trimis o cerere oficială către Moscova pentru ajutor militar pentru "a ajuta la respingerea agresiunii forțelor armate ucrainene pentru a evita victimele civile și o catastrofă umanitară în Donbas".
+
+Ca răspuns, președintele Ucrainei, Volodymyr Zelenskiy, s-a adresat video pentru a face apel la ajutorul publicului rus, după ce o încercare de a vorbi cu Putin a eșuat. "Oare "rușii vor războaie? Aș dori foarte mult să răspund la această întrebare. Dar răspunsul depinde de voi", a spus el.
+
+El a promis, de asemenea, că va apăra țara, spunând: "Dacă cineva va încerca să ne ia pământul, libertatea, viețile noastre, viețile copiilor noștri, ne vom apăra. Atacând, ne veți vedea fețele, nu spatele, ci fețele noastre".
+
+Analiștii militari au declarat că se așteaptă ca Putin să își trimită forțele pentru a captura sau înconjura capitala Kiev. Joi seară, în presa de stat rusă au apărut informații potrivit cărora trupele aeropurtate au capturat aeroportul din Boryspil, în apropiere de Kiev.
+
+Rusia părea să vizeze infrastructura militară în loviturile sale timpurii de joi dimineață. Au fost raportate explozii la aerodromuri, la cartierele generale militare și la depozite militare.
+
+"Forțele aeriene ale #Rusiei încearcă să preia controlul asupra aeroportului din #Kiev pentru a... transporta forțe în vederea ocupării" orașului, a scris senatorul american Marco Rubio, membru al comitetului select al Senatului pentru informații. "Un asalt amfibiu asupra orașului portuar cheie #Mariupol este în curs de desfășurare, Forțe terestre care se deplasează acum din Belarus, Crimeea și din #Rusia."
+Această escaladare dramatică marchează a doua oară când Moscova a lansat o incursiune militară semnificativă în Ucraina de când țara a obținut independența față de Uniunea Sovietică în 1991. În 2014, Putin a ordonat soldaților ruși sub acoperire să captureze peninsula Crimeea, pe care Moscova a anexat-o apoi.
+
+Atacul de joi a fost precedat de un atac cibernetic masiv și continuu care a vizat ministerele și băncile din Ucraina, o formă de război hibrid pentru a semăna confuzie.
+
+În săptămânile precedente, Putin a strâns aproximativ 190.000 de soldați în apropierea granițelor Ucrainei, în timp ce liderii europeni făceau naveta între Kiev și Moscova, căutând o soluție diplomatică.
+
+În timpul acumulării, Boris Johnson a avertizat asupra unui "conflict sângeros și prelungit", care își are rădăcinile în anxietatea lui Putin cu privire la invazia NATO de la sfârșitul Războiului Rece, pe măsură ce vechea Uniune Sovietică s-a disipat. "Cred că oamenii trebuie să înțeleagă costul imens în vieți omenești pe care l-ar putea implica acest lucru - nu doar pentru ucraineni, ci și pentru ruși și pentru tinerii ruși", a declarat premierul la 20 februarie.
+
+Conducerea ucraineană, inițial sceptică față de alarma trasă de liderii occidentali, a declarat săptămâna aceasta starea de urgență, a mobilizat 36.000 de rezerviști și a adoptat o nouă lege care le permite ucrainenilor să poarte arme de foc personale.
+
+Starea de urgență, începând de joi, permite autorităților să impună interdicții și restricții de circulație, să blocheze mitingurile și să interzică partidele și organizațiile politice "în interesul securității naționale și al ordinii publice".
+
+De asemenea, Ucraina le-a spus celor aproape 3 milioane de cetățeni ai săi să părăsească Rusia. Ucrainenii reprezintă cea mai mare comunitate din diaspora din Rusia, unde mulți dintre ei au membri de familie și călătoresc pentru a munci.
+
+Evenimentele s-au desfășurat în timp ce țările UE au aprobat noi sancțiuni dure împotriva oficialilor și "propagandiștilor" ruși, impunând înghețarea activelor și interdicții de călătorie ministrului rus al apărării, Serghei Șoigu, purtătorului de cuvânt al Ministerului de Externe, Maria Zakharova, și celor 351 de deputați din Duma care au votat pentru recunoașterea teritoriilor controlate de Rusia în estul Ucrainei.
+
+La Washington, Biden a declarat că permite ca sancțiunile să avanseze împotriva companiei care a construit gazoductul Nord Stream 2 dintre Rusia și Germania, la o zi după ce Germania a suspendat pe termen nelimitat proiectul.
+
+Chiar miercuri, Putin a susținut că este "deschis pentru un dialog direct și onest, pentru căutarea de soluții diplomatice la cele mai complexe probleme". În discursul video rostit cu ocazia Zilei Apărătorului Patriei, el a lăudat, de asemenea, pregătirea de luptă a armatei, adăugând: "Interesele Rusiei, securitatea cetățenilor noștri, nu sunt negociabile pentru noi".
+
+Dar intențiile sale au fost prefigurate în timpul unei reuniuni cu consiliul său de securitate, la 21 februarie, la Moscova, în care a recunoscut așa-numitele republici separatiste Donețk și Luhansk ca fiind independente. Într-un discurs lung și amenințător, el a afirmat, de asemenea, că Ucraina nu este un stat, ci o greșeală istorică făcută de Lenin.
+
+De asemenea, Putin s-a plâns în repetate rânduri de ceea ce el consideră a fi o invadare militară occidentală în Ucraina. Anul trecut, el a publicat un eseu în care susținea că Ucraina și Rusia sunt "un singur popor", divizat în mod artificial de istorie.
+
+În 2014, armata ucraineană s-a prăbușit sub puterea de foc superioară a Rusiei, suferind pierderi serioase într-o bătălie pentru orașul strategic Debaltseve din regiunea Donețk. Cu toate acestea, comandanții ucraineni au declarat că soldații lor sunt mai bine echipați și mai profesioniști decât în urmă cu opt ani și foarte motivați. Ei au prezis un război de gherilă acerb și sângeros.
+<br><br>
+                    </p>
+
+                    <br><br><a href="https://www.theguardian.com/world/2022/feb/24/russia-attacks-ukraine-news-vladimir-putin-zelenskiy-russian-invasion?CMP=Share_AndroidApp_Other"
+                        target=_blank><src="../img/external-link-pngrepo-com.png" alt="external link" width="25px"
+                            height="25px" class="link"><span>&nbsp;</span>Sursa: https://www.nytimes.com/</a>
+                    <br>
+                    <br>
+                    <a href=articole.html><img id=sageata src="../img/sageata.png" alt="sageata"><span>&nbsp;</span>Înapoi la lista cu articole</a>
+                    
+`
 }

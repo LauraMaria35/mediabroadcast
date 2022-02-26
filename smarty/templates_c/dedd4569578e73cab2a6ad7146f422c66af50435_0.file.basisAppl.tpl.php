@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2022-02-25 22:27:32
+/* Smarty version 3.1.31, created on 2022-02-26 07:42:40
   from "/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_621957d4ef44a0_22883314',
+  'unifunc' => 'content_6219d9f0ed9e38_17673908',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'dedd4569578e73cab2a6ad7146f422c66af50435' => 
     array (
       0 => '/Applications/MAMP/htdocs/mediabroadcast/smarty/templates/basisAppl.tpl',
-      1 => 1645827980,
+      1 => 1645861350,
       2 => 'file',
     ),
   ),
@@ -20,10 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_621957d4ef44a0_22883314 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6219d9f0ed9e38_17673908 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ro">
 
 <head>
     <meta charset="UTF-8">
@@ -37,7 +37,10 @@ function content_621957d4ef44a0_22883314 (Smarty_Internal_Template $_smarty_tpl)
    <?php echo '<script'; ?>
  type="text/javascript" src="../js_lib/copyright.js"><?php echo '</script'; ?>
 >
-    <title>6 iunie 2020</title>
+   <?php echo '<script'; ?>
+ type="text/javascript" src="../js_lib/script.js"><?php echo '</script'; ?>
+>
+    <title>Media Broadcast</title>
 </head>
 
 <body>
@@ -79,9 +82,7 @@ function content_621957d4ef44a0_22883314 (Smarty_Internal_Template $_smarty_tpl)
 			document.write(copyRight(" lauraciocalau.com"));
 		<?php echo '</script'; ?>
 >
-		<?php echo '<script'; ?>
- type="text/javascript" src="../js_lib/script.js"><?php echo '</script'; ?>
->
+		
 	</footer>
   
 </div>
