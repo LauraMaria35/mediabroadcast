@@ -5,32 +5,7 @@ try
 	$_srv = $_SERVER['PHP_SELF'];
  
 			$_output = " 
-            <div class='categories'>
-                <h4 onclick='politica()'>Politică</h4>
-                <h4 onclick='sexism()'>Sexism</h4>
-                <h4 onclick='feminism()'>Feminism</h4>
-                <h4 onclick='gen()'>Identitate de gen</h4>
-                <h4 onclick='contrafacerea()'>Contrafacerea</h4>
-                <h4 onclick='clima()'>Schimbări climatice</h4>
-                <h4 onclick='diverse()'>Diverse</h4>
-            </div>
-            <div id=searchBar>
-                <input type='text' id='myInput' onkeyup='myFunction()' placeholder='Search for..'>
-            </div>
-            <div id='mainHome'>
-
-                <div id=listaArticole>
-
-                    <div id='internal'>
-                    </div>
-                    <div id=list>
-
-                        <table id='myTable' width='900'>
-
-                            <tr>
-                                <th style='width:15%'>Data</th>
-                                <th style='width:85%'>Titlu</th>
-                            </tr>
+            
                             <tr>
                                 <td>16/02/2022</td>
                                 <td id='IS_Ucraina' class='pointer' class='titluri'>Împăratul Sudului - Ucraina, război informațional și influență</td>
@@ -1064,20 +1039,13 @@ try
                                 <td class='titluri'>Voting Rights 1/2
                                     July 1 Supreme Court case – Brnovich vs. DNC</td>
                             </tr>
-                            </ol>
-                        </table>
-
-
-                    </div>
-                </div>
-            </div>
-    </div>";
+                            ";
 		
 //********** output
 	require("../smarty/mySmarty.inc.php");
 	$_smarty->assign('srv', $_srv);
 	$_smarty->assign('output', $_output);
-	$_smarty->display('basisAppl.tpl');
+	$_smarty->display('articole.tpl');
 
 }
 
